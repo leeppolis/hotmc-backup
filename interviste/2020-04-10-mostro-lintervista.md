@@ -1,0 +1,51 @@
+---
+layout: interviste
+category: Interviste
+banner: "/assets/uploads/import/sinceramente-mostro.jpg"
+title: "Mostro: l’intervista"
+excerpt: "Sinceramente Mostro, il settimo album ufficiale di Mostro, segna un notevole cambio di paradigma. L’artista romano ha infatti in buona parte abbandonato l’indole distruttiva che ha accompagnato la sua carriera fino ad oggi, dando vita ad un progetto che riesce a concentrarsi sul presente – un presente positivo, grazie ai traguardi raggiunti -, che inaugura…"
+quote: ""
+description: "Sinceramente Mostro, il settimo album ufficiale di Mostro, segna un notevole cambio di paradigma. L’artista romano ha infatti in buona parte abbandonato l’indole distruttiva che ha accompagnato la sua carriera fino ad oggi, dando vita ad un progetto che riesce a concentrarsi sul presente – un presente positivo, grazie ai traguardi raggiunti -, che inaugura…"
+keywords: ""
+date: 2020-04-10T00:00:00.000+01:00
+author: "Riccardo Primavera"
+cover: "/assets/uploads/import/sinceramente-mostro.jpg"
+pagination:
+  enabled: true
+
+---
+
+**_Sinceramente Mostro_, il settimo album ufficiale di Mostro, segna un notevole cambio di paradigma. L’artista romano ha infatti in buona parte abbandonato l’indole distruttiva che ha accompagnato la sua carriera fino ad oggi, dando vita ad un progetto che riesce a concentrarsi sul presente – un presente positivo, grazie ai traguardi raggiunti -, che inaugura anche il cammino per il futuro. Un disco che si chiude con una confessione a cuore aperto, ma che nel mezzo tocca molti argomenti, passando proprio per il già citato futuro – nell’unico pezzo con un featuring, quello di Gemitaiz -, e che parla anche di depressione, paura del successo e rivalsa. Abbiamo intervistato Mostro per scoprire qualcosa in più della sua ultima fatica, pubblicata da Honiro Label, e che presto – una volta finita la situazione d’emergenza nazionale – porterà sui palchi di tutt’Italia.**
+
+**Riccardo Primavera: Partiamo dal principio, da _Sinceramente Mostro_. Come nasce questo titolo? Mi hai sempre dato l’impressione di essere te stesso in tutte le tue canzoni e i tuoi dischi precedenti, in cosa differisce questa rinnovata “sincerità”?**
+
+**Mostro:** La parola sincero sta ad indicare come mi sento io in questo periodo, il che non significa che nei miei dischi precedenti io non lo fossi. Sinceramente Mostro è un album più limpido, come se prima io applicassi un filtro tra quella che è la mia persona e la mia musica. Come se facessi di Mostro un personaggio per fargli dire delle cose che io stesso pensavo, ma che venivano espresse e percepite in maniera amplificata, estrema, teatrale. In questo disco ho voluto essere molto più diretto nella comunicazione, così che tutti, non solo i fan di Mostro, potessero entrare nel mio mood. Inoltre, adesso accetto tutto quello che mi dà la vita, sinceramente: ho imparato a riconoscere le energie positive.
+
+**R.P.: Questo non è il disco in cui dico che mi uccido”: forse il cambiamento che si percepisce meglio all’ascolto del disco è proprio l’abbandono degli istinti autodistruttivi. Ovviamente non intendo che sia un album che parla di arcobaleni e unicorni, ma mi sembra che tu abbia in qualche modo capito che è arrivato il momento di costruire, invece di continuare a distruggere. è così?**
+
+**M.:** Questo disco l’ho scritto con un approccio iniziale completamente diverso rispetto a quello dei precedenti album. Mi sono imposto di dover raccontare il mio presente, perché finalmente mi sono reso conto di essere arrivato a un livello in cui – grazie anche al mio lavoro, a quello che faccio e alla mia carriera come rapper – sono soddisfatto della persona che sono e sono sicuro di me stesso. In questo album, per la prima volta, non volevo assolutamente tornare indietro. Col passato ho fatto finalmente i conti, adesso voglio descrivere come mi sento ora. Ci sono tante cose belle che vale la pena raccontare, senza guardarle con aggressività. Sinceramente Mostro va nella direzione del futuro e parla del mio presente.
+
+**R.P.: Lo spunto alla base di _Britney nel 2007_ è piuttosto interessante: ti sei mai fermato a pensare a cosa ne sarà di Mostro, se un domani non dovessi più fare musica? In Italia è difficile immaginare un rapper nel mainstream oltre una certa età, non c’è quel tipo di base culturale nel grande mercato, qualcosa che in sostanza possa permettere ad un _4:44_ italiano di esistere. Hai mai immaginato la tua vita dopo la musica?**
+
+**M.:** Io mi sono promesso di continuare a fare musica finché la mia ispirazione me lo permette. Finché ne sentirò il bisogno e la necessità seguirò il mio istinto, il giorno in cui avrò la sensazione anche solo di avere leggermente meno energia rispetto a prima, lascerò perdere. Voglio dare a questa musica solo il meglio di me stesso, e se un giorno non sarò in grado di farlo smetterò. Amo troppo l’hip hop per fare un disco brutto. Detto questo non so quando arriverà quel giorno, ma sono dell’idea che se ci credi puoi fare un disco fico anche a 50 anni.
+
+**R.P.: _Un po’ depresso_, sebbene in chiave ironica, tratta un argomento molto sensibile, che negli anni sta diventando sempre più centrale per il mondo dell’intrattenimento, ossia i problemi legati alla salute mentale. Per moltissimo tempo è stato un elemento taboo, ma fortunatamente negli ultimi anni le cose stanno cambiando, e sempre più artisti sono in prima linea per eliminare lo stigma, anche e soprattutto nel rap. C’è un momento nel tuo brano in cui l’ironia però si ferma per un attimo, e c’è una confessione spaventosamente sincera: come ti sei sentito a confessare qualcosa di simile in un brano?**
+
+**M.:** Un po’ depresso è il pezzo di cui sono in assoluto più fiero, per un motivo mio personale: sono finalmente riuscito a dare un senso a quelle giornate acide e inutili, in cui mi sveglio stanco e, appunto, depresso. Sono i giorni in cui non riesco a concludere nulla e non faccio altro che guardare programmi squallidi alla tv, trovando sempre nuove scuse per non vedere altre persone. È un loop continuo. Prima di farci una canzone era una cosa che mi distruggeva, adesso, invece, ho dato un nome a queste sensazioni. Sono contento di essere riuscito a metterle in questa formula, che mi aiuta tantissimo a sdrammatizzare, però il fine della canzone era proprio il voler raccontare questi momenti.  
+Poi, sicuramente, il tema della depressione lo affronto sia nella vita privata sia nelle mie canzoni e l’ho già fatto anche in maniera più seria.
+
+**R.P.: Cosa ti ha ispirato per il toccante storytelling di _Memorie di uno sconfitto, pt.2_?**
+
+**M.:** Memorie di uno sconfitto, pt.2 è il pezzo più deep e intenso dell’album. È uno di quei brani che io stesso devo assimilare. Da due, tre anni avevo questa voglia di scrivere una canzone in cui raccontassi di me che corro, che attraverso le varie fasi della mia vita, attraverso le stagioni. Un giorno poi sono riuscito ad agganciarmi a questa cosa e l’ho portata avanti. Il brano racconta la mia vita attraverso questa corsa e la particolarità è che più si va avanti, più la corsa diventa veloce e tutto comincia ad essere più vago. All’inizio del pezzo, l’estate, sono piccolo, sono calmo e ci sono più punti di riferimento, poi è tutto più confusionario.
+
+**R.P.: _La città_ è il pezzo più atipico del disco, una veste completamente inedita per Mostro. Quando hai sentito il bisogno di scrivere e registrare quella che è a tutti gli effetti una ballad? Come ti sei sentito ad allontanarti così tanto dalla tua comfort zone, arrivando addirittura al cantato vero e proprio?**
+
+**M.:** Negli ultimi anni ho notato che il cantato era una cosa di cui mi stavo privando. Forse non avevo le doti tecniche o forse mi mancava semplicemente quel tipo di mentalità. Ma sentivo che quella era una carta che non stavo sfruttando, la voce. Così, negli ultimi anni mi sono messo a lavorare proprio su questo aspetto. Attraverso La città la mia intenzione è quella di emergere come un’artista in grado di fare cose diverse. Ho voluto che uscisse come singolo perché sento il bisogno di essere ‘solo’ artisticamente, non voglio che la gente mi preceda: sapevo che le persone si aspettavano un certo tipo di rap da me, con un certo tipo di beat, più martellante, più aggressivo. Nei dischi precedenti, nell’era in cui tutti facevano la trap colorata, tranquilla, arrivavo io con Ogni maledetto giorno, un brano super pesante, con trecentomila rime. Ora che tutti si aspettavano quello, sono io che ho deciso di cambiare nuovamente.
+
+**R.P.: “A volte la paura di riuscire è più forte della paura di non riuscire”: cos’è che ti spaventava all’idea di farcela? Cosa temevi sarebbe successo se fossi “riuscito”?**
+
+**M.:** Perché quando riesci in qualcosa, una volta che l’hai raggiunta, devi anche proteggerla. Quindi andare avanti nella propria vita significa anche assumersi delle responsabilità, soprattutto verso se stessi. Ed è questo che per molto tempo mi ha spaventato, fino a quando non capisci che la paura non è nulla rispetto a quando sia necessario crescere.
+
+**R.P.: _Fuck life_ è senza ombra di dubbio uno dei pezzi più maturi della tua discografia, soprattutto dal punto di vista lirico. è il brano che dà tutto un altro senso alle riflessioni e all’ascolto del disco; una sorta di lettera a cuore aperto, il tipo di lettere che potrebbe concludersi proprio con un “sinceramente, Mostro” in chiusura. Com’è nato come pezzo? E perché hai deciso di metterlo proprio in chiusura?**
+
+**M.:** È un pezzo scritto a cuore aperto, in cui continuo il racconto del mio percorso di ricrescita. In aggiunta a questo, io sono molto fan del rap, della mentalità rap e credo che, per quanto questo genere possa evolversi, ci siano delle formule che rimarranno immortali. Una di queste è proprio il pezzo con il campione in cui non si fa il ritornello ma si parla. Era un sacco di tempo che volevo fare una cosa del genere e, visto il tiro del disco – in cui parlo molto di me stesso e accetto tutto quello che succede – mi sembrava il momento adatto per poter fare un brano di questo tipo. Fuck Life è proprio uno degli ultimi brani che ho scritto, per chiudere tutto quanto il cerchi.

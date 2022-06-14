@@ -1,0 +1,22 @@
+---
+layout: articoli
+category: Articoli
+banner: "/assets/uploads/import/taglioAlta_001-660.jpg"
+title: "Nuraghes S’Arena, il cortometraggio con protagonista Salmo, debutta su Paramount Channel"
+excerpt: "C’eravamo anche noi, ieri sera, alla proiezione per la stampa di Nuraghes S’Arena, il corto diretto da Mauro Aragoni e interpretato da Salmo nel ruolo del protagonista. E per raccontarvelo partiamo dalla fine, ovvero dal momento in cui Salmo e il regista, rispondendo alle domande dei giornalisti in sala, hanno spiegato qual è stato il [&hellip"
+quote: ""
+description: "C’eravamo anche noi, ieri sera, alla proiezione per la stampa di Nuraghes S’Arena, il corto diretto da Mauro Aragoni e interpretato da Salmo nel ruolo del protagonista. E per raccontarvelo partiamo dalla fine, ovvero dal momento in cui Salmo e il regista, rispondendo alle domande dei giornalisti in sala, hanno spiegato qual è stato il [&hellip"
+keywords: ""
+date: 2017-03-16T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import/taglioAlta_001-660.jpg"
+pagination:
+  enabled: true
+
+---
+
+C’eravamo anche noi, ieri sera, alla proiezione per la stampa di _Nuraghes S’Arena_, il corto diretto da Mauro Aragoni e interpretato da Salmo nel ruolo del protagonista. E per raccontarvelo partiamo dalla fine, ovvero dal momento in cui Salmo e il regista, rispondendo alle domande dei giornalisti in sala, hanno spiegato qual è stato il budget totale per la produzione di questi venti minuti di girato: 7.000 euro. Meno di quello che una major spende di solito per un videoclip da tre minuti, insomma. Perché tutto questo è straordinario? Semplice: perché per costumi ed effetti speciali, _Nuraghes S’Arena_ non ha praticamente niente da invidiare a Game of Thrones – ovvero, la produzione televisiva più costosa di sempre.
+
+Ambientato in Sardegna all’epoca della civiltà nuragica, nell’età del bronzo (attorno al 3500 a.C.), è un fantasy che però ricalca fedelmente tutti i dettagli che gli archeologi hanno potuto estrapolare dai ritrovamenti che hanno fatto sull’isola. Un giovane guerriero deve affrontare forze oscure e antiche maledizioni dopo aver rifiutato di sottomettersi alla pratica del geronticidio (molto comune ai tempi, consisteva nel sacrificare gli anziani agli dèi), battendosi nell’arena in una lotta all’ultimo sangue in cui un solo uomo sopravviverà e verrà poi divinizzato. Gli effetti speciali sono clamorosamente realistici e splatter, e tutti i costumi, le armi e gli oggetti di scena sono stati ricreati fedelmente partendo da zero e con materiali degni di un kolossal hollywoodiano. “Se avessimo ambientato la storia al tempo degli antichi romani avremmo potuto affittarli”, spiegano, “ma volevamo fare qualcosa che parlasse della nostra isola, della nostra storia. Abbiamo ricreato i costumi e le armi dell’epoca basandoci sui cosiddetti bronzetti, delle statuette di bronzo risalenti all’epoca nuragica, quindi partendo praticamente da zero”. Salmo recita senza dire una parola, un omaggio a molti film di genere, ma risulta perfettamente credibile nel ruolo: “La parte più difficile è stata recitare con l’altro attore che interpreta il coprotagonista. Nella versione finale del corto è stato doppiato, ma sul set recitava in italiano con un pesantissimo accento inglese. Era davvero difficile restare serio quando diceva le sue battute!” scherza.
+
+Finanziato da Lebonski, la società creata da Salmo per i suoi progetti e i suoi tour, il corto si chiude con un clamoroso cliffhanger: “La speranza è quello di trasformarlo in un film vero e proprio. Abbiamo voluto dimostrare che non servono grandi budget per fare un prodotto di grandissima qualità, e ora vorremmo che qualcuno credesse in questo progetto quanto ci abbiamo creduto noi e pensasse in grande quanto noi”. Sicuramente qualcuno c’è stato: Paramount Channel, che lo manderà in onda in prima assoluta questa domenica 19 marzo alle ore 23.30 (canale 27 del digitale terrestre). “Quando lo abbiamo visto, siamo letteralmente impazziti: doveva essere nostro” spiega il presidente di Paramount Italia. E’ la prima volta che un prodotto indipendente di questo tipo approda sul network, che di solito è specializzato in serie e film americani e made in Hollywood: che sia un segno del destino? Giudicati voi domenica sera e intanto date un occhio qui sopra per il trailer, e [**qui**](http://nuraghesmovie.com/) per avere più info.

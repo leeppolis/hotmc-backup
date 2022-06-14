@@ -1,0 +1,74 @@
+---
+layout: interviste
+category: Interviste
+banner: "/assets/uploads/import/raige-640x640.jpg"
+title: "Raige: l’intervista"
+excerpt: "Per la prima volta, negli ultimi anni, al rap italiano sta succedendo la stessa cosa che è successa al rap americano – e prima di lui al rock, al blues, al gospel e a tutti i grandi generi musicali della storia: sta creando dei derivati. Se negli USA ha dato origine a miriadi di varianti,…"
+quote: ""
+description: "Per la prima volta, negli ultimi anni, al rap italiano sta succedendo la stessa cosa che è successa al rap americano – e prima di lui al rock, al blues, al gospel e a tutti i grandi generi musicali della storia: sta creando dei derivati. Se negli USA ha dato origine a miriadi di varianti,…"
+keywords: ""
+date: 2016-09-30T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import/raige-640x640.jpg"
+pagination:
+  enabled: true
+
+---
+
+**Per la prima volta, negli ultimi anni, al rap italiano sta succedendo la stessa cosa che è successa al rap americano – e prima di lui al rock, al blues, al gospel e a tutti i grandi generi musicali della storia: sta creando dei derivati. Se negli USA ha dato origine a miriadi di varianti, alcune splendide e altre un po’ meno (vedi hip hop-soul e reggaeton, forse il migliore e il peggiore sottoprodotto di questa tendenza), da queste parti per ora ci fermiamo soprattutto a due filoni: la cosiddetta trap italiana, parecchio discussa per vari motivi che [non stiamo a ripetere](https://hotmc.com/sfera-ebbasta-la-trap-non-e-piu-rap-e-gia-unaltra-cosa/), e dell’ottimo pop. E Raige è l’esempio perfetto di come, partendo da livelli molto alti come mc, sia possibile creare qualcosa di nuovo, piacevole e originale anche nel panorama spesso stantìo della musica leggera italiana. Senza preoccuparsi troppo di quello che avrebbe pensato la gente, ha seguito il suo cuore e i risultati non si sono fatti attendere, sia in termini di successo che in termini di soddisfazione personale: quando lo incontriamo nella sede di Warner, la sua casa discografica, ha un’espressione felice e rilassata che è difficile vedere sul volto di un artista alla fine di un lunghissimo press day. Il suo ultimo album, _Alex_, è uscito a inizio settembre: è un lavoro molto personale e vissuto, che ovviamente è molto lontano da quello che faceva agli esordi della sua carriera, ma nonostante questo non è qualcosa di _completamente_ diverso: è comunque in maniera molto evidente la prosecuzione di un gran bel percorso.** 
+
+**Blumi: Nella press release del tuo album è citata una tua frase: “Non ho mai fatto un rap che mi tenesse stretto dentro dei canoni. Quando mi sono reso conto che lo schiavo sotto padrone l’ho già fatto per troppo tempo, ho capito di potermi prendere la responsabilità di provare a fare quello che più mi piace”. Cosa intendevi esattamente?**
+
+**Raige:** Diciamo che io ho sempre avuto sospesa sulla testa la spada di Damocle di _Tora-ki_ (_album collaborativo di Raige e Zonta uscito nel 2006, ndr_) che in qualche modo è diventato un disco importante. Non so neanche esattamente perché, tra l’altro, perché quando è uscito se lo erano cagato in pochi; e sono il primo ad ammetterlo, io dico pane al pane e vino al vino, la realtà dei fatti era proprio questa. Ma io e Zonta eravamo convinti di avere fatto un piccolo gioiello, in cui su 16 tracce – intro e outro compresi – c’erano qualcosa tipo 12 ritornelli cantati. Cantare mi è sempre piaciuto, insomma, anche se ai tempi era una cosa che facevo molto ingenuamente: quella componente ha sempre fatto parte della mia musica.
+
+**B: E riguardo all’essere “schiavo”? È letterale o metaforico?**
+
+**R:** Lo sono stato, nel vero senso della parola. Ci ho messo moltissimi anni ad arrivare dove sono adesso: è da relativamente poco che ho potuto permettermi il lusso di trasformare la musica nel mio mestiere. Prima era un hobby remunerativo, ma fino al 2011 ho sempre lavorato dodici o tredici ore al giorno. Oggi posso finalmente fare quello che ho sempre sognato, ed è bellissimo: quando ero sotto padrone ero talmente esausto che arrivavo a casa e spegnevo il cervello, mentre invece adesso penso sempre al mio lavoro, perché è una cosa che mi rende davvero felice. Non mi sento più vincolato, non ho più paura di fare quello che mi piace: ormai sono qui e voglio andare fino in fondo. Sono cresciuto: eccomi qui, nel bene e nel male.
+
+**B: Che differenza c’è, per te, quando scrivi un pezzo rap e quando scrivi una canzone vera e propria?**
+
+**R:** Un tempo pensavo di essere un genio perché riuscivo ad esprimere un concetto usando 400 parole, incastrandole tra di loro e mettendoci decine di figure retoriche diverse. Adesso, in realtà, penso che il vero genio spieghi lo stesso concetto in 40 parole, magari di uso comune in modo che possa capirti chiunque, qualunque sia il suo livello di istruzione. La differenza tra rap e canzone, secondo me, è che con la canzone hai meno spazio per dire quello che vuoi.
+
+**B: Come riesci a convivere con questo limite di spazio? Ci sono tecniche ninja che hai adottato per riuscire a scrivere il tipo di pezzo che scrivi oggi?**
+
+**R:** Assolutamente no! (_ride_) È stata una cosa graduale, un processo interiore. In passato avevo già fatto degli esperimenti: non voglio svelare per chi, ma già in tempi non sospetti mi era capitato di scrivere per alcuni cantanti come ghostwriter. Scoprire di essere in grado di farlo anche per me è stata un’emozione.
+
+**B: Al di là dei testi, invece, come ti approcci alla parte musicale?**
+
+**R:** Per _Alex_ ho lavorato con un team di persone che mi hanno aiutato su questo aspetto, e che non smetterò mai di ringraziare per come mi hanno aiutato a capire la musica a 360 gradi. Io suono la chitarra da autodidatta, quindi molte canzoni partivano da me in camera a strimpellare qualche provino e a buttare giù le idee. A svoltare la situazione sono stati Filippelli e Milani, un duo che ha reso poi il disco quello che è: un prodotto fresco, spontaneo, che però ha anche una bella knowledge dietro, perché loro sono due musicisti con le palle quadrate.
+
+**B: Origliando la tua precedente intervista sentivo che ti sei divertito ad abbinare testi malinconici a melodie allegre…**
+
+**R:** Per forza! (_ride_) Mi rendo conto di scrivere spesso da preso male, per cui per alzare la fruibilità delle mie canzoni ho pensato a questo stratagemma. Alla fine, è inutile raccontarci storie: il primo motivo per cui ciascuno di noi fa musica è perché spera di arrivare alla gente, e se questo sistema mi aiuta, perché no!
+
+**B: Non sei ovviamente l’unico ad aver cercato di unire lo spessore del rap alla leggerezza della melodia: negli ultimi anni sia tu che Ghemon, Coez e Nesli siete andati in quella direzione. Pensi che voi tre abbiate qualcosa in comune, oppure ciascuno è un mondo a sé?**
+
+**R:** Sicuramente abbiamo qualcosa in comune: tutti scriviamo bene, in generale molto meglio della media del pop italiano, perché le nostre radici affondano nel rap. Insomma, arriviamo tutti dalla stessa matrice e abbiamo lo stesso approccio: sono convinto che se un qualche interprete di musica leggera italiana provasse a ricantare uno dei nostri pezzi, capirebbero tutti immediatamente che non è stato scritto all’interno di quel mondo lì, ma che proviene dal nostro ambiente. Detto questo, però, tra di noi siamo molto diversi. Coez tra i nomi che mi hai citato è quello che preferisco: lui per me rappresenta proprio la scuola cantautorale romana, quella un po’ goliardica, che adoro ma che è molto lontana da quello che faccio io. Nesli credo sia più convenzionalmente pop, mentre Ghemon forse è più indie, a partire dalla scelta dei suoni.
+
+**B: A proposito di musica leggera italiana, nell’album c’è anche una collaborazione con Marco Masini, molto riuscita tra l’altro. Com’è nata?**
+
+**R:** Premessa: nostro padre in macchina praticamente non ascoltava altro che _Il cielo della vergine_, perciò sia per me che per Ensi Masini è un mito indiscusso. Il suo modo di scrivere, oltretutto, è molto vicino al rap: basti pensare a canzoni come _Bella stronza_, _Vaffanculo_, _Cenerentola innamorata_… E difatti, insieme a Max Pezzali, è uno dei cantanti italiani anni più amati da chi ascolta rap. L’incontro è avvenuto l’anno scorso, quando sono andato da Red Ronnie per promuovere l’uscita di _Whisky_: come da tradizione del programma mi hanno chiesto di fare un duetto con un altro artista, e visto che in Warner il fatto che io fossi suo fan era di dominio pubblico, hanno pensato di farmelo fare con lui. Abbiamo fatto insieme _Principessa_ – tra l’altro la performance è stata un gran casino, perché quella canzone è un tempo composto, quindi rapparci sopra non è per niente facile – ed è nata un’amicizia. Poco dopo mi ha chiamato per chiedermi di ricantare insieme a lui Bella stronza su un suo progetto, e io ne ho approfittato per chiedergli se gli andava di cantare con me questo pezzo che avevo scritto insieme a Davide Simonetta, il mio chitarrista, e che mi immaginavo proprio cantato da lui in uno scenario apocalittico, in mezzo al deserto, con un fungo atomico sullo sfondo… (_ride_) Sono stato felicissimo che abbia accettato.
+
+**B: Cambiando argomento, molte delle tracce di _Alex_ hanno un doppio significato: in apparenza sembrano semplici canzoni d’amore, ma a un ascolto più attento potrebbero anche essere interpretate come una critica più profonda alla società di oggi. È il caso di _Non c’è niente da ridere_, ad esempio. È davvero così?**
+
+**R:** È così, in effetti. Da una parte le donne sono sempre state figure di riferimento per me – sono cresciuto con mia madre, è grazie a lei se sono ciò che sono – ma dall’altra è ovvio che la chiave di lettura non può essere solo quella. Non c’è niente da ridere l’ho scritta interamente io, musica e testo, ed è nata due sere prima che chiudessi il disco: è il mio pezzo preferito, in un mondo utopico sarebbe l’unico singolo possibile per me! Come slogan lo vedo perfetto per la società di oggi: se ti guardi intorno non c’è niente da ridere, però alla fine ne ridiamo insieme. E mi piace molto anche come è costruita la canzone, con una figura retorica ricorrente… Però non svelo di più, così la gente la ascolta! (_ride_)
+
+**B: Tornando alle figure femminili, hai dedicato _Nemmeno il buio_ alla tua compagna e soprattutto a tua mamma, che è scomparsa qualche mese fa. Non è ovviamente un mistero che sia tu che Ensi foste molto legati a lei: le avevate dedicato anche _Il mare se ne frega_, uno dei pezzi più struggenti degli OneMic…**
+
+**R:** Il testo di _Il mare se ne frega_ l’avevo scritto io, anche se poi l’avevo fatto cantare agli altri due OneMic. È diventata una piccola hit del rap italiano, ancora oggi la canto ai miei concerti, però per quanto mi riguarda una sola canzone non bastava: se ne meritava un’altra. Anche perché scrivere mi aiuta a psicoanalizzarmi e a differenza della vera psicanalisi, non costa niente! Ho comunque cercato di rendere _Nemmeno il buio_ meno personale possibile: era già un argomento molto difficile, quando scrivi di temi del genere rischi di diventare subito stucchevole. Volevo dare una dignità a quel pezzo, volevo che tutti potessero immedesimarcisi: credo di esserci riuscito perché, per quanto sia un brano molto cupo e sia uscito in estate quando tutti cercano canzoncine allegre, sta andando molto bene. Ne sono fiero.
+
+**B: Restando in tema OneMic e famiglia, una domanda in due parti. Parte 1, la più ovvia: ci sarà mai una reunion vera e propria degli OneMic?**
+
+**R:** Ci vogliamo tanto bene, siamo molto amici, uno di loro è addirittura mio fratello: insomma, non mancano i presupposti. Ovviamente, però, siamo in un periodo in cui tutti noi abbiamo delle responsabilità e dei contratti in essere che vanno onorati. Trovare il tempo e lo spazio per fare un disco insieme (cosa che sicuramente mi farebbe piacere, perché il gruppo è stata una parte molto importante della mia vita) è difficile: non me la sento di dire che ci sarà un ritorno a breve, perché mentirei. Però abbiamo fatto un concerto insieme quest’estate a Torino, ed è stato bellissimo: c’è sempre la stessa sintonia e lo stesso affetto. Siamo cresciuti molto, però, e artisticamente siamo ormai molto diversi l’uno dall’altro: trovarci a metà strada adesso probabilmente sarebbe uno stupro musicale… C’è bisogno di tempo!
+
+**B: Passiamo alla parte 2: oltre a te e ad Ensi anche il più piccolo dei tre fratelli Vella (aka Lil’Flow) rappa. A un progetto tutti e tre insieme ci avete mai pensato?**
+
+**R:** Avevamo pensato a farlo io e Ensi, perché nonostante musicalmente la distanza tra di noi sia abissale, c’è comunque una grande vicinanza in quello che scriviamo. Come mc lo ammiro tantissimo: lui deve fare quella roba, perché in Italia è il portabandiera più autorevole di un certo tipo di rap, è una questione di credibilità e capacità, sarebbe competitivo anche all’estero. Il piccolo Vella, però, in questo momento deve lavorare ancora un po’ sulle sue gambe! È già fortissimo, mega hardcore, pura scuola torinese: tiene benissimo il palco, infatti apre lui i miei concerti. Lo porto con me in tour ogni volta che è possibile.
+
+**B: Ultimissima domanda: hai delle idee molto interessanti sull’uso dei social, ci racconti la tua visione?**
+
+**R:** Premessa: credo che dall’avvento di Internet in poi le cose siano degenerate un po’, nel senso che la rete ha in qualche modo appiattito le cose, rendendo gli artisti tutti uguali e intercambiabili e assegnando lo stesso valore a cose molto diverse. Io vorrei riportare la musica al centro, tant’è che anche i miei instore si aprono sempre con un live in acustico: so che per i fan la foto e l’autografo sono importanti, ma la musica deve essere presente anche in questo contesto, anche se solo per tre canzoni. Lo stesso vale per chi ha deciso di comprare l’album in un periodo in cui potrebbe tranquillamente rubarlo scaricandolo illegalmente: va premiato. Qualche giorno prima dell’uscita di _Alex_ abbiamo pubblicato un numero di telefono su Facebook: inviando la ricevuta del pre-order a quel numero via Whatsapp, in cambio mandavo in regalo Il sole quando piove, una canzone in versione unplugged che finora avevo solo pubblicato in streaming sui miei social.
+
+**B: E eri tu personalmente a rispondere ai messaggi su Whatsapp?**
+
+**R:** Qualche volta sì, un paio di volte ho anche risposto a qualche telefonata! (_ride_) In realtà nel mio team 011 c’è una persona, Chiara – approfitto per salutarla! – che si occupa tra le altre cose anche di concretizzare le mie idee pazze. In generale, comunque, per me l’importante è che anche l’interazione social metta sempre la musica sotto i riflettori. Ci tengo molto a gestire la cosa personalmente, non ho social media manager o staff; anche perché così posso prendermela solo con me stesso se faccio qualche cazzata!

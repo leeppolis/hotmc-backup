@@ -1,0 +1,40 @@
+---
+layout: interviste
+category: Interviste
+banner: "http://hotmc.com/wp-content/uploads/2014/09/TURBOFUNK.tif"
+title: "Body Heat (Back to Boogie): ascolta i mixati in esclusiva di Bassi Maestro e dj Filo!"
+excerpt: "Body Heat è un’etichetta votata alle nuove declinazioni del funk, fondata nel 2012 da Rocoe del collettivo Reset!, già noto alla scena hip hop italiana non solo in quanto fratello minore di Fritz Da Cat, ma soprattutto in quanto writer (militava nella leggendaria crew milanese FIA) e dj, attività che svolgeva già in giovanissima età. Da…"
+quote: ""
+description: "Body Heat è un’etichetta votata alle nuove declinazioni del funk, fondata nel 2012 da Rocoe del collettivo Reset!, già noto alla scena hip hop italiana non solo in quanto fratello minore di Fritz Da Cat, ma soprattutto in quanto writer (militava nella leggendaria crew milanese FIA) e dj, attività che svolgeva già in giovanissima età. Da…"
+keywords: ""
+date: 2014-09-24T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "http://hotmc.com/wp-content/uploads/2014/09/TURBOFUNK.tif"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2014/09/FLYER.jpg)[](https://hotmc.com/wp-content/uploads/2014/09/TURBOFUNK.tif)
+
+**Body Heat è un’etichetta votata alle nuove declinazioni del funk, fondata nel 2012 da Rocoe del collettivo Reset!, già noto alla scena hip hop italiana non solo in quanto fratello minore di Fritz Da Cat, ma soprattutto in quanto writer (militava nella leggendaria crew milanese FIA) e dj, attività che svolgeva già in giovanissima età. Da questo sabato 27 settembre Body Heat è anche un party, che ha luogo al [75 Beat di Milano](http://www.75beat.com/event/body-heat-back-to-boogie/ "http://www.75beat.com/event/body-heat-back-to-boogie/"): da quello che ci è stato raccontato, promette di essere uno dei più interessanti della prossima stagione. Per saperne di più abbiamo posto qualche domanda a Rocoe in persona, ma visto che le parole in fondo contano molto meno della musica, vi suggeriamo di ascoltare anche i mixati che Bassi Maestro e dj Filo, che insieme a diversi altri nomi noti saranno i resident dj della serata, hanno regalato ai lettori di Hotmc.** 
+
+**Blumi: Come si è evoluto il funk nel corso degli anni?**
+
+**Rocoe:** Innanzitutto si è evoluto su se stesso dai tardi anni ’60 in poi, dando vita a una moltitudine di sottogeneri e mood. James Brown con i JBs non c’entrava nulla con Sly Stone o, chessò io, con i Parliament/Funkadelic o altri gruppi contemporanei. Erano diversi il suono ed il messaggio. Dalla metà dei ’70 qualcuno ha iniziato ad aumentare i bpm e a suonare il funk esclusivamente sulla cassa dritta, così è nato il discofunk; verso fine ’70 ed inizio ’80 sono cambiati completamente gli strumenti di produzione e il funk è diventato electrofunk. Zapp & Roger, per fare un nome, anzi IL nome. Ma credo la cosa importante da sapere sia il fatto che il funk è una delle colonne portanti della musica contemporanea. Senza il funk potremmo scordarci il rap, la disco e tantissimo pop del giorno d’ oggi. Dico davvero, non ho idea di quanta musica (anche bianca!) moderna si regga sul pattern di Funky Drummer e sul concetto di loop che prima di James Brown / JBs non esisteva.
+
+**B: Body Heat e Reset! hanno diffuso negli anni in Italia il termine TURBOFUNK , ma di cosa si tratta esattamente?**
+
+**R**: Tecnicamente, è il mashup in 4/4 di tanti generi che hanno influenzato me e RESET! : funk , disco, house, electro, big beat e rap dei ’90 in alcuni elementi – penso ai tagli dei samples che faceva Dj Premier, che avevano una sensibilità completamente diversa da quella che facevano nello stesso periodo i Daft Punk o i Cassius o altri esponenti del French Touch, altro sottogenere che ha influenzato l’ estetica Turbofunk. Puoi vederla anche come EDM ‘colta’ ed educata . Fa’ casino, ma con stile! Devo dire che poi ognuno dà la sua interpretazione leggermente diversa, chi se la sente più incazzata e chi più stilosa, chi più disco, chi più electro. Io, per esempio, sono molto legato agli elementi classici del funk e ai suoi suoni (la chitarrina, il basso slappato, gli stab di fiati, il clav) e mi sono ritrovato a confrontarmi recentemente con Mace che ha una visione molto ampia del genere e comprende nella definizione molte altre cose che io avverto come un corpo estraneo. Insomma, ognuno ha la propria versione. Recentemente un ragazzo mi ha mandato un demo di house palesemente deep/garage , accompagnato dalla dicitura “Ecco la mia nuova traccia turbofunk, la facciamo uscire su Body Heat”? Quindi diciamo che un poco flessibili almeno dobbiamo esserlo. Sicuramente è musica da ballo e, generalmente, divertente, senza essere ‘cheesy’ .
+
+**B: Come nasce l’idea di questa serata e come hai reclutato le persone che vi prendono parte?**
+
+**R**: La serata nasce per far conoscere la label, il suono della label, gli artisti che vi sono legati, ma soprattutto per creare un party dove suonare la musica che ci piace in un ambiente intimo, che si discosti dalla big room in cui ho suonato negli ultimi anni con RESET!. C’è una vaga finalità educativa: mi piacerebbe far conoscere, specie ai giovani, un trentennio di musica da ballo perlopiù caduto nel dimenticatoio, ma senza il quale non avremmo la musica di oggi. Per il resto, è una festa, con tutto ciò che implica: il ballo, il sudore, lo struscio dei corpi…. Resident assieme a me saranno Bassi e Dj Filo. La collaborazione è nata casualmente l’anno scorso, durante il primo party Body Heat dove Bassi ha suonato in sala 2, spaccando TUTTO. Quest’ anno stavo cercando dei partner per la serata e ho scelto di coinvolgere Bassi in quanto dj di lungo corso, espertissimo di dancefloor anziché di pose e marketing. Credo anche sia importante dare un segnale in questa fase storica in cui i dj vengono coinvolti in base a quanto sono belli, mediatizzati, marketizzati, a come vestono… VAFFANCULO ! Vogliamo ballare su musica stilosa e ben suonata, non posare
+
+**B: Ci sarà anche un corner dedicato ai musicisti che vogliono prendere parte a una jam session, una cosa che raramente succede nelle serate in Italia. Perché ci tenevi ad averlo?**
+
+**R:** La musica suonata sta scomparendo, i ragazzi di oggi in genere vogliono fare i dj e produrre con il computer. Niente di male, se non fosse che secondo molte ricerche stiamo mandando in fumo un patrimonio di decenni di evoluzione di musica suonata che, almeno a parere mio, sarebbe un peccato buttare via. La maggior parte dei musicisti che conosco, inoltre , rispetto ai dj hanno una tendenza ad essere più real, ovvero a lavorare sulla musica più che sull’immagine: è a loro che vorrei dare la possibilità di esprimersi, oltre che dare al pubblico la possibilità di ascoltare/ballare qualcosa di diverso. Come ho già detto poco fa sopra, la musica è diventata tutto fuorché musica: c’è il marketing, le pr, il social media… E la maggior parte della musica pop è un prodotto di plastica, omologato. Non voglio oppormi al progresso, ma se penso che nell’80 il pop era Michael Jackson prodotto da Quincy Jones, e ora è Justin Bieber, permettimi di dispiacermi e di sperare che creare questo corner sia un piccolo passo verso la direzione che vorrei.
+
+**B: Quali sono i prossimi progetti targati Body Heat?**
+
+**R**: Traghettare il funk nel futuro! Sulla navicella spaziale ci sono già parecchi EP pronti per uscire; nei prossimi mesi darò un colpo al cerchio ed uno alla botte, release di Turbofunk ultramoderno si alterneranno a uscite più legate al mondo della (nu) disco e boogie. Ho persino in canna la release di una band che suona il funk come lo si faceva negli anni 70! Parallelamente continueremo a fare festa a Milano, ogni ultimo sabato del mese al 75 Beat, mentre cerchiamo di diffondere il seme fuori da Milano, Lombardia, Italia…
