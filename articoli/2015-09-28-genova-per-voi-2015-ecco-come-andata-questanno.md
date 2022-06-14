@@ -1,0 +1,36 @@
+---
+layout: articoli
+category: Articoli
+banner: "/assets/uploads/import/yo1.jpg"
+title: "Genova Per Voi 2015: ecco com’è andata quest’anno"
+excerpt: "Anche questa edizione 2015 del talent per autori di canzoni Genova Per Voi si è concluso con la finalissima di sabato sera. Come ogni anno Hotmc selezionava i finalisti della categoria rap/ hip hop che concorrevano per vincere un contratto di edizioni con Universal Music Publishing. Il concorso ha già portato molta fortuna ai suoi partecipanti, finora: [&hellip"
+quote: ""
+description: "Anche questa edizione 2015 del talent per autori di canzoni Genova Per Voi si è concluso con la finalissima di sabato sera. Come ogni anno Hotmc selezionava i finalisti della categoria rap/ hip hop che concorrevano per vincere un contratto di edizioni con Universal Music Publishing. Il concorso ha già portato molta fortuna ai suoi partecipanti, finora: [&hellip"
+keywords: ""
+date: 2015-09-28T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import/yo1.jpg"
+pagination:
+  enabled: true
+
+---
+
+Anche questa edizione 2015 del talent per autori di canzoni **Genova Per Voi** si è concluso con la finalissima di sabato sera. Come ogni anno Hotmc selezionava i finalisti della categoria rap/ hip hop che concorrevano per vincere un contratto di edizioni con **Universal Music Publishing.** Il concorso ha già portato molta fortuna ai suoi partecipanti, finora: basti pensare al caso di Federica Abbate, vincitrice della prima edizione, che ha scritto i ritornelli di _In Radio_ (Marracash), _Roma Bangkok_ (Baby K), _Amore Eternit_ (Fedez) e molti altri. A differenza dell’anno scorso, però, quest’anno i rapper se la giocavano alla pari con i cantautori: non si trattava di due categorie distinte con due premi distinti, ma di un’unica sezione con un premio unico, che poteva essere vinto alternativamente da un esponente della canzone o da uno di loro. Tra i partecipanti provenienti dalla scena hip hop c’erano **Barile**, **Bucha**, **Dutch Nazari**, **Greza**, **Sfera & Serenase** e **Martina May** (quest’ultima è una cantante, ma come tutti sapete è sicuramente più vicina al mondo dell’hip hop che a quello del pop).
+
+[](https://hotmc.com/wp-content/uploads/2015/09/soundcheck.jpg)
+
+La sezione rap/hip hop attende il suo turno per il soundcheck.
+
+La brutta notizia è che purtroppo non è stato un rapper a vincere, ma il giovanissimo cantautore **Mattia Foderà**, che con la canzone pop-rock _Sei un fenomeno_ (vedi video sopra) si è aggiudicato il primo premio e la targa speciale assegnata dalla Siae. La bella notizia, invece, è che in assoluto i rapper sono stati riconosciuti come i migliori songwriter di questa edizione, tanto che molti di loro hanno dato una mano ai cantautori – compreso il vincitore – a riscrivere alcuni versi delle loro canzoni durante i laboratori e le esercitazioni. Dopo quest’anno di sperimentazione e commistione, è finalmente chiaro anche agli addetti ai lavori che, se mai ci fosse bisogno di specificarlo, anche chi fa rap è un musicista a tutti gli effetti e generalmente è in grado di scrivere testi più originali e incisivi di quelli di qualsiasi altro genere musicale. Purtroppo, però, la comunicazione tra i due lati opposti della barricata resta piuttosto complicata. Una delle discussioni più rappresentative della questione si è svolta a tarda notte, nella sala della musica dell’Hostellerie di Ovada dove eravamo ospiti. La maggior parte dei testi presentati alla commissione artistica era a tema sentimentale; la differenza è che quasi tutti quelli dei cantautori contenevano le parole **cuore** e **amore** quasi a ripetizione, mentre quelle dei rapper esprimevano spesso gli stessi concetti, ma usando un vocabolario molto più ampio e una gamma di metafore quasi infinita (d’altra parte è dimostrato che **[Bob Dylan usa circa la metà della varietà di parole che usa Eminem](https://www.telegraph.co.uk/music/news/eminem-better-vocabulary-bob-dylan/)** nelle sue canzoni). Un dato di fatto, eppure sono in molti quelli che hanno percepito come offensiva o inesatta questa semplice constatazione. La strada da fare perché il valore del rap venga riconosciuto anche da chi si occupa di altri generi è molto lunga.
+
+[](https://hotmc.com/wp-content/uploads/2015/09/tosse.jpg)
+
+Una session di interviste sul tetto del Teatro della Tosse a Genova.
+
+Allo stesso tempo, però, per farsi comprendere da altri i rapper dovrebbero farsi un esame di coscienza e smetterla di snobbare tutto il resto. Imparare i princìpi base del linguaggio musicale, in teoria o meglio ancora in pratica, non è una fatica inutile e vi serve davvero, perché il 95% dei musicisti e dei discografici che conoscerete pensa in quei termini, e per lavorare con loro e come loro è bene avere un terreno comune su cui poggiare. Per fortuna, i rapper presenti quest’anno a Genova hanno dimostrato di essere in grado di cavarsela egregiamente, arrivando perfino a fare i cori e ad armonizzare i ritornelli di molti colleghi.
+
+[](https://hotmc.com/wp-content/uploads/2015/09/yo.jpg)
+
+Nei vicoli di Genova a tarda notte, dopo la finale.
+
+Detto questo, come ogni anno non resta che fare i tradizionali ringraziamenti post-gita scolastica: a **Barile** (che ha scandalizzato una platea di vecchiette con un freestyle sulla piscia ad Ovada), a **Bucha** (che con i suoi vent’anni era il concorrente più giovane di tutto il concorso e ci ha ridato speranza nella bravura e nell’intelligenza delle nuove generazioni), a **Dutch Nazari** (che tra una citazione in latino e una perla di lol-rap ha intrattenuto tutta la compagnia guadagnandosi la palma di secchione della classe), a **Greta** (che essendo astemia è stata in grado di riportarci tutti in camera quando noi non ricordavamo neanche più come ci chiamavamo), a **Sfera & Serenase** (che sono cugini e vivono insieme in una music farm con le caprette come Heidi, ma purtroppo le caprette non le hanno portate in gita con noi), a **Martina May** (che nonostante l’influenza e una quantità di sfighe inenarrabili è riuscita a giocarsi la finale alla grande ed è stata a un passo dalla vittoria), a **Willie Peyote** (presentatore d’eccezione, piace alle nonne come Carlo Conti ed è ormai pronto per Sanremo), a tutti i concorrenti della sezione canzone (in particolare Francesca Bergamaschi che mi ha riportata sana e salva a Milano nonostante fossi moribonda come poche altre volte nella vita), a Franco Fasano (che era lì per fare l’arrangiatore ma si è fatto convincere a furor di popolo a cantare sul palco la sigla di _Piccoli problemi di cuore_, di cui è autore) alla giuria come sempre composta da Gian Piero Alloisio, Franco Zanetti, Claudio Buja e Klaus Bonoldi, a Simonetta Cerrini, Francesca Farnocchia e Giorgio Alloisio per Atid, e a tutti gli ovadesi che abbiamo svegliato mentre rincasavamo a tarda notte cantando Coez a squarciagola per strada. Genova per Voi torna come sempre nell’autunno del 2016, ma restate sintonizzati su questi schermi, perché come da migliore tradizione è in arrivo la nostra posse cut.

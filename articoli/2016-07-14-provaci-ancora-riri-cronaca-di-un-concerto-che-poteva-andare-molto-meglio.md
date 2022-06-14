@@ -1,0 +1,30 @@
+---
+layout: articoli
+category: Articoli
+banner: "/assets/uploads/import/rihanna-anti-world-tour-brooklyn.jpg"
+title: "Provaci ancora, Riri: cronaca di un concerto che poteva andare (molto) meglio"
+excerpt: "Quando si parla di un concerto delle proporzioni di quello di Rihanna allo stadio di San Siro, bisogna distinguere due piani diversi: quello artistico/produttivo e quello della sfiga. I problemi dello show di ieri sera sono legati ad entrambi gli aspetti. La sfiga, ovviamente, ha a che fare con la tempesta perfetta che ha colpito [&hellip"
+quote: ""
+description: "Quando si parla di un concerto delle proporzioni di quello di Rihanna allo stadio di San Siro, bisogna distinguere due piani diversi: quello artistico/produttivo e quello della sfiga. I problemi dello show di ieri sera sono legati ad entrambi gli aspetti. La sfiga, ovviamente, ha a che fare con la tempesta perfetta che ha colpito [&hellip"
+keywords: ""
+date: 2016-07-14T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import/rihanna-anti-world-tour-brooklyn.jpg"
+pagination:
+  enabled: true
+
+---
+
+Quando si parla di un concerto delle proporzioni di quello di Rihanna allo stadio di San Siro, bisogna distinguere due piani diversi: quello artistico/produttivo e quello della sfiga. I problemi dello show di ieri sera sono legati ad entrambi gli aspetti. La sfiga, ovviamente, ha a che fare con la tempesta perfetta che ha colpito Milano a un’oretta dall’inizio previsto del concerto, provocando parecchi disagi al pubblico che stava cominciando ad affollare il prato e gli spalti, alle strutture e alle apparecchiature elettriche. Come logica conseguenza – e qui siamo nel campo delle ipotesi plausibili, perché non è stato rilasciato nessun comunicato – lo spettacolo è iniziato con un enorme ritardo: tra l’opening di Big Sean e Rihanna è passata più di un’ora, e oltretutto il set – anche in questo caso è un’ipotesi – è stato tagliato di una mezz’ora buona per non sforare sugli orari previsti per la conclusione.
+
+Detto questo, e sottolineato che purtroppo queste cose possono capitare e ci si può fare ben poco, sul concerto in sé ci sarebbero molte altre cose di cui lamentarsi. Partiamo da una premessa: in genere chi va a vedere un concerto di Rihanna sa già che musicalmente è un’artista che emerge solo grazie al lavoro incredibile fatto in studio, soprattutto con l’ultimo album _Anti_ che da questo punto di vista è molto sofisticato, e che cantare dal vivo non è il suo forte. Non è scandalosa, sia chiaro, ma il live è rinforzato da molte voci preregistrate, a tratti sfiorando quasi il playback, e quando arrivano le parti più difficili dei vari brani porge il microfono al pubblico perché le cantino loro, scongiurando il rischio di stonare. Sul fronte del ballo le cose di solito non vanno molto meglio, perché non avendo mai studiato davvero danza (a differenza di Beyoncé, ad esempio) le coreografie sono molto semplici e basate sulla sua notoria abilità di muovere il culo. Inoltre Riri tende a non cantare mai una canzone per intero, ma a fare solo una strofa + un ritornello e poi cambiare improvvisamente, come in un enorme medley; tant’è che in questo tipo di contesto trovano spazio anche i suoi featuring per Kanye West, Jay-Z o Drake, come se un semplice ritornello avesse lo stesso valore di una canzone. Insomma, le aspettative di partenza sono già un po’ al ribasso: ciò che salva la situazione di solito è l’allestimento spettacolare, il contorno, le continue sorprese che emergono dal palco e dalla scenografia, i costumi. Tutte cose che alla sua tappa milanese dell’ultimo tour europeo nel 2011 erano abbondantemente presenti ma in questo Anti World Tour, purtroppo, mancano completamente o quasi.
+
+Uno stadio è una location enorme, dispersiva, affollata: se non sei in grado di tenere il palco con la tua sola band come fa Bruce Springsteen (e abbiamo appurato che Rihanna non lo è) hai bisogno di qualcosa molto forte da mostrare al pubblico; e no, non ci riferiamo al suo famigerato lato B, ma a una scenografia da mille e una notte, dei costumi pazzeschi, degli effetti speciali degni di Hollywood, e di solito non ce le fa mancare. Stavolta, invece, il palco era estremamente minimale e statico, così come i colori, sbiaditi e tendenti al beige oppure fin troppo oscuri, che si ripetevano sia per i fondali che per i costumi; cosa che non faceva che confondere le acque, perché da lontano era difficile distinguere le sagome delle persone in scena, a meno di non affidarsi alle immagini sul megaschermo. I costumi, oltretutto, meriterebbero un capitolo a parte: sembravano usciti da una sfilata di Kanye West in acido, vedi foto sotto. Unica nota estremamente positiva, la bravura dei ballerini sul palco, che sono alcuni tra i voguers più famosi d’America (Dashaun Wesley in testa), ma per il resto si può dire che in scena non succedesse praticamente niente di niente, o comunque non si distinguesse niente di niente anche quando qualcosa succedeva. Anche l’effetto emotivo del pubblico che canta in coro, che in uno stadio dovrebbe regnare sovrano, è stato molto smorzato dal fatto che molte delle sue canzoni più famose (_S&M_, _Disturbia_, _The only girl in the world_, _Pon da replay_, _What’s my name_, _You da one_, _Fourfive seconds, Kiss it better_…) sono saltate o proprio non erano previste in scaletta. Scaletta che, appunto, nella sua versione ridotta è durata 50 minuti scarsi, forse anche meno se si contano i tempi morti dei cambi d’abito.
+
+In conclusione: uno show fatto per sembrare all’avanguardia e sofisticato, col risultato di eliminare tutti gli aspetti che rendevano precedentemente indimenticabile un concerto di Rihanna. Carino? Sì. Piacevole? Pure. Ma per niente emozionante e visivamente appagante. E se chiedi ai tuoi fan di spendere di media 100 euro per un biglietto, la cosa non è del tutto accettabile.
+
+Credits: Rihanna Italia
+
+Credits: Fuse Tv
+
+Credits: Rihanna Italia

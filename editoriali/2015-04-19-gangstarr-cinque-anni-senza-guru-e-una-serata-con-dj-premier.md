@@ -1,0 +1,30 @@
+---
+layout: editoriali
+category: Editoriali
+banner: "/assets/uploads/import/969275297_12fbf599c4.jpg"
+title: "Gangstarr: cinque anni senza Guru (e una serata con dj Premier)"
+excerpt: "Non ricordo dov’ero quando ho scoperto della morte di Tupac e di Notorious B.I.G., per ovvi problemi generazionali (all’epoca avevo dodici anni). Ricordo perfettamente, però, dov’ero e cosa stavo facendo quando ho scoperto della prematura scomparsa di un altro monumento dell’hip hop, Guru, da un laconico commento postato da dj Premier sul suo blog: “Rest [&hellip"
+quote: ""
+description: "Non ricordo dov’ero quando ho scoperto della morte di Tupac e di Notorious B.I.G., per ovvi problemi generazionali (all’epoca avevo dodici anni). Ricordo perfettamente, però, dov’ero e cosa stavo facendo quando ho scoperto della prematura scomparsa di un altro monumento dell’hip hop, Guru, da un laconico commento postato da dj Premier sul suo blog: “Rest [&hellip"
+keywords: ""
+date: 2015-04-19T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import/969275297_12fbf599c4.jpg"
+pagination:
+  enabled: true
+
+---
+
+Non ricordo dov’ero quando ho scoperto della morte di Tupac e di Notorious B.I.G., per ovvi problemi generazionali (all’epoca avevo dodici anni). Ricordo perfettamente, però, dov’ero e cosa stavo facendo quando ho scoperto della prematura scomparsa di un altro monumento dell’hip hop, Guru, da un laconico commento postato da dj Premier sul suo blog: “Rest in peace”. Era una mattinata particolarmente incasinata – lavoro nuovo, vecchi sbattimenti – ma ricordo di avere abbandonato all’istante quello che stavo facendo e di essermi messa ad aggiornare compulsivamente Hotmc, cercando di racimolare notizie e soprattutto cercando di trovare un senso in quello che era successo nel delirio di notizie, dichiarazioni, comunicati e controcomunicati che si susseguivano freneticamente in quelle prime ore. Spesso prendendo delle clamorose cantonate, tra l’altro. Abbiamo seguito quella storia fin troppo minuziosamente, non per il desiderio di fare qualche clic in più, ma proprio perché ci sembrava impossibile, quasi inconcepibile, che un personaggio così incredibilmente seminale potesse avere buttato all’aria il suo destino, la sua integrità e la sua eredità in quel modo assurdo.
+
+Sono passati esattamente cinque anni da quel diciannove aprile del 2010; a ricordarmelo ci ha pensato Premier ieri sera, prima durante il suo dj set – che, come sanno tutti i presenti alla serata di Elita ieri sera al teatro Franco Parenti, è stato coronato da un momento molto commovente poco dopo la mezzanotte, perché Preemo ci teneva giustamente a rinfrescarci la memoria su che giorno fosse – e poi più tardi nel backstage, quando ho avuto l’onore di conoscerlo e di portargli la mia copia di Moment of Truth da autografare. Ha aperto il booklet al paginone centrale, quello che immortala lui e Guru in maniera speculare separati dalla parola MOMENT, e ha scribacchiato con un marker le parole “19th april 2015: RIP Guru, Gang Starr 4 life!”. Doveva essere un semplice autografo, si è trasformato in un messaggio in codice. Per fortuna è abbastanza semplice da decifrare.
+
+Durante il suo dj set Preemo non ha suonato solo canzoni dei Gangstarr, anzi: ha spaziato tra tutte le sue produzioni, da _Ten crack commandments_ a _Nas is like_ passando per _The real hip hop_, con un entusiasmo capace di trascinare una folla davvero eterogenea (ragazzi giovanissimi, veterani, molta gente che con l’hip hop non aveva davvero nulla a che fare). E questo perché la sua carriera non è certo finita il giorno in cui i Gangstarr si sono sciolti – o meglio, hanno smesso di lavorare insieme, perché non si sono mai sciolti davvero. Non ha bisogno di apparire, lui è: come hanno notato i molti dj presenti non si è speso in inutili tecnicismi, spesso i pezzi venivano tagliati brutalmente dalle sue parole o da qualche semplice scratch. L’atmosfera era comunque incendiaria, che facesse qualcosa o che non facesse proprio nulla. Ma la sensazione generale era che su quel palco davvero fossero ancora in due. Chi ha avuto la fortuna di fare in tempo ad assistere a un concerto dei Gangstarr sa che Preemo non ha mai amato rubare la scena a Guru, si limitava a dargli il suo supporto silenzioso. Ora, invece, è come se ne avesse raccolto il testimone: le due anime del gruppo coesistono e convivono in lui, non ha nessuna intenzione di lasciare che ci dimentichiamo di quella che è stata la Storia. O peggio, di lasciare che la Storia sia oscurata dalla storia, quella con la s minuscola, di un arrivista che ha approfittato di un grande artista in un momento di debolezza privata.
+
+Dj Premier ieri sera ci ha insegnato una cosa fondamentale – una cosa che forse, nella litigiosissima scena italiana, dovremmo imparare a fare nostra: tra fratelli si discute, si scazza, ci si scanna, ma si resta fratelli. Gli errori di un fratello sono sempre perdonabili, anche quando non fanno materialmente in tempo a chiedere scusa o a rendersi conto di aver sbagliato. Nulla può distruggere o cambiare ciò che c’è stato, nel bene o nel male; ma solo il bene è davvero importante. Grazie per questa (ennesima) grande lezione di hip hop e di vita.
+
+(E grazie anche a Elita per avercelo portato a Milano in un giorno così importante. E alla famiglia di Guru che proprio in questi giorni ha pubblicato l’inedito re-edit di Propaganda, che ci restituisce le sue rime almeno per qualche minuto. Se volete ascoltare un’altra sua lezione di hip hop, una sua intervista in esclusiva per l’Italia andrà in onda a [**Babylon**](https://www.facebook.com/babylonradio2?fref=ts "https://www.facebook.com/babylonradio2?fref=ts") sabato prossimo).
+
+**_But I can’t jeopardize what I have done up to this point_**  
+ **_So I’mma get more guys to help me run the whole joint_**  
+ **_Cultivate, multiply, motivate, or else we’ll die._**

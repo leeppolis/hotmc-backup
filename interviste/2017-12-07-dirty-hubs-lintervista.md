@@ -1,0 +1,50 @@
+---
+layout: interviste
+category: Interviste
+banner: "/assets/uploads/import/0003677246_10-1024x1024.jpg"
+title: "Dirty Hubs: l’intervista"
+excerpt: "In una scena underground come quella di Roma, protagonista nell’ultimo periodo di un nuovo periodo particolarmente florido – grazie al lavoro di nomi quali Santa Sangre, Red Lights Ent, Ai Town e altri ancora – i Dirty Hubs si sono ritagliati il loro ruolo, con dedizione e talento. Autori in un solo anno di ben…"
+quote: ""
+description: "In una scena underground come quella di Roma, protagonista nell’ultimo periodo di un nuovo periodo particolarmente florido – grazie al lavoro di nomi quali Santa Sangre, Red Lights Ent, Ai Town e altri ancora – i Dirty Hubs si sono ritagliati il loro ruolo, con dedizione e talento. Autori in un solo anno di ben…"
+keywords: ""
+date: 2017-12-07T00:00:00.000+01:00
+author: "Riccardo Primavera"
+cover: "/assets/uploads/import/0003677246_10-1024x1024.jpg"
+pagination:
+  enabled: true
+
+---
+
+**In una scena underground come quella di Roma, protagonista nell’ultimo periodo di un nuovo periodo particolarmente florido – grazie al lavoro di nomi quali Santa Sangre, Red Lights Ent, Ai Town e altri ancora – i Dirty Hubs si sono ritagliati il loro ruolo, con dedizione e talento. Autori in un solo anno di ben due progetti – Puff Puff Pass Mixtape e l’album Papa Alpha – che uniscono quantità e qualità, i ragazzi sono in procinto di iniziare a girare lo stivale per portare sui palchi proprio Papa Alpha. Li abbiamo intercettati per fargli qualche domanda, partendo da un’occhiata alla capitale per poi proseguire nell’analisi del disco e del loro ultimo anno, artisticamente parlando.**
+
+**Riccardo: Partiamo con ordine ragazzi, proprio dal principio: le presentazioni. Chi sono i Dirty Hubs, come nascono, cosa si cela dietro la scelta del nome?**
+
+**Dirty Hubs:** **Dirty Hubs** è un collettivo di artisti Romani: **Mr.Dubplate**, **Psycomantis**, **Dj Sponda** e **Pietro** **Squoti**. Siamo amici di vecchia data e per anni abbiamo condiviso il palco insieme, abbiamo collaborato spesso ai nostri progetti individuali e col tempo ci siamo ritrovati a condividere anche lo stesso studio, allestito dentro un box auto. Dopo tanto tempo ci siamo lanciati in un progetto musicale comune ed è grazie a quel periodo è quel box che sono nati i Dirty Hubs (Mozzi Zozzi). Mr Dubplate ha lavorato per anni come tecnico sulle navi da crociera, al suo ritorno sulla terra ferma abbiamo adottato il concetto di “ciurma” nell’approcciarci al lavoro insieme, da lì è nato Dirty Hubs. Noi siamo i mozzi e la nostra musica è la nostra nave.
+
+**R.:Siete tra gli esponenti di una longeva scuola romana di collettivi, un’attitudine hip hop volta all’aggregazione che ha sempre contraddistinto la capitale – dal grande Rome Zoo passando per i Colle Der Fomento, i Cor Veleno, Gente De Borgata, fino ai più recenti Truceklan, Xtreme Team, Rapcore e altri ancora. Qual’è secondo voi la matrice che spinge la doppia H capitolina ad essere terreno florido per i collettivi?**
+
+**D.H.:**Roma è una città molto grande ed esistono tantissime realtà che convivono tra loro più che un unico movimento. I collettivi nascono da artisti che condividono un approccio musicale, un mood preciso, un determinato suono e trovano in questa città un terreno fertile, o forse perchè siamo Romani e ci piace stare insieme agli amici. Inoltre l’unione fa la forza, ci si confronta e ci si arricchisce lavorando insieme ad altri artisti e in alcuni casi si contribuisce agli sforzi produttivi ed economici che un disco richiede. Noi siamo amici da anni ed era inevitabile unire gli sforzi, condividendo la stessa attitudine e avendo obiettivi comuni, ed è stato un processo naturale che alla fine ci ha cambiato molto sia come gruppo che come persone.
+
+**R.:Siete fuori con un nuovo disco, Papa Alpha – per la prima volta su Spotify: nell’era della musica in streaming si trattava di una scelta praticamente obbligata. Qual è il vostro rapporto con questo nuovo strumento di fruizione musicale?**
+
+**D.H.:**Parte della risposta si cela nella tua domanda: nell’era della musicastreaming i digital stores sono una scelta obbligata, il mercato da anni si è spostato lì. Se da una parte la possibilità di avere la musica che amiamo sempre a portata di mano, immediatamente e ovunque siamo è indubbiamente fighissimo, dall’altra notiamo sempre più spesso che la nostra schiavitù da playlist ha fatto sì che molti dischi siano solo una compilation di pezzi, senza un’idea comune, senza un filo rosso che li unisce. Con questo non vogliamo demonizzare la tecnologia, che anzi è parte integrante del nostro lavoro in studio e live. Grazie alla tecnologia i nostri dispositivi sono diventati sempre più portatili e intelligenti, permettendoci di lavorare al disco “on the go” ovunque ci trovassimo. Siamo indubbiamente dei nerd e continua a rendere il nostro lavoro più semplice e a offrirci nuove possibilità per rendere fruibile la nostra musica. Ovviamente abbiamo in stampa anche le copie fisiche in cd, i preordini sono attivi e inizieremo a spedirli tra qualche giorno.
+
+**R.:Parliamo un po’ del disco: cosa si cela dietro il nome Papa Alpha? Dal punto di vista grafico invece la cover ricorda un po’ la deriva fantasy-steam punk degli ultimi episodi della saga video ludica Final Fantasy; come nasce il concept visivo dell’album?**
+
+**D.H.:**Mentre lavoravamo alla realizzazione del disco abbiamo avuto spesso la sensazione di costruirla sul serio quella nave volante sci-fi. È stato un lavoro lungo due anni e ogni beat chiuso, ogni strofa nuova è stato come finire di assemblare una componente del mezzo. Lo stile, che ricorda molto “Il pianeta del tesoro”, unisce insieme componenti futuristiche con elementi classici, proprio come la nostra musica che mantiene le sue radici nel passato ma guarda al futuro. Papa Alpha è un codice usato sulle navi per allertare il personale di bordo in caso di un attacco pirata (“Papa Alpha” sta per “Pirate Attack”). Ovviamente non potevamo non scegliere quel nome per la nostra nave volante. Per gli artwork del cd cercavamo un illustratore che potesse riuscire a tradurre in immagini quello che avevamo solo in testa, grazie al nostro amico disegnatore Giacomo Bevilacqua abbiamo conosciuto le opere di Mirko Failoni al quale infine abbiamo commissionato il lavoro! Anche qui la tecnologia è stata fondamentale, perché vivendo in due città diverse abbiamo lavorato su Skype con Mirko che disegnava in live painting sul suo computer. Il cd sarà una sorta di scatola di montaggio completa di spaccati tecnici che illustrano le varie componenti del mezzo. Mirko ha fatto un lavoro eccezionale e siamo felici del risultato ottenuto!
+
+**R.:Papa Alpha non è un concept album, sono il vostro rap e la vostra attitudine gli elementi che compongono il filo rosso che lega tutte le tracce. C’è però un concept nascosto tra le maglie del disco o è proprio come l’ho descritto?**
+
+**D.H.:**Quando abbiamo iniziato a scrivere il disco non abbiamo pensato ad un concept album quanto piuttosto ad un album che contenesse tutta la musica con cui volevamo esprimerci. In seguito ci siamo resi conto che ogni brano ha un suo concept, espresso in un modo ben preciso per ogni canzone sia con la musica delle strumentali sia con il rap. Ci sono pezzi di story telling come _Sette Incubi_, _L’Ultimo Passo_ o lo spassoso _P.O.V._ e canzoni più virtuose come il pezzo palindromo _ParlocolraP_ di cui il video-clip ha anticipato l’uscita del disco. Pezzi dal sound più classic boombap come _Cristobaldo_ e tracce molto elettroniche come _Papa Alpha_. È un disco molto vario sia per sonorità che per mood, può raccontarti qualcosa come far semplicemente ridere e intrattenere. Possiamo dire che il filo rosso conduttore del disco è stato il nostro viaggio nella musica.
+
+**R.:Siete sempre stati incredibilmente connessi al resto degli artisti della scena romana, senza lesinare alcun tipo di collaborazione. Questa volta invece ci siete solo voi, nessun’altra voce: come mai questa scelta? Sentivate di aver bisogno di tutto lo spazio possibile?**
+
+**D.H.:**Veniamo dal nostro mixtape **Puff Puff Pass** in cui abbiamo cercato di creare una piccola piattaforma per connettere tra loro mc’s, dj’s e beatmakers da tutta Italia, all’insegna della collaborazione e cooperazione. Parallelamente però volevamo lavorare a qualcosa solo nostro, che ci raccontasse e rappresentasse al meglio. Essendo il nostro primo disco volevamo avere tutto lo spazio possibile e mostrarci per quello che siamo e che sappiamo fare. Lavoriamo e continueremo a collaborare con gli artisti che ci piacciono perchè per noi rappresenta uno strumento di crescita e ci divertiamo molto!
+
+**R.:Prima Puff Puff Mixtape, ora Papa Alpha: quello che sta per chiudersi è stato un anno decisamente produttivo per voi, più sullo stile americano che italiano, visto che oltreoceano chiudersi in studio fino allo stacanovismo è quasi la norma. Se doveste tirare le somme di questo 2017, come lo descrivereste?**
+
+**D.H.:**Intenso, perchè abbiamo dormito molto poco e lavorato molto sodo, affrontato mille imprevisti di rito e il nostro demone “Mangiagiorni”. Inoltre è stato un anno in divenire, siamo ritornati dopo la lunga pausa per il disco e il mixtape, abbiamo avuto modo di suonare in giro i pezzi in anteprima e il feedback ci sprona a fare ancora meglio. Siamo affamati e per noi l’uscita di Papa Alpha è il punto di partenza non di arrivo!
+
+**R.:Avete giá pronta qualche data per portare Papa Alpha in giro per lo stivale? Cosa dobbiamo aspettarci da un live dei Dirty Hubs?**
+
+**D.H.:**Attualmente stiamo lavorando alla realizzazione dei nostri live a porter, piccoli show case che porteremo in giro per la città per promuovere il disco. Ovviamente stiamo lavorando anche per i live set convenzionali e troverete tutti gli aggiornamenti su _**[www.dirtyhubs.net](http://www.dirtyhubs.net)**_ oppure sulla nostra pagina Facebook. Il nostro motto è “Ndo stamo la famo, ndo annamo smerigliamo!”. Verremo ovunque e vi faremo ballare tutti!So stay tuned, Stay Dirty.
