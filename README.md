@@ -2,7 +2,7 @@
 
 # HOTMC Backup
 
-Questo repository contiene in backup di tutti i contenuti (news, interviste, articoli, recensioni) pubblicati su [HOTMC](https://hotmc.com) tra il 2002 e il 2022.
+Questo repository contiene i backup di tutti i contenuti (news, interviste, articoli, recensioni) pubblicati su [HOTMC](https://hotmc.com) tra il 2002 e il 2022.
 
 # HOTMC
 
