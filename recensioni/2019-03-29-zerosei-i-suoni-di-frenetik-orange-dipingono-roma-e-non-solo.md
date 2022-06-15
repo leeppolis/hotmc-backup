@@ -1,0 +1,25 @@
+---
+layout: recensioni
+category: Recensioni
+banner: "/assets/uploads/import.recensioni/zerosei-frenetik-orange.jpg"
+title: "ZEROSEI: i suoni di Frenetik & Orange dipingono Roma (e non solo)"
+excerpt: "Come ho scritto nella recensione di Re Senza Corona, l’album d’esordio di Gianni Bismark, negli ultimi anni Roma sta vivendo un periodo incredibilmente florido dal punto di vista musicale. Il discorso non vale però solo per i rapper; anche dal punto di vista dei produttori, sono tantissimi i nomi che si stanno facendo strada nel [&hellip"
+quote: ""
+description: "Come ho scritto nella recensione di Re Senza Corona, l’album d’esordio di Gianni Bismark, negli ultimi anni Roma sta vivendo un periodo incredibilmente florido dal punto di vista musicale. Il discorso non vale però solo per i rapper; anche dal punto di vista dei produttori, sono tantissimi i nomi che si stanno facendo strada nel [&hellip"
+keywords: ""
+date: 2019-03-29T00:00:00.000+01:00
+author: "Riccardo Primavera"
+cover: "/assets/uploads/import.recensioni/zerosei-frenetik-orange.jpg"
+pagination:
+  enabled: true
+
+---
+
+Come ho scritto nella[ recensione di _Re Senza Corona_](https://hotmc.com/re-senza-corona-gianni-bismark-conquista-roma-e-ce-la-racconta/), l’album d’esordio di **Gianni Bismark**, negli ultimi anni Roma sta vivendo un periodo incredibilmente florido dal punto di vista musicale. Il discorso non vale però solo per i rapper; anche dal punto di vista dei produttori, sono tantissimi i nomi che si stanno facendo strada nel panorama italiano, dai più reconditi meandri dell’underground alle vette del mainstream.  
+Tra i diversi talenti che stanno reclamando il proprio spazio, **Frenetik & Orange** non fanno sicuramente parte dei rookie, anzi, ma il loro percorso ha visto – negli ultimi anni – una crescita esponenziale. Produttori incredibilmente versatili, ottimi musicisti non solo in studio ma anche sul palco – chi è stato in uno dei palazzetti riempiti da Salmo recentemente sa di cosa parlo -, dotati di un’innata sensibilità musicale, che li porta a sperimentare con successo senza limiti o paletti di genere. È proprio questo lo spirito che si cela alla base di _ZEROSEI_, il loro primo disco da produttori, uscito per **Asian Fake**. (_continua dopo l’immagine_)
+
+  
+Dopo aver firmato non poche produzioni multiplatinate in diversi bestseller degli ultimi anni, i due produttori romani hanno infatti chiamato a raccolta molti degli artisti con cui hanno collaborato recentemente, radunandoli in un album in cui è la musica a fare da collante. Il viaggio attorno a ZEROSEI, che prende il titolo dal prefisso di Roma, parte infatti dai sampietrini capitolini ma non tarda a spiccare il volo per lambire orizzonti per più ampi. Certo, _Squalo e ceres_ con **Noyz Narcos** – brano d’apertura del disco – trasuda una romanità verace, così come lo fa _Casilina love_, omaggio a _California Love_ con protagonisti **Il Turco**, **Er Costa** e **Dj Gengis**; eppure sembra riduttivo circoscrivere questo disco alle sole atmosfere romane. Il lavoro di ricerca di Frenetik & Orange in fase di produzione ha infatti dato vita ad un mosaico di emozioni, sensazioni, atmosfere e vibrazioni diverse, in grado di spaziare dalla malinconia – come in _Maledetto lunedì_ con **Achille Lauro** – alla leggerezza di _Giornate vuote_ con **Gemitaiz**, passando per la canzone d’amore di **Coez**, per arrivare al mix agrodolce di _Interrail_, con la collaborazione di **Carl Brave & Franco 126**. Proprio con Interrail gli autori di _Polaroid_ si sono allontanati dalla cornice romana, regalando però un affresco – tanto meraviglioso quanto sfuggente – di Londra e Berlino, città dall’anima diversissima da quella della capitale.
+
+L’estro di Frenetik & Orange ha quindi dato vita ad una compilation variegata, che unisce momenti rap con momenti pop, elementi quasi cantautoriali ad esperimenti in bilico tra l’elettronica, il pop e l’acustica; il risultato è un amalgama affascinante, che non soffre minimamente della mancanza di un fil rouge bene evidente. ZEROSEI infatti non è un disco rap, non è un disco pop, non è un disco indie, non è un disco di musica elettronica. Si limita ad essere un disco: curato, rifinito, ad ampio respiro – una ricetta adatta a tutti i palati. Un fortissimo punto a favore dell’intero progetto è proprio la capacità di rivolgersi a tutti: è davvero difficile pensare che qualcuno riesca a non apprezzare neanche un brano tra quelli presenti. Frenetik & Orange si sono rivelati dei direttori d’orchestra sagaci, che hanno dato vita ad un ensamble tanto inaspettato quanto irresistibile, costruendo nel frattempo un percorso sonoro che equivale ad un curriculum vitae di caratura assoluta.  
+ZEROSEI probabilmente non è un disco che racconta Roma in tutto e per tutto; sono però convinto che, mettendo su un paio di cuffiette e premendo play, sia possibile trovare un brano perfetto per ciascun angolo e ciascuno scenario che la Città Eterna può offrire.

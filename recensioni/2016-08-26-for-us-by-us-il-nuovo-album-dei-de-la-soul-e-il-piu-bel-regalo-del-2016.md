@@ -1,0 +1,24 @@
+---
+layout: recensioni
+category: Recensioni
+banner: "/assets/uploads/import.recensioni/AOI1001CD_1024x1024-1024x1024.jpeg"
+title: "For us, by us: il nuovo album dei De La Soul è il più bel regalo del 2016"
+excerpt: "L’espressione “For us by us”, spesso abbreviata in FUBU, era molto in voga negli anni ’90 per indicare quel tipo di prodotto (dischi, film, programmi tv, c’era perfino una marca di vestiti streetwear che aveva questo nome) fatto dalla comunità hip hop PER la comunità hip hop. Il nuovo album dei De La Soul And [&hellip"
+quote: ""
+description: "L’espressione “For us by us”, spesso abbreviata in FUBU, era molto in voga negli anni ’90 per indicare quel tipo di prodotto (dischi, film, programmi tv, c’era perfino una marca di vestiti streetwear che aveva questo nome) fatto dalla comunità hip hop PER la comunità hip hop. Il nuovo album dei De La Soul And [&hellip"
+keywords: ""
+date: 2016-08-26T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import.recensioni/AOI1001CD_1024x1024-1024x1024.jpeg"
+pagination:
+  enabled: true
+
+---
+
+L’espressione **“For us by us”**, spesso abbreviata in FUBU, era molto in voga negli anni ’90 per indicare quel tipo di prodotto (dischi, film, programmi tv, c’era perfino una marca di vestiti streetwear che aveva questo nome) fatto dalla comunità hip hop _PER_ la comunità hip hop. Il nuovo album dei De La Soul **_And the anonymous nobody_**, che esce proprio oggi, incarna esattamente quello spirito.
+
+Riassunto delle puntate precedenti: dopo una serie di divagazioni e side project (tra cui l’ottimo _De La Soul’s Plug 1 & Plug 2 presents First Serve_ del 2012, che non includeva Maseo) il trio al gran completo ha deciso di cimentarsi nuovamente con un album ufficiale a 12 anni dal precedente. Cosa di cui in effetti non avevano neppure bisogno, perché a differenza di tante altre vecchie glorie della golden age **i loro tour vanno sempre benissimo** indipendentemente dalle uscite discografiche. Non contenti, hanno deciso di alzare la posta ancora di più: avendo in mente un progetto particolarmente ambizioso e costoso hanno voluto tentare la strada del **crowdfunding**, cosa che può essere un’arma a doppio taglio, perché i risultati non sono assolutamente garantiti. In esattamente 33 giorni hanno raccolto la cifra record di **600.000 dollari**, che ha permesso al gruppo di perseguire i propri obbiettivi in grande tranquillità. La loro idea era di realizzare un album campionando della musica originale e **suonata dal vivo**: nulla di particolarmente innovativo, insomma, se non fosse che essendo dei perfezionisti hanno preso la missione parecchio sul serio. Si sono chiusi in studio con il top di gamma dei musicisti disponibili e hanno registrato circa **300 ore di musica di ogni genere** – in pratica è come se avessero creato circa **300 album strumentali** da cui poi estrarre i sample definitivi, un’impresa titanica. Dopodiché hanno aggiunto i **featuring**, e anche in questo caso non si scherza affatto: nell’album sono presenti inossidabili certezze del rap come **Roc Marciano, Snoop Dogg, Pete Rock** e **2Chainz**, talenti purissimi del soul e dell’R&B come **Jill Scott, Estelle** e **Usher**, ma anche eccellenze totalmente insospettabili, tipo **Damon Albarn, Little Dragon, Justin Hawkins dei The Darkness** e perfino una leggenda come **David Byrne**.
+
+Il risultato è un equilibrio futuristico eppure classico tra diversi generi, e suona **dannatamente hip hop**, più di qualunque altro disco abbiate ascoltato nell’ultimo anno. Anche il titolo, _And the anonymous nobody_, è simbolico di una tendenza. Il significato è spiegato nella copertina, disegnata dal fumettista **Pablo Stanley**: c’è una folla imbizzarrita sotto al palco di un concerto, un rapper che fugge e uno che rimane coraggiosamente a fronteggiare il pubblico con il microfono in mano. **“Che stai facendo? Nessuno può controllarli!**” dice il fuggitivo. **“Io _sono_ nessuno!”** risponde l’altro. Una bella metafora di quello che sta succedendo nel rap game dell’ultimo periodo.
+
+Dopo quasi trent’anni di onorata carriera di solito arriva fisiologicamente un momento in cui ci si siede sugli allori e ci si lascia trascinare dagli eventi: è bellissimo sapere che **per i De La Soul quel momento non è mai arrivato**. Pur essendo perfettamente consapevoli che nessun loro disco riuscirà mai a superare capolavori come **_3 feet high & risin’_** nel cuore dei loro fan, hanno scelto di non fermarsi, di non cristallizzare tutto a quel periodo, di continuare ad evolversi e di farlo insieme (viene da piangere al pensiero di tanti altri gruppi che avrebbero dovuto farlo e invece non lo faranno mai più, tipo gli **ATCQ**). Lo hanno fatto per noi, ma avendo contribuito a metterli nelle condizioni di realizzarlo, è **come se lo avessimo fatto anche noi insieme a loro.** Dovremmo esserne tutti un po’ orgogliosi.

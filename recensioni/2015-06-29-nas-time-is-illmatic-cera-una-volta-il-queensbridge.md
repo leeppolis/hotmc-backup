@@ -1,0 +1,38 @@
+---
+layout: recensioni
+category: Recensioni
+banner: "/assets/uploads/import.recensioni/nas-time-is-illmatic-doc-tribeca-premiere_480_500_cropp.jpg"
+title: "Nas – Time is Illmatic: c’era una volta il Queensbridge"
+excerpt: "Dal 1994 a oggi il Queensbridge non è cambiato poi molto (a parte il fatto che non è più la fucina di talenti che è stata nel passato); la vita di Nas, invece, sì. E c’è un momento di Time is Illmatic – il documentario del filmaker One9 che celebra il ventennale di Illmatic, capolavoro [&hellip"
+quote: ""
+description: "Dal 1994 a oggi il Queensbridge non è cambiato poi molto (a parte il fatto che non è più la fucina di talenti che è stata nel passato); la vita di Nas, invece, sì. E c’è un momento di Time is Illmatic – il documentario del filmaker One9 che celebra il ventennale di Illmatic, capolavoro [&hellip"
+keywords: ""
+date: 2015-06-29T00:00:00.000+01:00
+author: "Andrea Spu Signorelli"
+cover: "/assets/uploads/import.recensioni/nas-time-is-illmatic-doc-tribeca-premiere_480_500_cropp.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2014/04/nas-time-is-illmatic-doc-tribeca-premiere%5F480%5F500%5Fcropp.jpg)
+
+Dal 1994 a oggi il Queensbridge non è cambiato poi molto (a parte il fatto che non è più la fucina di talenti che è stata nel passato); la vita di Nas, invece, sì. E c’è un momento di _Time is Illmatic_ – il documentario del filmaker One9 che celebra il ventennale di Illmatic, capolavoro di Nas e dell’hip hop tutto – in cui questo salta particolarmente all’occhio: il momento in cui Nasir Jones fa il suo ritorno nei Queensbridge Housing Projects.
+
+Saluti agli amici, foto con i fan più giovani, aneddoti, storielle e soprannomi. Ma Nas non è più uno di loro, è la star amata e benvoluta che torna nel quartiere in favore di telecamere. La verità, quindi, è che the world isn’t yours, semmai il mondo è di Nas, che con la sua musica ha rivoluzionato il rap, ha venduto 25 milioni di dischi, ha girato il globo, tenuto lezioni ad Harvard (alla faccia di “My people be in the projects or jail, never Harvard or Yale”) e adesso torna a visitare il luogo in cui tutto questo ha preso vita. Un luogo che però è rimasto cristallizzato, in cui seduti sulle stesse panchine ci sono gli stessi amici – che si sono spostati più che altro per fare avanti indietro dalla prigione – che oggi vivono dei ricordi di un’epoca che hanno vissuto in prima persona rimanendo però intrappolate nel ruolo di comparse.
+
+Comparse che ancora oggi si raccontano gli aneddoti della sparatoria in cui rimase ucciso Ill Will – l’amico fraterno di Nas – e che vedono arrivare il loro ex compagno di quartiere sotto forma di “colui che ce l’ha fatta”. Che torna nel quartiere per celebrare se stesso. Alla fine il più grosso limite del documentario è proprio l’eccessiva celebrazione di Nas. D’accordo, è un film su _Illmatic_ e su Nas, che cosa dovrebbe celebrare? Però si eccede un po’, e quando si eccede nel celebrare i rapper – gente che non ha certo bisogno di farsi pregare per spingere sul pedale dell’autocelebrazione – il risultato è quasi da filmato promozionale. Se c’è un difetto evidente, in un lavoro nel complesso ben riuscito e sicuramente da vedere per ogni fan di Nas e del QB, è questo.
+
+In effetti le parti migliori sono quelle (rare) in cui Nas non è protagonista, ma il suo quartiere sì. E se per le strade del Queensbridge ci giriamo assieme a Jungle, fratello di Nas nonché rapper non troppo riuscito nel gruppo dei Bravehearts, allora si aggiunge pure qualche momento quasi comico: canottiere bianche, occhi rossi, catenoni d’oro e just hangin’ out nei projects con gli amici raccontando (più a se stessi che altro) di essere degli imprenditori, mentre lo spettatore ha l’impressione di ascoltare i vaneggi di un nullafacente che riesce ancora a raccogliere qualche minuto di luce riflessa.
+
+La distanza tra il mondo di Nas e quello di suo fratello è siderale: in mezzo c’è il Queensbridge e il modo in cui può regalare fama mondiale a un ragazzo di colore particolarmente in gamba con le rime o tenerti intrappolato per la vita nella routine del “ghetto”. Se c’è una ragione per vedere _Time is Illmatic_ anche per chi non è particolarmente amante del rap o di Nas è proprio lo spaccato che offre sul QB, in alcuni momenti davvero micidiale: dai “party allegri con felpe colorate” dei primissimi anni ’80 si passa in un attimo alle sparatorie per strada, sirene della polizia, miseria e povertà degli anni ’90\. Una sintesi sicuramente troppo facile, ma che ben riassume gli effetti di quella che è passata alla storia come “crack epidemic”, un’epidemia che dalla fine degli anni ’80 inizia a imperversare nelle strade di New York (e non solo) rendendo le zone più povere un grande discount dello spaccio, con tutto quello che comporta.
+
+Il documentario è su Nas e su _Illmatic_, non è che si soffermi tantissimo su questi aspetti, ma le immagini colpiscono e fanno riflettere, anche su come sia stato proprio in questo periodo deleterio che ha preso vita la golden age dell’hip hop. E non può essere un caso. A maggior ragione se le strofe del più grande rapper mai uscito dal 41st side non fanno altro che raccontare quella realtà, quello che si vede semplicemente in giro per la strada: “G-packs get off quick, forever niggas talk shit / Reminiscing about the last time the Task Force flipped / Niggas be running through the block shootin’ / Time to start the revolution, catch a body, head for Houston” (_NY State of mind_).
+
+La prospettiva dalla quale Nas osserva questo mondo, però, è diversa da quella dei suoi amici. È la prospettiva di chi non vive in una situazione di povertà, ma di relativo agio, con una famiglia unita (almeno per un po’), un padre musicista, a sua volta figlio di musicisti, che riempie la casa di libri più o meno improbabili (comunque, merce molto rara negli altri appartamenti dei projects). E magari è proprio questo ambiente ad aver dato la possibilità a Nas di trasformare crack, sparatorie e quant’altro in 25 milioni di dischi venduti.
+
+Questo, e il fatto di rappare come nessun’altro aveva mai fatto prima. È facile capire come Nas abbia potuto farsi strada così velocemente, passando nel giro di pochi anni dalle jam nei parchi e dai featuring coi gruppi del quartiere al diventare una delle star indiscusse del rap statunitense: le sue strofe sono impressionanti ancora oggi, a vent’anni di distanza (“To hold the mic I’m throbbin’, mechanical movement / Understandable smooth shit that murderers move with / The thief’s theme – play me at night, they won’t act right / The fiend of hip-hop has got me stuck like a crack pipe”).
+
+Se nel 1994 hai una tecnica del genere, non c’è da stupirsi che il tuo album d’esordio venga prodotto da DJ Premier, Pete Rock, Large Professor, Q Tip e sia spinto da tutti i veterani del tuo quartiere, che in _Time is Illmatic_ si prendono il loro quarto d’ora (o forse meno) di celebrità: Marley Marl, Mc Shan, Roxanne Shante, la Juice Crew, eccetera. Chi invece non viene nemmeno menzionato, ma non stupisce in un documentario su Nas, sono i rapper e i gruppi che hanno contribuito assieme a Nas a far splendere la luce sul QB per parecchi anni: Mobb Deep e Capone’n’Noreaga in primis. D’altra parte, come dice Tragedy nel pezzo di Complex _The Bridge is Over_: “Nel QB, prima di tutti, c’è Nas: bisogna accettarlo”.
+
+_Nas – Time is Illmatic è distribuito in Italia da [**Wanted Cinema**](https://www.facebook.com/wantedcinema/timeline "https://www.facebook.com/wantedcinema/timeline"): vi terremo aggiornati sulle successive proiezioni del film, oltre a quella milanese di settimana scorsa._

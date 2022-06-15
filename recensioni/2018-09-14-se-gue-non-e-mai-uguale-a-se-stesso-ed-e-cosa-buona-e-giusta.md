@@ -1,0 +1,22 @@
+---
+layout: recensioni
+category: Recensioni
+banner: "/assets/uploads/import.recensioni/guè2-1.jpg"
+title: "Se Gué non è mai uguale a se stesso (ed è cosa buona e giusta)"
+excerpt: "L’annuncio a sorpresa dell’ingresso di Gué nella premiata ditta BHMG ha seminato il panico tra molti dei suoi fan della prima ora. Più o meno lo stesso effetto che ha scatenato l’annuncio, di poco successivo, che la direzione artistica del suo nuovo album Sinatra sarebbe stato a cura di Charlie Charles. Ora che il disco [&hellip"
+quote: ""
+description: "L’annuncio a sorpresa dell’ingresso di Gué nella premiata ditta BHMG ha seminato il panico tra molti dei suoi fan della prima ora. Più o meno lo stesso effetto che ha scatenato l’annuncio, di poco successivo, che la direzione artistica del suo nuovo album Sinatra sarebbe stato a cura di Charlie Charles. Ora che il disco [&hellip"
+keywords: ""
+date: 2018-09-14T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import.recensioni/guè2-1.jpg"
+pagination:
+  enabled: true
+
+---
+
+L’annuncio a sorpresa dell’ingresso di Gué nella premiata ditta BHMG ha seminato il panico tra molti dei suoi fan della prima ora. Più o meno lo stesso effetto che ha scatenato l’annuncio, di poco successivo, che la direzione artistica del suo nuovo album _Sinatra_ sarebbe stato a cura di Charlie Charles. Ora che il disco è uscito, possiamo dire che in grandissima parte quel panico era ingiustificato: Gué è sempre Gué, indipendentemente dal fatto che abbia scelto di lavorare a questo disco con una realtà giovane e per certi versi lontana anni luce da lui (ma per mentalità e innovatività, molto affine). (_Continua dopo la foto_)
+
+Certo è che quello di _Sinatra_ è un Gué trasformista: non nel senso che ha trasformato se stesso, ma nel senso che cambia forma e sostanza a ogni traccia, adattandosi ed evolvendo a seconda dell’atmosfera, del beat, dell’ospite, dell’occasione. La sua non è una dichiarazione d’intenti, ma un costante esercizio di stile, e di stile, si sa, ne ha sempre a pacchi. Questo non è, come vorrebbero i maligni, l’album di una vecchia gloria del rap italiano che cerca di conquistarsi un pubblico più giovane; al contrario, è l’album di un pilastro del rap italiano, tecnicamente forse il più abile che ci sia in circolazione, che per non annoiarsi e ripetersi si mette in gioco e ci mette la faccia, accettando di confrontarsi alla pari con situazioni diversissime tra di loro. Il mosaico che si compone è sia vario che coeso, dalla solidità di _Bastardi senza gloria_ (con Noyz Narcos) alla postmodernità di _Trap Phone_ (con Capo Plaza), dal viaggione di _Modalità aereo_ (con Luché e Marracash) alle venature pop di _Sobrio_ (con Elodie) e _2%_ (con Frah Quintale, e questa forse è la grande hit-rivelazione dell’album insieme a _Bling Bling (Oro)_, una traccia surreale e a modo suo perfetta in cui campiona _Oro_ di Mango). Nella sua [**intervista con Rolling Stone**](https://www.rollingstone.it/musica/news-musica/tutto-grazie-a-gue/427639/), Gué ha spiegato che Charlie Charles, più che aggiungere, è andato a togliere: “Ha svuotato molto”, sono state le sue parole. Per certi versi, insomma, è un lavoro molto essenziale e scarno; ma, sia chiaro, questo non vuol dire certo che sia vuoto o monotono. (_Continua dopo la foto_)
+
+Al di là di questo, però, intervengono insindacabilmente anche i gusti: e a molti _Sinatra_ non piacerà, perché a molti non piace il suono che si sta imponendo oggi a livello mondiale. Ci sta, è legittimo, non vuol dire essere retrogradi o non capire niente: è una questione di attitudine e imprinting. L’importante, però, è non cadere nel tranello di pensare che Gué non sia più quello di una volta, o che sia meglio il vecchio Gué. Perché Gué non è mai uguale a se stesso (in quanto si evolve e cambia pelle a ogni nuovo album) ed è sempre uguale a se stesso (in quanto resta sempre un killer, un king, il vero e indiscutibile gigante di questo gioco). Posto il fatto che è sempre bene non giudicare dopo un solo giorno di ascolto – o peggio ancora, dopo aver semplicemente letto la tracklist e le sue affiliazioni – se questo disco vi ha deluso o non l’avete capito, voltate semplicemente pagina e guardare avanti, perché il prossimo sarà ancora più diverso e sorprendente. Gué ci ha insegnato a non sederci mai a lungo sugli allori, e di questo gli saremo sempre grati.

@@ -1,0 +1,22 @@
+---
+layout: recensioni
+category: Recensioni
+banner: "/assets/uploads/import.recensioni/lucci-shibumi.jpg"
+title: "Shibumi di Lucci è un inno all’hip hop e ai suoi valori"
+excerpt: "Ogni anno, puntuali come orologi svizzeri di pregevole fattura, spuntano le solite voci che ribadiscono con una certa veemenza che l’hip hop è morto; negli ultimi anni poi, forti della diffusione del fenomeno trap – declinato in tutte le se varianti – e del suo immaginario, le voci si sono fatte anche più insistenti. E [&hellip"
+quote: ""
+description: "Ogni anno, puntuali come orologi svizzeri di pregevole fattura, spuntano le solite voci che ribadiscono con una certa veemenza che l’hip hop è morto; negli ultimi anni poi, forti della diffusione del fenomeno trap – declinato in tutte le se varianti – e del suo immaginario, le voci si sono fatte anche più insistenti. E [&hellip"
+keywords: ""
+date: 2018-08-13T00:00:00.000+01:00
+author: "Riccardo Primavera"
+cover: "/assets/uploads/import.recensioni/lucci-shibumi.jpg"
+pagination:
+  enabled: true
+
+---
+
+Ogni anno, puntuali come orologi svizzeri di pregevole fattura, spuntano le solite voci che ribadiscono con una certa veemenza che l’hip hop è morto; negli ultimi anni poi, forti della diffusione del fenomeno trap – declinato in tutte le se varianti – e del suo immaginario, le voci si sono fatte anche più insistenti. E ogni anno escono prodotti che sfatano completamente questo mito, regalando agli appassionati canzoni realizzate con il cuore, pregne di tutto ciò che la cultura hip hop rappresenta. Tra i progetti di questo tipo usciti nel 2018 va indubbiamente inserito _Shibumi_: il nuovo disco di **Lucci** è infatti un inno alla cultura della doppia H, protagonista del disco tanto quanto la vita dell’autore. Il membro dei **Brokenspeakers** si è sempre contraddistinto per la carica emotiva delle sue liriche, un turbinio di emozioni diverse e a tratti disperate, dalla serenità alla sofferenza, dalla rabbia all’amore, dall’impulsività all’introspezione e alla riflessività. Se quest’ultimo aspetto rivestiva un ruolo forse preponderante in _Brutto e Stonato_ – il suo disco precedente -, in Shibumi il lato più “combattivo” del suo rap sembrerebbe farla da padrone, sebbene non manchino momenti più contemplativi o emotivamente sensibili (come _Khan_, _Satori_ o la title track). Brani quali _Underdog_ e _Bickle_ sono carichi di una vena aggressiva, mai doma, alimentata dalla passione per l’hip hop e incalzata dal fatto che molto spesso questa cultura venga ignorata, se non calpestata. Lucci non spara a zero su chiunque abbracci sonorità o tematiche di un certo tipo, quanto più con chi rinnega ciò che c’è di diverso e ciò che c’era prima, prima che la torta non fosse grande come ora – quando clout chaser e persone prive di talento non trovavano posto a tavola, anzi venivano cacciate a calci. Una rivendicazione di appartenenza forte, rappata sulle produzioni di **Ford78**, variegate al punto giusto ma dal sapore squisitamente classico – nell’accezione più positiva possibile. Batterie solide e campioni scelti su misura per le atmosfere di ciascun brano: dalla minacciosa inquietudine di _Flop_ allo zen di _Shibumi_, passando per le tinte quasi “iceoneiane” di Bickle.
+
+Ad accompagnarlo al microfono ci sono **Danno** e **White Boy**: da un lato un’icona della scena romana (e italiana, senza dubbio), dall’altro una giovane promessa capitolina. Lucci unisce passato, presente e futuro al microfono, scegliendo la coerenza e non la visibilità o il nome ad effetto. Il risultato è una complementarità genuina delle strofe, che si susseguono alla perfezione, trasmettendo lo stesso tipo di vibrazioni e dando voce allo stesso tipo di visione del rap e dell’hip hop.
+
+Shibumi non è un disco scritto per scalare le classifiche, per far ballare d’estate o per acquistare nuovi fan dal bacino d’utenza del mainstream di oggi: è un disco dedicato a chi, come Lucci, è cresciuto con dei valori che, una volta riscontrati anche nella cultura hip hop, lo ha fatto innamorare di quest’ultima e del rap. La conferma? Il ritornello di Boombap, l’ultima traccia, lo ripete forte e chiaro: “_Manname il boombap, è l’unica certezza in questa cazzo di giungla_”.
