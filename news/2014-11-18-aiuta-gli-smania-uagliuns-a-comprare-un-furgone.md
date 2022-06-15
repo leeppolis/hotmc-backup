@@ -1,0 +1,25 @@
+---
+layout: news
+category: News
+banner: "/assets/uploads/import.news/smania.jpg"
+title: "Aiuta gli Smania Uagliuns a comprare un furgone!"
+excerpt: "Gli Smania Uagliuns fanno appello a tutti voi perché vi mettiate una mano sul cuore e l’altra sul portafoglio. Il nobile progetto che dovete finanziare è l’acquisto di un furgone di seconda mano per la band perché, come senz’altro sapete se avete mai assistito a un loro live, a differenza della maggior parte dei rapper [&hellip"
+quote: ""
+description: "Gli Smania Uagliuns fanno appello a tutti voi perché vi mettiate una mano sul cuore e l’altra sul portafoglio. Il nobile progetto che dovete finanziare è l’acquisto di un furgone di seconda mano per la band perché, come senz’altro sapete se avete mai assistito a un loro live, a differenza della maggior parte dei rapper [&hellip"
+keywords: ""
+date: 2014-11-18T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import.news/smania.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2012/11/smania.jpg)
+
+Gli Smania Uagliuns fanno appello a tutti voi perché vi mettiate una mano sul cuore e l’altra sul portafoglio. Il nobile progetto che dovete finanziare è l’acquisto di un furgone di seconda mano per la band perché, come senz’altro sapete se avete mai assistito a un loro live, a differenza della maggior parte dei rapper hanno parecchia strumentazione che è difficile trasportare in giro per l’Italia. Ecco che cosa raccontano per convincervi (qui sopra potete anche vedere un video che illustra la loro immensa tristezza nel non possedere il tanto agognato mezzo di trasporto):  
+_Vi è mai capitato di risvegliarvi sulla custodia di un sintetizzatore? A volte capita, quando non possiedi un mezzo adatto agli spostamenti per i live. Peccato che il sintetizzatore fosse di un’altra band, che invece aveva un fantastico furgone. Da allora non passa giorno che non sogniamo di possederne uno: un furgone con gli interni in radica e gli esterni in frassino per mettere in atto i nostri segreti piani stellari. Purtroppo la nostra condizione di mezzadri indigenti non ci consente di acquistarne uno. Forse però con il vostro aiuto potremmo farcela, sentite qua! FURGONE, questo termine cela dietro di se un cosmo di fortissime emozioni del tipo: tour per l’Italia a bordo di un furgone, testacoda col furgone, fuga dai federali a bordo di un furgone, furgone portavalori (intesi come valori umani, non monetari)…ma detta così non rende la formidabile idea che c’è dietro. Ve la spieghiamo: nella nostra vita di band spesso ci troviamo a fronteggiare l’annoso problema degli spostamenti per i live e di conseguenza, per contenere i costi, davanti alla scelta obbligata di lasciare a casa parte dei nostri corpi mandando via gli strumenti o, nel caso peggiore, di rinunciare al concerto._
+
+_Da qui l’idea di acquistare un mezzo furgonato a basso costo (magari d’epoca, tipo uno di quei wolswagen degli anni’ 70), da sistemare e poi personalizzare secondo lo stile Smania. In realtà il tutto rientra in un discorso molto più ampio che va oltre l’esigenza fisica e reale del mezzo di trasporto e che fa parte di un sogno che coviamo nel cassetto da svariato tempo: girare l’Italia a bordo della “navicella Smania” per raccogliere fisicamente idee, suoni, video ed immagini da convogliare nella realizzazione di un EP interattivo e di un VIDEO-documentario. Spesso l’artista si perde nei meandri della sua mente quando racconta in musica i suoi pensieri, ma ci si emoziona veramente solo quando un brano parla davvero a noi e di noi. Dunque cosa provereste se un brano fosse creato proprio DA VOI? Ma non si tratterebbe solo di musica, vorremmo che il vostro contributo fosse totale. Vorremmo infatti realizzare un EP con materiali e spunti direttamente creati e suggeriti da voi supporter. Sia per quanto riguarda i testi che la parte musicale vi chiederemo infatti di interagire direttamente durante la creazione di questo progetto, mandandoci (o consegnandoci fisicamente) idee, frasi, rime, sample, riff, versi, suoni o qualsiasi altra cosa vi venga in mente. Tutto questo materiale verrà poi selezionato, rielaborato e riarrangiato per dare vita alle NOSTRE-VOSTRE canzoni. Questo ci renderà un unico enorme gruppo…sarete, oh amici, parte integrante del nostro progetto…in pratica sarete anche voi SMANIA UAGLIUNS, diamine! Anche il video report si baserà sullo stesso principio. Inseriremo quindi le vostre facce e i vostri spunti anche lì. Ma la cosa più mirabolante è proprio che tutto questo vostro materiale ce le verremo a prendere noi di persona nelle vostre dimore e città, proprio tramite il famigerato FURGONE che diventerà dunque anche un po’ il vostro mezzo. Infatti il suo interno/esterno verrà tappezzato di vostre frasi, scritte, foto, oggetti e chi più ne più ne metta._
+
+Per scoprire come contribuire alla campagna, visitate la [**pagina Facebook** ](https://www.facebook.com/smaniauagliuns "https://www.facebook.com/smaniauagliuns")della band da domani.
