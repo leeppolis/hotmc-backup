@@ -1,3 +1,5 @@
+![](https://hotmc.pages.dev/assets/img/opengraphdefault.png)
+
 # HOTMC Backup
 
 Questo repository contiene in backup di tutti i contenuti (news, interviste, articoli, recensioni) pubblicati su [HOTMC](https://hotmc.com) tra il 2002 e il 2022.
