@@ -1,8 +1,8 @@
-# Hotmc Backup
+# HOTMC Backup
 
 Questo repository contiene in backup di tutti i contenuti (news, interviste, articoli, recensioni) pubblicati su [HOTMC](https://hotmc.com) tra il 2002 e il 2022.
 
-# Hotmc
+# HOTMC
 
 [HOTMC](https://hotmc.com) ha avuto una storia travagliata: all'inizio si trattava di un sito essenzialmente di news, aggiornate settimanalmente. Si è poi evoluto in un vero e proprio magazine, si è fuso con altre realtà che gravitavano attorno al movimento hip hop italiano (una su tutti [CIRI - Cerca Il Rap Italiano](https://ciri.it), motore di ricerca ante-litteram dedicato ai siti hip hop in lingua italiana), ha dato vita a realtà che hanno lasciato il segno ([HipHopHotBoards](https://hiphophotboards.com): la community pre-social network dedicata all'hip hop più frequentata in Italia) e creato esperimenti che, in un'epoca pre-facebook hanno aiutato la piccola comunità hip hop italiana a promuoversi ([LiveHipHop](https://livehiphop.it) - Il calendario per gli eventi hip hop in Italia).
 
