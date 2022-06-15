@@ -1,0 +1,22 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/cities-640x344.jpg"
+title: "Cities XXL"
+excerpt: "  L’arrivo nel 2013 del nuovo attesissimo Sim City, e la conseguente delusione degli appassionati che si aspettavano un gioco molto più legato alle sue storiche ed amate radici, ha convinto Focus Home Interactive a sfruttare la scia rimaneggiando e riproponendo per la terza volta Cities XL, che per questa occasione è stato ribattezzato Cities [&hellip"
+quote: ""
+description: "  L’arrivo nel 2013 del nuovo attesissimo Sim City, e la conseguente delusione degli appassionati che si aspettavano un gioco molto più legato alle sue storiche ed amate radici, ha convinto Focus Home Interactive a sfruttare la scia rimaneggiando e riproponendo per la terza volta Cities XL, che per questa occasione è stato ribattezzato Cities [&hellip"
+keywords: ""
+date: 2015-02-22T00:00:00.000+01:00
+author: "Game Master"
+cover: "/assets/uploads/import.rubriche/cities-640x344.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2015/02/cities.jpg)
+
+L’arrivo nel 2013 del nuovo attesissimo Sim City, e la conseguente delusione degli appassionati che si aspettavano un gioco molto più legato alle sue storiche ed amate radici, ha convinto Focus Home Interactive a sfruttare la scia rimaneggiando e riproponendo per la terza volta Cities XL, che per questa occasione è stato ribattezzato Cities XXL. Ancora più grande! Ancora più rifinito! La sua forza non è tanto gameplay, ma nelle sue potenzialità di “plastico interattivo”, che è poi uno degli aspetti che hanno reso Sim City 4 il gioco immortale che è. La differenza con il classicone Maxis è di approccio: il sindaco di Cities XL infatti non decide soltanto la densità abitativa di un’area RCI, ma deve anche scegliere a quale classe sociale assegnarla (tra operai generici, specializzati, ceto medio alto ed elite). Una regola che si discosta dal solito Sim City e che aprirebbe anche a una maggiore varietà di approcci, se non fosse così stupidamente diligente e prevedibile. La simulazione che governa Cities XXL è fatta di semplicissime equazioni fin troppo facili da tenere a bada, al punto che tra un’azione e l’altra il gioco sembrerà quasi andare in pausa. Un po’ di posti di lavoro di qua, e un po’ di nuove abitazioni a supportarli di là, e l’equilibrio è garantito. Fortunatamente le cose diventano un po’ più complesse da gestire nel momento in cui si è chiamati a fornire alla popolazione servizi avanzati, o quando per qualche errore di pianificazione il traffico ci sfuggirà irrimediabilmente di mano. È proprio la possibilità di tenere al guinzaglio le nostre creazioni a rendere Cities XXL molto più adatto a chi desidera semplicemente costruire qualcosa di bello, piuttosto che qualcosa di funzionale. A tal proposito, se non vi piace tentare la sorte, potrete anche decidere l’aspetto di ciascun edificio, in modo da sfruttare il realismo della specularità, o dare un tocco particolare a un quartiere in via di realizzazione. Per movimentare di poco il gameplay di Cities XXL, a volte qualche edificio potrà cadere in rovina e sostituito automaticamente da un altro, ma non aspettatevi niente di paragonabile all’estrema reattività che fa da sfondo alle meccaniche di un qualsiasi Sim City bidimensionale. Naturalmente tornano anche le GEM previste dal primo gioco e divenute realtà solo nella versione 2011: si tratta di moduli speciali che rappresentano una sorta di gioco nel gioco, e che permettono di costruire e gestire cose come impianti sciistici e balneari. Cities XXL si arricchisce di un nuovo strato di gameplay quando gli abitanti saranno abbastanza da intaccare le risorse necessarie per mandare avanti la città. Da quel momento in poi, il giocatore è chiamato a tenere sempre d’occhio le riserve cittadine e quando necessario operare sul mercato globale acquistando acqua, carburanti e tutte le materie prime di cui si ha bisogno per andare avanti. Ma di buone sorprese ne riserva anche l’agricoltura, e la splendida e tutt’ora inarrivabile gestione di parchi e piazze, capaci di riempire in grande semplicità e precisione ogni buco necessario. La cosa migliore di Cities XXL è la possibilità di osservare la città direttamente dagli occhi dei suoi abitanti, basta cliccare su uno di loro o su una vettura per essere immediatamente teletrasportati lì, ad altezza uomo, e sentirsi un po’ dei turisti in casa propria.
+
+Voto: 7.5

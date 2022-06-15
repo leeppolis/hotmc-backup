@@ -1,0 +1,22 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/steelsoldiers.jpg"
+title: "Z Steel Soldiers"
+excerpt: "Dopo 500 anni di battaglie in cui si sono fronteggiate due grandi corporazioni rivali la TransGLobal Industries e la MegaCom Corporation per la supremazia del mondo, è stato siglato un cessate il fuoco e un accordo di smilitarizzazione per entrambe le fazioni. Le operazioni di disarmo vengono affidate al Capitano Zod, un robot programmato per [&hellip"
+quote: ""
+description: "Dopo 500 anni di battaglie in cui si sono fronteggiate due grandi corporazioni rivali la TransGLobal Industries e la MegaCom Corporation per la supremazia del mondo, è stato siglato un cessate il fuoco e un accordo di smilitarizzazione per entrambe le fazioni. Le operazioni di disarmo vengono affidate al Capitano Zod, un robot programmato per [&hellip"
+keywords: ""
+date: 2014-07-15T00:00:00.000+01:00
+author: "Game Master"
+cover: "/assets/uploads/import.rubriche/steelsoldiers.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2014/07/steelsoldiers.jpg)  
+Dopo 500 anni di battaglie in cui si sono fronteggiate due grandi corporazioni rivali la TransGLobal Industries e la MegaCom Corporation per la supremazia del mondo, è stato siglato un cessate il fuoco e un accordo di smilitarizzazione per entrambe le fazioni. Le operazioni di disarmo vengono affidate al Capitano Zod, un robot programmato per combattere, dall’ambizione sfrenata. Praticamente la persona sbagliata nel posto sbagliato. La guerra riprende e a questo punto interverrete voi per decidere le sorti della battaglia. Questo nuovo episodio propone 30 missioni individuali che si svolgeranno in sei ambientazioni differenti tipo deserto, foreste e circolo polare artico. Sono presenti inoltre 20 mappe multiplayer aggiuntive e sono supportati fino a 8 giocatori contemporaneamente via Lan o Internet. Per quanto riguarda i mezzi potremo contare su circa trenta unità (terrestri, navali e aeree) e una ventina di diverse strutture che potrete edificare. La cosa che ha colpito in Z Steel Soldier è il diverso approccio che è stato dato al gioco. Nel titolo non dovrete preoccuparvi di raccogliere le risorse che poi vi permetteranno di avere i fondi per costruire nuovi edifici e veicoli. L’accento è stato spostato sull’azione, la quantità di denaro di cui disporrete infatti è in relazione con il numero di zone del territorio che avreste conquistato. Per far questo dovrete raggiungere delle bandierine sparse nella mappa di gioco che una volta conquistate diventeranno del colore della vostra squadra. In Z Steel Soldier pertanto strategie tipo: sto rintanato nella mia base, costruisco uno sciame di mezzi d’assalto e quando sono pronto parto all’attacco, non funzioneranno assolutamente e porteranno inevitabilmente alla sconfitta. Piuttosto dovrete cercare di costruire più postazioni sparse per il territorio e farle collaborare per riuscire a completare la missione. Nel gioco inoltre si è cercata di implementare la massima semplicità nel sistema di controllo sempre nell’ottica di favorire l’immediatezza dell’azione. La grafica delle unità e del territorio è completamente in 3D e questo fattore si ripercuote sulle tattiche che dovremo adottare. Le montagne e i passaggi all’interno di strette vallate infatti rivesto un ruolo decisivo nella strategia da adottare richiedendo di volta in volta mezzi e truppe specifiche per l’occasione. Con il mouse è possibile cambiare l’angolo di visuale e quindi potremo muoverci a 360 gradi nell’ambiente circostante. E’ possibile zoomare per seguire più nel dettaglio alcune fasi dell’azione azione oppure allontanarsi ed avere una visione da lontano utile quando si deve pianificare la strategia di attacco. Complessivamente la grafica è ben realizzata anche se gli ambienti non sono molto ricchi di dettagli. In ogni caso è pienamente adeguata per questo genere di gioco. Il comportamento delle unità controllate dal computer è credibile. L’intelligenza artificiale implementa nel gioco è buona e garantisce una sfida più appagante. La difficoltà è superiore a quella riscontrata in altri prodotti simili per cui preparatevi a sfide ardue in cui dovrete impegnarvi a fondo per riuscire ad avere la meglio.  
+Questa riedizione ad opera di Kiss Ltd è parecchio apprezzata e il team ha appena lanciato un progetto su Kickstart per un titolo intitolato Solarix https://www.kickstarter.com/projects/kissltd/solarix
+
+Voto: 8

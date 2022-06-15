@@ -1,0 +1,38 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/laurynhill.jpeg"
+title: "Eventi & Concerti: 19 marzo – 25 agosto"
+excerpt: "Torna la consueta lista di eventi e concerti imperdibili in quel della nostra ridente penisola. E’ in arrivo in Italia in questi giorni Myles Sanko, talentuoso soulman inglese: il 19 marzo a Milano, il 20 a Salerno e il 21 a Bari. Più info su Facebook. Torna dalle nostre parti anche Marcus Miller, una vera e propria leggenda del [&hellip"
+quote: ""
+description: "Torna la consueta lista di eventi e concerti imperdibili in quel della nostra ridente penisola. E’ in arrivo in Italia in questi giorni Myles Sanko, talentuoso soulman inglese: il 19 marzo a Milano, il 20 a Salerno e il 21 a Bari. Più info su Facebook. Torna dalle nostre parti anche Marcus Miller, una vera e propria leggenda del [&hellip"
+keywords: ""
+date: 2015-03-18T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import.rubriche/laurynhill.jpeg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2015/03/laurynhill.jpeg)
+
+Torna la consueta lista di eventi e concerti imperdibili in quel della nostra ridente penisola.
+
+E’ in arrivo in Italia in questi giorni **Myles Sanko**, talentuoso soulman inglese: il 19 marzo a Milano, il 20 a Salerno e il 21 a Bari. Più info[ **su Facebook.**](https://www.facebook.com/mylessankofanpage "https://www.facebook.com/mylessankofanpage")
+
+Torna dalle nostre parti anche **Marcus Miller**, una vera e propria leggenda del jazz, amatissimo anche da chi ascolta altri generi musicali derivati dalla black. Sarà il 31 marzo a Roma, l’1 aprile a Padova e il 2 aprile a Milano: i dettagli li trovate [**qui**](http://dalessandroegalli.com/events/333/marcus-miller "http://dalessandroegalli.com/events/333/marcus-miller").
+
+Bellissima notizia: il 18 aprile arriva a Milano **dj Premier** per un super dj set nell’ambito del tradizionale Design Week Festival di Elita. La stessa sera, nella stessa location, anche un live di Mecna, uno di IceOne e uno di **Shabazz Palaces**: fate un po’ voi. Tutte le info sul [**sito di Elita**](http://www.designweekfestival.com/ "http://www.designweekfestival.com/").
+
+Tour estivo in previsione anche per **Damian Marley**, che il 30 giugno sarà a [**Milano**](https://www.facebook.com/events/1542437546014592/ "https://www.facebook.com/events/1542437546014592/"), l’1 luglio a [**Roma**](http://www.the-base.it/405-Damian-Jr.-Gong-Marley-concerto-roma-the-base.html "http://www.the-base.it/405-Damian-Jr.-Gong-Marley-concerto-roma-the-base.html") e il 6 luglio a [**Piazzola sul Brenta**](http://www.zedlive.com/biglietti-damian-jr-gong-marley-piazzola-brenta-padova/ "http://www.zedlive.com/biglietti-damian-jr-gong-marley-piazzola-brenta-padova/").
+
+Il 5 luglio è il turno di **John Legend** che torna in Italia per il Lucca Summer Festival: le prevendite sono [**già aperte**](http://www.summer-festival.com/events/347/john-legend "http://www.summer-festival.com/events/347/john-legend").
+
+Il 13 luglio, un imperdibile evento-bomba: ebbene sì, miss **Laurny Hill** torna dalle nostre parti per un’unica data italiana, il 13 luglio a Roma. Tutte le info [**qui**](http://www.the-base.it/420-Lauryn-Hill-concerto-roma-the-base.html "http://www.the-base.it/420-Lauryn-Hill-concerto-roma-the-base.html").
+
+Il 28 luglio è il turno di **Snoop Dogg** a Lucca: [**qui**](http://www.summer-festival.com/events/351/snoop-dogg "http://www.summer-festival.com/events/351/snoop-dogg") i dettagli.
+
+Infine, un’altra novità in previsione dell’estate: è stata appena annunciata l’unica data italiana di **Yelawolf**, prevista per il 25 agosto al Magnolia. Prevendite aperte su [**Ticketone**](https://www.facebook.com/events/442180529268876/?pnref=story "https://www.facebook.com/events/442180529268876/?pnref=story").
+
+E con questo è più o meno tutto. Come sempre, segnalateci eventuali dimenticanze su [**Facebook**](https://www.facebook.com/hotmcmag "http://www.facebook.com/hotmcmag"). Alla prossima!

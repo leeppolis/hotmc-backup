@@ -1,0 +1,22 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/garden.jpg"
+title: "Plants vs Zombies Garden Warfare Pc"
+excerpt: "Plants vs. Zombies: Garden Warfare è uno sparatutto in terza persona in cui dovremo guidare una piantina, o un terribile non morto, verso la vittoria contro orde di nemici in arene online con altri giocatori. Quando EA annunciò che Piante contro Zombie sarebbe arrivato su console di nuova generazione nessuno si sarebbe mai aspettato un [&hellip"
+quote: ""
+description: "Plants vs. Zombies: Garden Warfare è uno sparatutto in terza persona in cui dovremo guidare una piantina, o un terribile non morto, verso la vittoria contro orde di nemici in arene online con altri giocatori. Quando EA annunciò che Piante contro Zombie sarebbe arrivato su console di nuova generazione nessuno si sarebbe mai aspettato un [&hellip"
+keywords: ""
+date: 2014-08-22T00:00:00.000+01:00
+author: "Game Master"
+cover: "/assets/uploads/import.rubriche/garden.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2014/08/garden.jpg)
+
+Plants vs. Zombies: Garden Warfare è uno sparatutto in terza persona in cui dovremo guidare una piantina, o un terribile non morto, verso la vittoria contro orde di nemici in arene online con altri giocatori. Quando EA annunciò che Piante contro Zombie sarebbe arrivato su console di nuova generazione nessuno si sarebbe mai aspettato un action tattico in terza persona tutto dedicato agli amanti del gaming online. L’azienda di Redwood, invece, ha preso tutti in contropiede proponendo un gioco che, pur nella sua semplicità cerca l’equilibrio fra modelli ludici classici e una struttura almeno leggermente più aperta a un pubblico non troppo esperto o con poco tempo a disposizione. Garden Warfare non è una parodia di un TPS né tantomeno un titolo puramente casual: il nuovo titolo di PopCap, infatti, mischia con una buona dose di mestiere elementi di entrambi i mondi risultando così appetibile sia ai giocatori più scafati sia a chi spesso teme gli scontri online. Garden Warfare vuole gettarci subito nella mischia e lo fa prendendo il toro per le corna: nel gioco praticamente non esiste una modalità per giocatore singolo, c’è qualche missione di allenamento, ma tutto il gioco è proiettato online fin dal primissimo minuto. Ispirandosi alle origini di Piante contro Zombie, PopCap ha strutturato le due tipologie di personaggi privilegiando le mosse d’attacco per i non morti e le abilità difensive per le nostre piantine: ovviamente ogni personaggio possiede una controparte che ne indebolisce i pregi e, manco a dirlo, le varie classi si basano sulle classiche categorie dei TPS classici come CounterStrike o Team Fortress. Una volta avviato il gioco si viene catapultati in un inferno dai colori pastello dove zombie e piante si scontrano in battaglie terribilmente frenetiche dove, ancor più della tecnica, è necessario avere riflessi pronti e una buona dose di adattabilità alle situazioni. Almeno per il momento Garden Warfare non prevede alcun tipo di contenuto a pagamento e, dunque, per sbloccare nuove classi, potenziamenti od oggetti non è necessario far altro che giocare, giocare il più possibile, allo scopo di raccogliere monete da spendere nello store interno del gioco. Peccato però che PopCap abbia deciso di rendere il tutto completamente casuale, senza dare al giocatore la possibilità di scegliere in quali potenziamenti investire le sue sudatissime monete: il risultato di questa scelta è discretamente frustrante, dopo aver giocato per ore si rischia di ottenere power up che non ci servono o, peggio ancora, nuovi personaggi del tutto inutili per la nostra strategia di gioco. Questa scelta è stata fatta per mantenere una certa varietà nel gameplay, impedendo una cristallizzazione eccessiva degli scontri; tuttavia il sistema apre anche a una certa randomicità, capace di frustrare le ambizioni e, alla lunga, piuttosto fastidiosa per chi desidera sperimentare tattiche non troppo consolidate. La trasposizione tridimensionale del mondo di Piante contro Zombie è ben riuscita e le nuove unità introdotte si accompagnano a personaggi ormai diventati dei grandi classici. Nel complesso, dunque, Garden Warfare è un TPS atipico ma, a modo suo, piuttosto riuscito: la semplificazione delle meccaniche di gioco permette a tutti di approcciarsi al titolo senza troppo timore, mentre gli scontri online riescono ad essere sempre divertenti e piuttosto appaganti.
+
+Voto: 8

@@ -1,0 +1,19 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/dark-souls-21-640x333.jpg"
+title: "Evento Dark Souls II"
+excerpt: "Dark Souls II verrà rilasciato il prossimo 14 marzo in Europa per Xbox 360 e PlayStation 3, dopo aver impressionato sia la critica in occasione del Tokyo Game Show 2013 sia il pubblico del web grazie all’ultimo trailer, rinominato “Cursed”. Ambientato in un tempo e in un luogo differenti rispetto al suo predecessore, il secondo [&hellip"
+quote: ""
+description: "Dark Souls II verrà rilasciato il prossimo 14 marzo in Europa per Xbox 360 e PlayStation 3, dopo aver impressionato sia la critica in occasione del Tokyo Game Show 2013 sia il pubblico del web grazie all’ultimo trailer, rinominato “Cursed”. Ambientato in un tempo e in un luogo differenti rispetto al suo predecessore, il secondo [&hellip"
+keywords: ""
+date: 2014-02-16T00:00:00.000+01:00
+author: "Game Master"
+cover: "/assets/uploads/import.rubriche/dark-souls-21-640x333.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/evento-dark-souls-ii/dark-souls-2-2/)  
+Dark Souls II verrà rilasciato il prossimo 14 marzo in Europa per Xbox 360 e PlayStation 3, dopo aver impressionato sia la critica in occasione del Tokyo Game Show 2013 sia il pubblico del web grazie all’ultimo trailer, rinominato “Cursed”. Ambientato in un tempo e in un luogo differenti rispetto al suo predecessore, il secondo capitolo di Dark Souls sembrerebbe avere le potenzialità per superarlo in ogni aspetto; abbiamo assistito all’anteprima di Dark Souls II, presso il Museo dei Navigli di Milano. All’evento era presente anche Tak Miyazoe, producer del gioco, il quale ha presentato il gameplay del titolo. Si è parlato del titolo nell’ambito dell’ European Press Tour di Dark Souls II. Il producer nipponico ha mostrato il trailer “Cursed” e terminato il video, Miyazoe è passato ad illustrare i miglioramenti effettuati e alcune novità riguardanti il gameplay. Si parte dalle meccaniche di gioco, rese maggiormente fluide, ed in particolare le schivate, più gestibili e funzionali quando si attaccano i nemici; il producer ha parlato, successivamente, della nuova possibilità di trovare giocatori più vicini alla nostra posizione geografica e di comunicare con loro attraverso una chat vocale, che potrete abilitare quando vorrete. Rimanendo nell’ambito del multiplayer, la modalità co-op sarà uno dei punti cardine del titolo, ancor più delle invasioni, secondo quanto riferito da Miyazoe. Un altro aspetto ampiamente analizzato da quest’ultimo è stato il ruolo che giocheranno i falò in Dark Souls II e quali saranno le novità che lo differenzieranno dal suo predecessore: oltre a rappresentare un’ancora di salvezza per tutti i giocatori, potrà essere utilizzato anche come mezzo per spostarsi tra i diversi luoghi del gioco precedentemente visitati; potrete, inoltre, bruciare determinati oggetti per ottenere effetti addizionali, come aumentare la forza dei nemici oppure potenziare le fiaschette Estus. In seguito, ci viene illustrato il nuovo assetto progettato per l’inventario: Miyazoe ha illustrato che la prima preoccupazione del team è stata quella di renderlo più ordinato e intuitivo, permettendone al contempo un ampliamento. Sarà possibile, inoltre, scegliere tra dieci anelli con impresso il nome di una divinità, permettendo così ai giocatori che avranno scelto il medesimo Dio di unirsi in combattimento. Infine viene introdotta l’utilità di un oggetto speciale chiamato “Soul Vessel”: portando quest’ultimo in determinati luoghi del gioco, sarete in grado di modificare i parametri od addirittura azzerare i parametri del vostro personaggio. Le ambientazioni risultano più dettagliate, così come l’arma e la rudimentale armatura del personaggio così come una maggiore fluidità nei movimenti del personaggio e dei nemici, dei quali è stata migliorata anche l‘IA.

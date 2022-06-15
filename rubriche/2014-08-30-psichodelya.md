@@ -1,0 +1,22 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/psicho.jpg"
+title: "Psichodelya"
+excerpt: "Psichodelya è un shoot-em-up verticale (aka SHMUP) ambientato in un setting futuristico in cui due razze aliene meccanizzate stanno conducendo una guerra aerea sulla Terra. Il giocatore controlla una delle 3 navi giocabili, schivando mucchi di pallottole e tentando di uccidere ondate di nemici in coop singolo o con 2 giocatori locali, su 5 livelli [&hellip"
+quote: ""
+description: "Psichodelya è un shoot-em-up verticale (aka SHMUP) ambientato in un setting futuristico in cui due razze aliene meccanizzate stanno conducendo una guerra aerea sulla Terra. Il giocatore controlla una delle 3 navi giocabili, schivando mucchi di pallottole e tentando di uccidere ondate di nemici in coop singolo o con 2 giocatori locali, su 5 livelli [&hellip"
+keywords: ""
+date: 2014-08-30T00:00:00.000+01:00
+author: "Game Master"
+cover: "/assets/uploads/import.rubriche/psicho.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2014/08/psicho.jpg)
+
+Psichodelya è un shoot-em-up verticale (aka SHMUP) ambientato in un setting futuristico in cui due razze aliene meccanizzate stanno conducendo una guerra aerea sulla Terra. Il giocatore controlla una delle 3 navi giocabili, schivando mucchi di pallottole e tentando di uccidere ondate di nemici in coop singolo o con 2 giocatori locali, su 5 livelli che culminano con epici boss. Psichodelya è speciale perché in questa navicella il giocatore ha un colore da evitare ossia i proiettili dello stesso colore come il suo scudo, e allo stesso tempo le navi nemiche sono anch’esse di un colore diverso che li rende più vulnerabili ad un tipo di danno. Psichodelya è un progetto relativamente piccolo – un gioco che sarebbe un top-down shmup stile old-school (shoot-em-up) del calibro di Aero Fighters, Giga Ala, Espgaluda, R-Type Delta, Raiden, più recente Jamestown e soprattutto DoDonPachi. I controlli sono molto semplici – c’è il fuoco per sparare, tenere il fuoco per attivare il flusso laser, bombe, e l’interruttore di colore (più in basso). Sparare il flusso rallenta anche il giocatore rimasto a terra (che è consuetudine in questo tipo di giochi), per cui vi è una componente tattica in questo caso. Le bombe danneggiano tutto sullo schermo e cancellano tutti i proiettili, ma sono limitati in fornitura. La torsione principale con questo shmup è di due polarità della nave principale. Tutti i proiettili nel gioco hanno 2 colori di base: rosso e blu. Ogni nemico può anche essere rosso e blu. Il giocatore può passare tra due colori (polarità) della nave principale in qualsiasi momento, cambiando il colore dello scudo. I nemici sono anche più vulnerabili a un colore dei colpi del giocatore. Alla fine di ogni livello c’è un enorme boss: più stadi, molti schemi di attacco, che richiedono rapidità di pensiero e buoni riflessi. Le meccaniche di gioco si basano su tre diverse navi giocabili, ciascuno con differenti tipi di colpo. Nella schermata iniziale, il giocatore può scegliere tra queste in base al tipo di fuoco. Ogni nave ha 5 fonti di fuoco, e 3 punti sempre avanti. Tutte le navi possono inoltre fare “streaming”. Significa che si tiene premuto il pulsante di fuoco, la nave inizia a sparare un laser enorme in avanti, che rallenta un po ‘, e fa più danni. Il giocatore sceglie uno dei due basandosi sulla preferenza nello sparare proiettili o a sequenza. Il gioco può essere goduto sia in singolo e multiplayer, il che significa che c’è solo la coop locale. Vi è il supporto per entrambi di Tastiera / Mouse e Gamepad, così due giocatori possono giocare sia su una tastiera, su una tastiera e gamepad, o utilizzando due gamepad. Tutti i comandi sono completamente personalizzabili. Significa che ogni giocatore sceglie il suo tipo di nave e il tipo di scatto preferito nella schermata di creazione del profilo, e continua per sbloccare stadi da lì. Esistono Pickups in Psichodelya, ma sono relativamente rari. Scudi, Bombe, potenziamenti, vite possono tutti essere ottenuti. Ci sono anche 5 livelli di difficoltà. Tutte le difficoltà svolgono le stesse fasi nello stesso modo, ma il numero di scudi aggiunto il livello di inizio è diversa. La maggior parte dei grandi nemici sparano modelli specifici, e non vengono uccisi solo in in un batter d’occhio.
+
+Voto: 8

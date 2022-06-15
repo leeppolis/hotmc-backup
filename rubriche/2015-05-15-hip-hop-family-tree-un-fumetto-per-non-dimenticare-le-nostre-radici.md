@@ -1,0 +1,29 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/HIP-HOP-FAMILY-TREE.jpeg"
+title: "Hip Hop Family Tree: un fumetto per non dimenticare le nostre radici"
+excerpt: "Fino a una decina di anni fa era normale, per un ragazzino che si interessava di rap, conoscere le origini dell’hip hop, la sua storia, i suoi pionieri. Impossibile non identificarsi in quel gruppo di pischelli che partendo dal nulla hanno inventato una cultura che ha cambiato il mondo: tutti sognavano di replicare quell’epopea nel [&hellip"
+quote: ""
+description: "Fino a una decina di anni fa era normale, per un ragazzino che si interessava di rap, conoscere le origini dell’hip hop, la sua storia, i suoi pionieri. Impossibile non identificarsi in quel gruppo di pischelli che partendo dal nulla hanno inventato una cultura che ha cambiato il mondo: tutti sognavano di replicare quell’epopea nel [&hellip"
+keywords: ""
+date: 2015-05-15T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import.rubriche/HIP-HOP-FAMILY-TREE.jpeg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2015/05/HIP-HOP-FAMILY-TREE.jpeg)  
+Fino a una decina di anni fa era normale, per un ragazzino che si interessava di rap, conoscere le origini dell’hip hop, la sua storia, i suoi pionieri. Impossibile non identificarsi in quel gruppo di pischelli che partendo dal nulla hanno inventato una cultura che ha cambiato il mondo: tutti sognavano di replicare quell’epopea nel proprio quartiere, anche se il quartiere in questione si chiamava Torpignattara o Comasina o Pino Torinese anziché South Bronx. Poi, misteriosamente, qualcosa è cambiato, e ci siamo ritrovati ad avere a che fare con una generazione che riesce a citarti a memoria la classifica dei piazzamenti nell’ultimo contest televisivo di freestyle, ma pensa che graffiti e rap non abbiano niente in comune, o che l’hip-hop (quello orrido e danzereccio scritto col trattino in mezzo) sia semplicemente una valida alternativa alla zumba. Come si rimedia a questo disastro? Semplice: diffondendo il messaggio giusto, anche attraverso libri, film e documentari. A partire da una serie a fumetti il cui primo volume è finalmente disponibile anche in versione italiana: _Hip Hop Family Tree_.
+
+L’autore di questo piccolo capolavoro è Ed Piskor, fumettista americano classe 1982 (ci limitiamo a presentarvelo così per non spoilerare, perché lo intervisteremo presto). Un bel giorno, qualche anno fa, ha avuto l’idea di raccontare la storia dell’hip hop in strisce, partendo dalle sue fondamenta negli anni ’70 e mostrando tutti gli intrecci, le coincidenze, i retroscena e gli scherzi del destino che hanno creato le circostanze della sua nascita ed evoluzione. Effettivamente i fumetti si prestano benissimo a questo tipo di operazione perché saltando di vignetta in vignetta è più facile cogliere il quadro generale, e capire ad esempio cosa faceva la (ex) gang di Afrika Bambaataa mentre Kool Herc, qualche isolato più in là, organizzava i primi block party. Sintetizzare tutto quello che è successo non è stato affatto facile, ma Piskor se l’è cavata egregiamente: il racconto è davvero dettagliato e ricchissimo di aneddoti e personaggi, caratterizzati in maniera perfetta. Ogni particolare è curato in maniera quasi maniacale, strappandoti continuamente un sorriso se già conosci la storia, e lasciandoti a bocca aperta se la leggi per la prima volta. Russell Simmons strabico e con la zeppola che cerca di fare da manager a tutti, anche a quelli che non lo vogliono; Grand Wizard Theodore che inventa lo scratch per sbaglio sul giradischi della mamma; Big Bang Hank della Sugar Hill Gang che viene “scoperto” dalla discografica Sylvia Robinson mentre lavora in pizzeria e canticchia rubando le rime ai suoi amici; un giovanissimo Fab 5 Freddy che gira le scuole d’arte di New York alla ricerca di un certo Lee Quinones, un writer che spacca di cui ha visto le tag in metropolitana, ma quando finalmente lo trova viene scambiato per uno sbirro…
+
+In origine, _Hip Hop Family Tree_ era (ed è tuttora) pubblicato a puntate su [**BoingBoing.net**](https://boingboing.net/tag/hip-hop-family-tree "http://boingboing.net/tag/hip-hop-family-tree"), uno dei più famosi blog omnicomprensivi americani, ma è stato raccolto anche in diversi volumi cronologici. Negli Stati Uniti ne hanno già pubblicati tre, l’ultimo dei quali tratta il biennio 1983-1984\. Questa settimana, finalmente, è uscito il primo volume della versione italiana, edita da Panini 9L, che si concentra dagli anni ’70 al 1981\. L’adattamento e la traduzione sono le migliori possibili, perché sono state curate da una persona che ne sa a pacchi sia in materia di hip hop che in materia di fumetti: Antonio Solinas, che ogni tanto avete avuto occasione di leggere anche sulle nostre pagine ed è riuscito a conferire al linguaggio un’autenticità assolutamente paragonabile a quella originale. Il formato prescelto è quello dell’albo gigante a colori, che vi permetterà di godere appieno di ogni singola vignetta, ma anche delle bellissime illustrazioni speciali che chiudono il racconto. Ottime e utilissime anche cronologia, discografia, bibliografia, indice analitico (nel solo volume 1 sono nominate centinaia di persone realmente esistenti) e l’appendice per spiegare il rapporto che intercorre tra hip hop e fumetti. Insomma, fatelo per voi stessi e fatelo per le generazioni future a cui dovrete/ vorrete/ potrete tramandare la storia della vostra cultura: compratelo.
+
+_Hip Hop Family Tree_  
+ _di Ed Piskor_  
+ _traduzione di Antonio Solinas_  
+ _Panini 9L_  
+ _euro 22_

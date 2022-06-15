@@ -1,0 +1,21 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/pac-man-e-le-avventure-mostruose-hd-ps3-979185.jpg"
+title: "Pacman e le avventure mostruose"
+excerpt: "Il Pac-Man dell’ultima avventura firmata Namco (e sviluppata dagli studi interni americani) è a tutti gli effetti un personaggio differente da quella che fu, la trasposizione in chiave interattiva di quello che ricopre il ruolo da protagonista nell’omonima serie animata. Un eroe adolescente, irriverente quanto basta per aderire al canone di un cartone animato per [&hellip"
+quote: ""
+description: "Il Pac-Man dell’ultima avventura firmata Namco (e sviluppata dagli studi interni americani) è a tutti gli effetti un personaggio differente da quella che fu, la trasposizione in chiave interattiva di quello che ricopre il ruolo da protagonista nell’omonima serie animata. Un eroe adolescente, irriverente quanto basta per aderire al canone di un cartone animato per [&hellip"
+keywords: ""
+date: 2014-04-20T00:00:00.000+01:00
+author: "Game Master"
+cover: "/assets/uploads/import.rubriche/pac-man-e-le-avventure-mostruose-hd-ps3-979185.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2014/04/pac-man-e-le-avventure-mostruose-hd-ps3-979185.jpg)  
+Il Pac-Man dell’ultima avventura firmata Namco (e sviluppata dagli studi interni americani) è a tutti gli effetti un personaggio differente da quella che fu, la trasposizione in chiave interattiva di quello che ricopre il ruolo da protagonista nell’omonima serie animata. Un eroe adolescente, irriverente quanto basta per aderire al canone di un cartone animato per bambini e tutto intento a lasciarsi andare a urletti e strepitii assortiti. Quel che più conta, però, è che il gioco di cui è protagonista ha poco a che spartire sia con lo strepitoso Pac-Man Championship Edition, quanto con alcuni esperimenti meno recenti, ma assai più stuzzicanti. Il riferimento è a Pac-Pix o Pac’n Roll, entrambi pubblicati nei primi mesi di vita del Nintendo DS, quando sembrava che Namco avesse trovato, nella console portatile Nintendo, una nuova dimensione in cui far albergare allegramente la sua icona. Pac-Man e le Avventure Mostruose è invece un gioco di piattaforme con tante idee e voglia di fare. La chiave di volta attorno a cui è organizzato il gioco è rappresentata dalle tante trasformazioni a cui Pac-Man può accedere ingoiando una certa quantità di differenti pillole colorate: c’è Pac-Man Camaleonte che, brutto come il peccato, può passare inosservato agli occhi dei nemici (ma non si capisce esattamente perché dovrebbe farlo) o utilizzare la lingua per aggrapparsi a dei paletti sporgenti, che gli permettono di muoversi lungo i livelli. C’è poi il Pac-Man che può lanciare palle di fuoco per annullare gli effetti glaciali di qualche fantasma o Pac-Man Gomma che può attaccarsi alle pareti e andare tostissimo di wall-jump come se non ci fosse un domani. Le trasformazioni di Pac-Man sono l’aspetto caratteristico del gioco. Ma non basta. Insomma, come anticipato le idee al servizio del gioco non mancano. Da promuoverei comportamenti dei nemici: ogni fantasma ha un suo modo di muoversi ed attaccare, da quello che scompare per ricomparire sotto ai piedi di Pac-Man, a quello che lo sorvola vomitando una sorta di slime verde. In realtà è sufficiente premere velocemente sul pulsante della masticata per farli fuori tutti in, generalmente, una manciata di secondi, ma costituiscono comunque una delle parti più riuscite del gioco. I giocatori più giovani e affezionati, eventualmente, al cartone animato, potranno tranquillamente farsela andare bene, anche perché alcuni passaggi sono comunque simpatici e ben caratterizzati, ma da questi hardware, in questo momento storico, è lecito attendersi di più. Per quanto il level design sia quasi sempre troppo prevedibile, Pac-Man e le Avventure Mostruose riesce perlomeno a dire qualcosa di buono quando si tratta di scovare gli elementi segreti che permettono di considerare completato al 100% un livello o, in altri casi, danno accesso a dei minigiochi extra, accessibili al di fuori dei classici schemi di gioco.
+
+Voto: 6.5

@@ -1,0 +1,31 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/Angela-Davis-620x480_480x500_scaled_cropp.jpg"
+title: "Angela Davis: l’autobiografia della rivoluzionaria più famosa d’America"
+excerpt: "Questa settimana sarebbe stato doveroso parlare di uno dei massimi esponenti della letteratura black, Amiri Baraka, che proprio qualche giorno fa è venuto a mancare dopo una vita di battaglie civili e opere indimenticabili. Poeta, drammaturgo, romanziere e saggista, Amiri Baraka ha rappresentato un’enorme ispirazione per moltissimi musicisti hip hop (basti pensare che i Roots [&hellip"
+quote: ""
+description: "Questa settimana sarebbe stato doveroso parlare di uno dei massimi esponenti della letteratura black, Amiri Baraka, che proprio qualche giorno fa è venuto a mancare dopo una vita di battaglie civili e opere indimenticabili. Poeta, drammaturgo, romanziere e saggista, Amiri Baraka ha rappresentato un’enorme ispirazione per moltissimi musicisti hip hop (basti pensare che i Roots [&hellip"
+keywords: ""
+date: 2014-01-14T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import.rubriche/Angela-Davis-620x480_480x500_scaled_cropp.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/angela-davis-lautobiografia-della-rivoluzionaria-piu-famosa-damerica/angela-davis-620x480%5F480x500%5Fscaled%5Fcropp/)
+
+Questa settimana sarebbe stato doveroso parlare di uno dei massimi esponenti della letteratura black, Amiri Baraka, che proprio qualche giorno fa è venuto a mancare dopo una vita di battaglie civili e opere indimenticabili. Poeta, drammaturgo, romanziere e saggista, Amiri Baraka ha rappresentato un’enorme ispirazione per moltissimi musicisti hip hop (basti pensare che i Roots lo hanno voluto in studio durante numerose session di registrazione). L’unico suo libro edito in Italia, _Il popolo del blues_, è un saggio che analizza la storia degli afroamericani in base ai cambiamenti della loro musica: essendo fuori catalogo risulta ormai introvabile, ed è questo il motivo per cui non ci dilunghiamo sulla sua opera oggi. Se qualcuno volesse provare a procurarselo tramite canali alternativi, sappia che l’ultima ristampa disponibile è quella di Shake del 2011 (euro 10 circa).
+
+Ma per un classico non più in vendita ce n’è un altro che viene ristampato, per fortuna: si tratta della fortunatissima _Autobiografia di una rivoluzionaria_ di Angela Davis, forse la più famosa attivista nera dopo Martin Luther King e Malcom X. Nata nell’epicentro del razzismo dei tempi, ovvero l’Alabama degli anni ’40, Angela è una ragazza intelligentissima e determinata, che fin da piccola ha le idee molto chiare: vincendo una borsa di studio dopo l’altra, a 14 anni si trasferisce a New York per frequentare un liceo sperimentale che integra bianchi e neri (ai tempi esistevano ancora scuole separate a seconda dell’etnia). Qui viene a contatto con l’ideologia marxista, che ben presto sposa in toto: secondo lei, infatti, il razzismo che sperimenta ogni giorno è alimentato soprattutto dalla rigida divisione in classi sociali della società americana dell’epoca. Come esponente di spicco del movimento giovanile comunista viaggia molto e ha occasione di visitare l’Europa, e infine decide di trasferirsi nel vecchio continente per qualche anno, vivendo prima a Parigi (dove si laurea in letteratura francese) e poi a Francoforte (dove intraprende un dottorato in filosofia). Ancora venticinquenne, rientra negli Stati Uniti: i suoi titoli di studio le danno diritto a un posto da professoressa all’UCLA, università californiana. Lì continua la sua militanza antirazzista e anticlassista sia nel partito comunista americano che tra le fila del Black Panther Party, a cui aderisce brevemente. Purtroppo, però, i comunisti non sono visti di buon occhio negli USA, ragion per cui il consiglio accademico decide di intraprendere un’azione di licenziamento contro di lei. In suo favore si solleverà un movimento popolare amplissimo, che la renderà celebre in tutto il mondo.
+
+E qui arrivano i guai veri, perché Angela Davis decide di sfruttare questa sua popolarità improvvisa per intraprendere personalmente una campagna di sensibilizzazione nei confronti di tre prigionieri politici, i Fratelli di Soledad, rinchiusi nel braccio della morte. Si innamora anche di uno di loro, George Jackson (per saperne di più su di lui vi rimandiamo alla raccolta dei suoi scritti dal carcere, _Con il sangue agli occhi_, pubblicata da Agenzia X). Un brutto giorno il fratello diciassettenne di George, Jonathan, nel tentativo di richiamare l’attenzione sul destino del maggiore, prende in ostaggio un giudice, diversi giurati e il procuratore generale. Ostaggi e rapitore verranno tutti uccisi durante un blitz, e si scoprirà purtroppo che Jonathan aveva usato una pistola sottratta ad Angela per assaltare il tribunale, una pistola che lei deteneva regolarmente per autodifesa, viste le numerose minacce di morte che riceveva quotidianamente. Comincia così una lunga vicenda processuale che si trascinerà avanti per diversi anni e si concluderà con la sua piena assoluzione dalle accuse di rapimento, omicidio e cospirazione. La sua autobiografia è stata scritta e pubblicata proprio dopo questa assoluzione, quando aveva appena trent’anni. Sfortunatamente non potrà mai coronare il suo sogno d’amore con George, ucciso da una guardia del carcere quando lei era ancora in prigione in attesa del processo; gli altri due Fratelli di Soledad, grazie alla pressione dell’opinione pubblica generata dalle proteste di Angela, verranno entrambi assolti.
+
+Surreale sotto molti punti di vista, l’autobiografia di Angela Davis è incredibilmente affascinante, anche perché mostra una figura lontana anni luce dai soliti stereotipi: una donna giovanissima, molto colta, che conosce il mondo e incarna una posizione politica completamente assente negli Stati Uniti per come noi li conosciamo. Inoltre, cosa che non guasta affatto, il libro è scritto davvero bene ed è estremamente coinvolgente, grazie anche all’aiuto di una editor d’eccezione: Toni Morrison, forse la più famosa esponente della letteratura afroamericana contemporanea.
+
+**Autobiografia di una rivoluzionaria**  
+ **di Angela Davis**  
+ **Minimum Fax**  
+ **euro 10,00**

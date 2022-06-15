@@ -1,0 +1,22 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/ZDC1-VideoGameEN-640x574.png"
+title: "Yugi oh Zexal Duel Carnival"
+excerpt: "  Gli episodi su Nintendo DS e Playstation Portable hanno fatto appassionare una generazione di ragazzini ai giochi di carte collezionabili, e hanno rappresentato una discreta miniera d’oro per Konami che, con sforzi produttivi tutto sommato limitati, ha raggranellato numeri non male, sia sul mercato giapponese sia in occidente. Questo Zexal Duel Carnival sarà all’altezza [&hellip"
+quote: ""
+description: "  Gli episodi su Nintendo DS e Playstation Portable hanno fatto appassionare una generazione di ragazzini ai giochi di carte collezionabili, e hanno rappresentato una discreta miniera d’oro per Konami che, con sforzi produttivi tutto sommato limitati, ha raggranellato numeri non male, sia sul mercato giapponese sia in occidente. Questo Zexal Duel Carnival sarà all’altezza [&hellip"
+keywords: ""
+date: 2014-08-03T00:00:00.000+01:00
+author: "Game Master"
+cover: "/assets/uploads/import.rubriche/ZDC1-VideoGameEN-640x574.png"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2014/08/ZDC1-VideoGameEN.png)
+
+Gli episodi su Nintendo DS e Playstation Portable hanno fatto appassionare una generazione di ragazzini ai giochi di carte collezionabili, e hanno rappresentato una discreta miniera d’oro per Konami che, con sforzi produttivi tutto sommato limitati, ha raggranellato numeri non male, sia sul mercato giapponese sia in occidente. Questo Zexal Duel Carnival sarà all’altezza degli episodi precedenti? Le vicende prendono le mosse dalla quarta serie del manga dal titolo omonimo, e mettono inizialmente il giocatore nei panni di Yuma Tsukumo, giovane duellante che si affaccia per la prima volta ad un campionato internazionale, indetto da tale Mr. Heartland. I protagonisti, comunque, si moltiplicheranno, offrendo dodici sottotrame che si andranno ad intersecare, fornendo alla fine una visione d’insieme un po’ confusionaria. Come preannunciato nel paragrafo precedente, Zexal Duel Carnival è davvero brusco con i neofiti: oltre a non lasciare che la sottile trama sottesa all’azione su schermo sia alla portata di tutti coloro che non hanno letto gli albi originali, nel prodotto, di fatto, non è stato incluso alcun tipo di tutorial. A parte una rapida e mai esaustiva spiegazione sommaria durante i primissimi match, il giocatore viene lasciato totalmente in balia del software, che, come tutti i giochi di carte collezionabili, assomma un gran numero di regole e di carte di tipo diverso, pur mantenendosi lontano dalla complessità di un Magic The Gathering qualsiasi. Come nel gioco di Wizards of the Coast, c’è la possibilità di evocare creature, con valori di attacco e difesa, di usare incantesimi e di attivare trappole, utili a sbarazzarsi con rapidità delle creature nemiche; vi sono magie che costringono l’avversario a scartare una o più carte, altre che infliggono danno direttamente al duellante, andando così a colpire i suoi punti ferita piuttosto che quelli di una delle sue creature, che, tra l’altro, possono essere schierate su due linee, quella avanzata, in posizione d’attacco, e quella arretrata, in cui i danni inflitti e subiti diminuiscono drasticamente. E ho solo sfiorato la punta dell’iceberg: nonostante il sistema funzioni discretamente una volta metabolizzato, le prime ore di gioco sono un incubo per tutti coloro che non si siano già cimentati con uno qualsiasi degli episodi precedenti, e questo appare ancora più paradossale alla luce del fatto che il target del gioco (e del manga prima di esso) è relativamente giovane. L’impressione costante è che il titolo si rivolga solamente alla nicchia di appassionati della saga (e dei precedenti episodi digitali), piuttosto che cercare di allargare il bacino di utenza e accogliere anche i neofiti. Yu-Gi-Oh! Zexal Duel Carnival rappresenta un acquisto con sufficiente carne al fuoco per gli appassionati di lungo corso.Questa sua ambiguità è dovuta alla mancanza di un tutorial capace di acclimatare il giocatore, a tutta una serie di riferimenti più o meno oscuri e ad una generale sciatteria in fase di programmazione, che inficia il reparto tecnico quanto il divertimento sul lungo termine, vista l’impossibilità di sbloccare ulteriori contenuti con il proseguire della modalità Storia.
+
+Voto: 7

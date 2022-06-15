@@ -1,0 +1,26 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/33246689_1532066360253813_5249990193804476416_n-1.jpg"
+title: "Comic Strips Never Die #15: Black [AF], la supereroina più forte d’America"
+excerpt: "Può una ragazza afroamericana essere il supereroe più forte d’America? Eli Franklin è una ragazza di 15 anni che vive nelle zone rurali del Montana e sembra essere la persona più potente sul pianeta. Eli fa il suo debutto da supereroe come Good Girl, la sua missione è aiutare una popolazione impazzita. Sarà sufficiente indossare [&hellip"
+quote: ""
+description: "Può una ragazza afroamericana essere il supereroe più forte d’America? Eli Franklin è una ragazza di 15 anni che vive nelle zone rurali del Montana e sembra essere la persona più potente sul pianeta. Eli fa il suo debutto da supereroe come Good Girl, la sua missione è aiutare una popolazione impazzita. Sarà sufficiente indossare [&hellip"
+keywords: ""
+date: 2018-07-13T00:00:00.000+01:00
+author: "Goodidea Style"
+cover: "/assets/uploads/import.rubriche/33246689_1532066360253813_5249990193804476416_n-1.jpg"
+pagination:
+  enabled: true
+
+---
+
+Può una ragazza afroamericana essere il supereroe più forte d’America? Eli Franklin è una ragazza di 15 anni che vive nelle zone rurali del Montana e sembra essere la persona più potente sul pianeta. Eli fa il suo debutto da supereroe come Good Girl, la sua missione è aiutare una popolazione impazzita. Sarà sufficiente indossare un costume patriottico?
+
+È partendo da questa sinossi, presente sul [**sito di Black Mask Studios**](http://blackmaskstudios.com/black-americas-sweetheart/), che vogliamo raccontarvi la serie a fumetti diventata un vero e proprio cult; _Black \[AF\]: America’s Sweetheart_. Creato da Kwanza Osajyefo & Tim Smith 3, scritto da Kwanza Osajyefo e illustrato da Jennifer Johnson. Ma prima di raccontarvelo vogliamo segnalarvi la [**recente intervista**](http://www.syfy.com/videos/crossover-hip-hop-comics-with-jean-grae-and-kwanza-osajyefo) a Osaiyefo e Jean Grae per il music month di SYFY WIRE, che ci fa da gancio per spiegare meglio la connessione tra Hip Hop e fumetti. Secondo Jean Grae il naturale crossover tra hip hop e supereroi è New York. Dice: “Essere un MC è potente, ci sentiamo dei veri supereroi”. (_Continua dopo la foto_)  
+
+Tornando al fumetto, tutto è iniziato con una raccolta fondi su Kickstarter che ha raggiunto e superato di ben tre misure il suo obiettivo: grazie a questo successo ottenuto sul web il progetto ha ottenuto un contratto dalla casa di produzione e distribuzione Black Mask, che ha acquisito la serie. Dobbiamo aggiungere come queste operazioni siano sempre più frequenti e premianti per le “piccole/medie” realtà editoriali come Black Mask, infatti, questo investimento si è rivelato vincente rafforzando la sua posizione di editore inclusivo di fumetti di genere con un’attenzione particolare a ciò che va oltre il mercato “diretto”. Per chi non conoscesse la storia, Black è stato lanciato sul mercato lo scorso novembre con una miniserie che racconta la storia di diversi supereroi, ebbene anche in questo caso, i supereroi sono afroamericani, anzi la totale popolazione afroamericana ha i super poteri. Con il lancio di _Black \[AF\]: America’s Sweetheart_ la miniserie si è trasformata in graphic novel. Una mossa intelligente, commercialmente parlando, che vede il libro come prodotto più facile da piazzare nelle librerie, anche digitali, offrendo maggiore esposizione rispetto ai singoli numeri disponibili spesso solo su ComiXology.
+
+Come dicevamo, mentre la miniserie Black ha introdotto un grande ensemble di supereroi e cattivi, le storie di _Black \[AF\]_ vivono in un unico nuovo personaggio: Eli Franklin. Non si tratta del classico superhero, c’è tanta innovazione e modernità nella sua storia, per esempio nel rapporto che ha con i social media, un aspetto curioso. Unica bambina afroamericana in una famiglia adottiva bianca, è la protagonista di una storia fatta di isolamento e solitudine, un aspetto anche questo terribilmente attuale. Alcuni aspetti della storia però non offrono al lettore molto margine per empatizzare con il personaggio, ed è così che la mancanza d’interazione con altri personaggi si trasforma in una carente sceneggiatura. La storia di Eli Franklin presenta alcune analogie con un altro supereroe femminile, parliamo di America della Marvel. La sceneggiatrice Gabby Rivera ha avuto le stesse difficoltà nello storytelling di America, in parte risolte dall’entrata in scena del personaggio Kate “Hawkeye” Bishop nella sceneggiatura ideata da Rivera e Kelly Thompson, una collaborazione che l’ha aiutata a potenziare la narrazione. Come in _America_ , _Black \[AF\]_ offre ampi margini di miglioramento, ma una delle sorprese dell’intrattenimento serializzato è la maturazione nel tempo.
+
+Jennifer Johnson è un’artista con abilità incredibili e una forte propensione per lo storytelling, quindi non c’è motivo di preoccuparsi. Nel prima serie di _Black_, Osajyefo ha dimostrato di saper costruire storie politicamente e socialmente consapevoli, quello che manca è una ritmicità ma come la maggior parte dei quindicenni, Eli Franklin ha ancora un grande futuro davanti a sé.

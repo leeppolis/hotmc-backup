@@ -1,0 +1,32 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/0001220373_20-420x373.jpg"
+title: "Spazio Autogestito Lolocaust #5: Recensioni di rapper senz’audio"
+excerpt: "Disclaimer a cura della redazione di Hotmc: Ci risiamo: tocca fare spazio ai Lolocaust e alle loro recensioni senz’audio, in cui cercano di indovinare la trama di un video rap con il volume a zero. Quale migliore occasione per far capire ai malpensanti e ai permalosi che i nostri eroi sono dei simpatici burloni: stavolta [&hellip"
+quote: ""
+description: "Disclaimer a cura della redazione di Hotmc: Ci risiamo: tocca fare spazio ai Lolocaust e alle loro recensioni senz’audio, in cui cercano di indovinare la trama di un video rap con il volume a zero. Quale migliore occasione per far capire ai malpensanti e ai permalosi che i nostri eroi sono dei simpatici burloni: stavolta [&hellip"
+keywords: ""
+date: 2013-10-10T00:00:00.000+01:00
+author: "Lolocaust"
+cover: "/assets/uploads/import.rubriche/0001220373_20-420x373.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/spazio-autogestito-lolocaust-1-recensioni-di-rapper-senza-audio/0001220373%5F20/)
+
+**Disclaimer a cura della redazione di Hotmc: Ci risiamo: tocca fare spazio ai Lolocaust e alle loro recensioni senz’audio, in cui cercano di indovinare la trama di un video rap con il volume a zero. Quale migliore occasione per far capire ai malpensanti e ai permalosi che i nostri eroi sono dei simpatici burloni: stavolta il video in questione è _Le due metà_ di Kaos, che ovviamente a) tutti noi rappusi italiani veneriamo fin da quando avevamo anni 13, b) ha un clip tra i più belli visti in Italia negli ultimi anni. Se qualcuno volesse offendersi è libero di farlo e noi gli forniremo tutti i dati per geolocalizzare e incenerire gli autori della rubrica, ma confidiamo che non succederà. Cediamo la parola ai Lolocaust.**
+
+**Puntata numero 5 (perché i poteri forti hanno censurato la 4)**
+
+Siamo a casa di un tipografo mezzo hipster. Sotto la Moleskine: figa. Aspetta. Allora non è un hipster perché gli hipster e la figa si respingono. Ma forse lo è. La radiosveglia dice “Sveglia! C’è un tizio che ti sta guardando storto!” Carmelo si alza a fatica, è ormai giorno e sul tavolo ci sono ancora gli avanzi della festa della notte prima. Una festa organizzata un pò col culo perché tutte le bevande sono diverse quindi si vede che non c’è stata una strategia dietro. Che mal di testa il povero Carmelo. Qui si scopre che il losco individuo è la sua coscienza e lo sgrida perché primo non si deve mescolare così quando si beve e secondo se si compra la birra Ichnusa si finianzia il separatismo sardo.
+
+Carmelo chiama i suoi amici per chiedere quanto è stato matterello ieri perché comunque la festa è stata così crazy che non si ricorda più cosa ha combinato! La coscienza di Carmelo questa volta ne ha piene le tasche del suo irresponsabile comportamento. Gli punta addosso le luci da interrogatorio e gli chiede spiegazioni sul suo modo di agire.
+
+Carmelo apre la scatola di scarpe dove nasconde la droga per verificare se i suoi amici della festa gliene hanno rubata un pò. Il cd per stendere la barella è al suo posto, ma al posto della droga trova solo un biglietto “grazie per la bamba ci si becca al Billionaire”. SEI UN MONA gli dice la coscienza, ti sei fatto fregare dalle brutte compagnie! Carmelo è arcistufo di ascoltare la sua voce e decide di distrarsi guardando un film (probabilmente un cortometraggio a giudicare dalle ridotte dimensioni della cassetta). Il film parla di come regolare male l’ISO della pellicola possa rovinare dei bei ricordi, il concetto è reso da una ragazza che fa il facepalm. Niente, la pellicola è bruciata ma Carmelo già intravede delle potenzialità a livello hipster e ringrazia che su Instagram ci sia un effetto che fa la stessa cosa. In quella però l’arrotino suona alla porta per proporgli un affare di lame affilate ma lui rifiuta perchè lui è hipster mentre quelli che si tagliano sono gli emo. Vai via, mi importuni che ho mal di testa e devo fare i mestieri! Niente, l’arrotino non riesce a concludere l’affare e la sua famiglia anche oggi mangerà termiti. Carmelo è stressato e decide di farsi un bagno alle cose profumate, ma la sua coscienza gli dice no, non si fa il bagno appena mangiato perché poi viene la congestione! Ti devo sempre ripetere le stesse cose, guarda che io sono stufo! La voce della coscienza è soporifera e Carmelo cade addormentato; sogna di essere Peppe Fetish e come per magia un piede appare nella sua bocca. Che buono da leccare e toccare! Ci risiamo, dice la sua coscienza (che può seguirlo anche nel mondo dei sogni), ti dico sempre di non mangiare le cose che han toccato terra ma oh. Non lo ascolta Carmelo, è troppo contento di poter giocare con quel piedino! SEI UNA PERSONA DAI GUSTI ORRIBILI gli urla la coscienza, e urla così forte che lo sveglia. Oh che palle, sono sveglio! Questa voce della coscienza mi fa martellare la testa ancora più di quando litigavo con una femmina di cui abbiamo una diapositiva col filtro hipster! Vabbè, ormai sono pulito tanto vale andare al lavoro.
+
+Carmelo solitamente fa car sharing però oggi ha fatto un pò tardi quindi decide di comprare un taxi. Durante il tragitto telefona cose di lavoro agli altri uomini d’affari. Si sta recando in una zona di campagna appena fuori Salerno per esaminare un’area edificabile che ha recentemente acquistato per costruirci un edificio bello tipo quelli di Dubai altissimo e vuoto. NON E’ STATO UN INVESTIMENTO SAGGIO gli dice la coscienza, ma lui decide di ignorarla. Arrivato sul luogo scende e li taxi lo lascia li (cazzo vuoi che sia, toro a piedi, io sono Carmelo) e lui si incontra con l’arredatrice di interni, con la quale ha anche una mezza tresca. Corri, gli dice! Ti faccio vedere il posto dove costruiremo la caffetteria! Pensa quanti caffelatte verranno serviti proprio qui dove mi siedo ora!
+
+EH NO PORCA VACCA l’affare va a monte perchè qualcuno ha già costruito una croce abusiva. L’arredatrice tenta di dirgli ma và, la croce basta tirarla giu, ma lui non si lascia rincuorare: la croce è abbastanza solida. Niente, torna a casa a piedi. Te l’avevo detto, conclude la sua coscienza.

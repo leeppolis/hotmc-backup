@@ -1,0 +1,34 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/Street-Fighter-X-TEKKEN_Xbox360_cover1-600x845.jpg"
+title: "Street Fighter X Tekken"
+excerpt: "Quando si parla di picchiaduro 2D sono tanti i capolavori, ma di solito il primo marchio a venire in mente è Street Fighter. Nel campo dei picchiaduro tridimensionali invece domina la legge del pugno di ferro, e la serie più apprezzata e venduta è quella di Tekken. Crossover ce ne sono stati tanti nel genere, [&hellip"
+quote: ""
+description: "Quando si parla di picchiaduro 2D sono tanti i capolavori, ma di solito il primo marchio a venire in mente è Street Fighter. Nel campo dei picchiaduro tridimensionali invece domina la legge del pugno di ferro, e la serie più apprezzata e venduta è quella di Tekken. Crossover ce ne sono stati tanti nel genere, [&hellip"
+keywords: ""
+date: 2012-03-16T00:00:00.000+01:00
+author: "Haile Anbessa"
+cover: "/assets/uploads/import.rubriche/Street-Fighter-X-TEKKEN_Xbox360_cover1-600x845.jpg"
+pagination:
+  enabled: true
+
+---
+
+Quando si parla di picchiaduro 2D sono tanti i capolavori, ma di solito il primo marchio a venire in mente è Street Fighter. Nel campo dei picchiaduro tridimensionali invece domina la legge del pugno di ferro, e la serie più apprezzata e venduta è quella di Tekken. Crossover ce ne sono stati tanti nel genere, ma una fusione tra questi due rivali storici non se l’aspettava nessuno, almeno finché l’improbabile coppia composta da Yoshinori Ono e Katsuiro Harada non ha stupito il mondo annunciando l’esistenza di Street Fighter X Tekken. Street Fighter X Tekken ha come trama una storia che porta i protagonisti delle due serie a lottare all’arrivo sulla terra di un misterioso meteorite cubico, chiamato Pandora’s Box, che contiene un enorme potere. Si è utilizzato come base Street Fighter 4, e si sono trasformati tutti gli “ospiti” provenienti da Tekken in personaggi rimodellati sul nuovo sistema di gioco. In pratica anche Kazuya, Jin e soci hanno guadagnato mosse che necessitano quarti di luna e derivati, riuscendo a mantenere un po’ della loro unicità grazie alle combo specifiche, serie di colpi assolutamente identiche a quelle utilizzate nel titolo d’origine che legano gli attacchi con tempistiche diverse dai comuni “link” di Street Fighter. Queste combinazioni sono gradevoli e rendono più intuitivo l’utilizzo dei guerrieri di Namco, rispetto alla controparte Capcom. Il sistema è cambiato molto nel complesso. Innanzitutto siamo davanti a un picchiaduro tag, nel quale a sfidarsi sono team da due giocatori. La struttura è presa da Tekken Tag Tournament, e la morte di uno dei due personaggi costa il round, caratteristica che costringe a valutare attentamente quando e come scambiare il proprio guerriero durante i match e tiene sempre sul filo del rasoio. Si può taggare in vari modi, il principale è un comando diretto e poco sicuro che lascia indifeso il cambio per qualche decimo di secondo e va usato solo in situazioni disperate o scarsamente punibili, il secondo è la Cross Rush, una combo da quattro colpi che effettua il cambio all’ultimo attacco ma lascia scoperti se parata, e il terzo è una sostituzione sicura effettuabile durante le mosse speciali che consuma barra della super. Il succitato indicatore della super, ormai immancabile e diviso in tre parti, può essere usato a sua volta in maniera creativa. Si va dalle solite spettacolarissime ultra combo, che consumano due tacche, fino al Cross Cancel, una contromossa istantanea in parata. Non mancano nemmeno le mosse EX, versioni potenziate delle mosse speciali che facilitano di solito l’esecuzione di combo complesse. Ultimi due dispendiosi modi di usare la barra sono le Cross Arts e il Cross Assault. Le prime sono Ultra doppie che sostituiscono il guerriero, il secondo è un assalto combinato dei due compagni di squadra in contemporanea. Impossibile poi non citare due meccaniche particolarmente interessanti e uniche, le charge moves, colpi speciali caricabili che si trasformano in mosse EX o super, e il Pandora Mode, una comeback mechanic che uccide dopo 10 secondi ed è utilizzabile solo con il 25 % della vita. Entrambe rischiose, ma il Pandora è pericolosissimo se usato in certe combinazioni. Il feeling dei comandi è quello tipico delle produzioni Capcom, preciso ed impeccabile, e il gioco dà l’impressione di essere un curioso misto tra la tecnicità di Super Street Fighter 4 e la follia di Ultimate Marvel vs Capcom 3\. Di certo il gameplay si struttura su più livelli: i neofiti non avranno grosse difficoltà ad apprendere le meccaniche base e a lanciarsi in combinazioni di facile esecuzione grazie alle Cross Rush e alle super semplificate. In particolare la meccanica del tag durante le mosse speciali permette di eseguire combinazioni assolutamente devastanti, e tremiamo a pensare cosa riusciranno a tirarne fuori i giocatori più abili nelle partite. L’innovazione principale è il sistema delle gemme, pietre assegnabili ai personaggi prima dei match, che garantiscono effetti variabili una volta soddisfatte certe condizioni. Contenutisticamente Street Fighter X Tekken offre tutte le modalità classiche del genere. Si comincia dal solito Training Mode, dove tutti gli aficionados potranno passare ore a scoprire nuove fantastiche tecniche da utilizzare in rete o con gli amici. A questo si accompagna un comodo tutorial con Dan Hibiki a far da maestro, che spiega tutte le meccaniche di gioco nel dettaglio ma non è ancora all’altezza di quanto visto in alcuni esponenti della concorrenza. Nessuno stravolgimento per quanto riguarda l’Arcade Mode, sempre la solita serie di scontri con filmato finale annesso. Prevedibilmente presenti anche i Challenge Mode, stavolta divisi in missioni che costringono a vincere i match con handicap specifici, e nelle inevitabili sfide di difficoltà crescente per ogni personaggio. La vera novità risiede nelle battaglie Scramble, uno scontro totale nel quale quattro giocatori combattono in contemporanea. Trattasi di casino assurdo, dannatamente divertente se giocato con gli amici, ma è difficile che riesca a rimanere interessante molto a lungo essendo caos allo stato puro. Tecnicamente Street Fighter X Tekken è un ottimo titolo. Lo stile caricaturale e cartoonesco dei modelli funziona alla grande, le animazioni sono notevoli, l’azione è fluidissima e veloce, e tutto è contorniato da scenari in continua evoluzione. I ring sono pochini, ma fuori di testa e molti degli easter egg che vi appaiono sono geniali. Ottime le musiche e il sonoro. La longevità del gioco dipende come sempre dal tipo di utente. 
+
+GRAFICA: 9  
+SONORO: 9  
+GIOCABILITA’: 8,5  
+LONGEVITA’: 9  
+VOTO FINALE: 9
+
+HOT SPOTS:  
+– Lo scontro del secolo con uno dei migliori roster di sempre
+
+COLD SPOTS:  
+– Reso un po’ monco dal progetto dei DLC.
+
+Produttore: Capcom  
+Sviluppatore: Capcom  
+Genere: Picchiaduro

@@ -1,0 +1,24 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/Iceberg-Slim-Pimp-book.jpeg"
+title: "Iceberg Slim: chi era costui"
+excerpt: "Ispirandoci alla precedente discussione su Hip Hop Hotboards, questa settimana la rubrica libri Knowledge is Power si dedica a quello che è forse il massimo esponente della letteratura black di tutti i tempi: Iceberg Slim. La definizione potrebbe sembrare esagerata, ma è fin troppo calzante. Nella sua carriera letteraria, infatti, Slim ha venduto 16 milioni [&hellip"
+quote: ""
+description: "Ispirandoci alla precedente discussione su Hip Hop Hotboards, questa settimana la rubrica libri Knowledge is Power si dedica a quello che è forse il massimo esponente della letteratura black di tutti i tempi: Iceberg Slim. La definizione potrebbe sembrare esagerata, ma è fin troppo calzante. Nella sua carriera letteraria, infatti, Slim ha venduto 16 milioni [&hellip"
+keywords: ""
+date: 2012-03-10T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/import.rubriche/Iceberg-Slim-Pimp-book.jpeg"
+pagination:
+  enabled: true
+
+---
+
+Ispirandoci alla **[precedente discussione su Hip Hop Hotboards](http://community.hotmc.com/forum/index.php/topic,11419.0.html "http://community.hotmc.com/forum/index.php/topic,11419.0.html")**, questa settimana la rubrica libri Knowledge is Power si dedica a quello che è forse il massimo esponente della letteratura black di tutti i tempi: Iceberg Slim. La definizione potrebbe sembrare esagerata, ma è fin troppo calzante. Nella sua carriera letteraria, infatti, Slim ha venduto 16 milioni di copie nel mondo: tra gli scrittori afroamericani, meglio di lui ha fatto solo Alex Haley (il compianto autore di _Radici_ e dell’autobiografia di Malcom X, in realtà scritta sotto dettatura). E se i numeri non fossero una prova sufficiente, lo sarebbero gli innumerevoli saggi che studiano la sua opera, l’impressionante quantità di rapper che lo citano e a lui si ispirano, i film tratti dai suoi romanzi che, a vent’anni dalla sua morte, continuano ad affascinare registi e addetti ai lavori.
+
+Il nostro eroe nasce nei sobborghi di Chicago nel 1918 sotto il nome di Robert Lee Maupin, da madre cameriera e padre ignoto. A 20 è già un eroinomane consumato e, per pagarsi la roba, inizia a fare il magnaccia. Il ragazzo ci sa fare: è talmente gelido ed efficiente nello svolgere il suo lavoro che si guadagna il soprannome di Iceberg Slim, lo smilzo blocco di ghiaccio. Diventa uno dei principali gestori della prostituzione dell’area di Chi-city e, ovviamente, la giustizia se ne accorge: tra le varie condanne, sconta circa 9 anni di carcere in totale. L’ultima volta che ne esce ha 42 anni, si è finalmente disintossicato e ha deciso di cambiare vita. Si trasferisce a Los Angeles, dove trova lavoro come disinfestatore. Un giorno un professore universitario lo chiama a casa sua per liberarsi dagli scarafaggi: mentre piazza le trappole Slim comincia a raccontargli la storia della sua vita. Il professore ne resta talmente affascinato che gli promette di aiutarlo a pubblicare la sua autobiografia, dal titolo appunto _Pimp: story of my life_. Seguiranno altri sei romanzi e una raccolta di poesie.
+
+Avvertenze per l’uso: i romanzi di Iceberg Slim sono roba per stomaci forti, e anche questa non è un’esagerazione. Le descrizioni e il linguaggio sono crudi all’inverosimile, per non parlare delle tematiche; non necessariamente in senso gangsta, peraltro. Se non siete preparati alla lettura di storie come quella di un ragazzino del South Side che si traveste da donna e si prostituisce, cercando di dimenticare il suo passato di vittima dei pedofili, girate alla larga. I protagonisti delle sue opere sono sempre disadattati, drogati, truffatori, puttane, spacciatori. Raccontati da una prospettiva talmente ravvicinata da fare quasi impressione. C’è poi la questione delle traduzioni: esiste un adattamento in italiano di molti suoi libri (_Black Mama – La vedova nera_ e _Trick Baby_ pubblicati da Shake, mentre l’autobiografia _Il Pappa_ da Tea), ma non sempre è all’altezza delle aspettative. Si tratta spesso di traduzioni vecchie, che usano termini ormai desueti, ma anche quando sono recenti c’è una grande difficoltà a riproporre in italiano il suo slang e il linguaggio rabbioso. I veri fan di Slim, insomma, consigliano di leggerlo in lingua originale, per quanto possibile.
+
+Chi invece non avesse voglia di cimentarsi nella lettura può aspettare qualche mese e andare al cinema. Pras ha infatti acquistato i diritti di _Pimp_ e sta mettendo insieme un cast d’eccezione per trasformarlo in un film, in cui a vestire i panni di Iceberg Slim sarà – forse – Ice Cube; mentre _Mama black widow_ (la storia del travestito di cui sopra) è in uscita nelle sale nel 2012 e vede protagonisti, tra gli altri, anche Mos Def, Rihanna e Macy Gray. Di _Trick Baby_ esiste già un film blaxploitation del 1973, un po’ complicato da recuperare, purtroppo.

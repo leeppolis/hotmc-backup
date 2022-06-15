@@ -1,0 +1,21 @@
+---
+layout: rubriche
+category: Rubriche
+banner: "/assets/uploads/import.rubriche/ionball.jpg"
+title: "Ionball 2 Ionstorm"
+excerpt: "Ionball 2: Ionstorm è uno dei tanti ritorni che stiamo vivendo grazie a piattaforme aperte come steam, che permettono la pubblicazioni di generi quasi dimenticati. Vi ricordate arkanoid della Taito, gioco degli anni ’80 in cui dovevate muovere una piattaforma per far rimbalzare la biglia sui mattoncini colorati? Chiunque ha giocato ad arkanoid negli anni [&hellip"
+quote: ""
+description: "Ionball 2: Ionstorm è uno dei tanti ritorni che stiamo vivendo grazie a piattaforme aperte come steam, che permettono la pubblicazioni di generi quasi dimenticati. Vi ricordate arkanoid della Taito, gioco degli anni ’80 in cui dovevate muovere una piattaforma per far rimbalzare la biglia sui mattoncini colorati? Chiunque ha giocato ad arkanoid negli anni [&hellip"
+keywords: ""
+date: 2014-08-17T00:00:00.000+01:00
+author: "Game Master"
+cover: "/assets/uploads/import.rubriche/ionball.jpg"
+pagination:
+  enabled: true
+
+---
+
+[](https://hotmc.com/wp-content/uploads/2014/08/ionball.jpg)  
+Ionball 2: Ionstorm è uno dei tanti ritorni che stiamo vivendo grazie a piattaforme aperte come steam, che permettono la pubblicazioni di generi quasi dimenticati. Vi ricordate arkanoid della Taito, gioco degli anni ’80 in cui dovevate muovere una piattaforma per far rimbalzare la biglia sui mattoncini colorati? Chiunque ha giocato ad arkanoid negli anni 90, o a uno dei suoi seguiti o cloni che sono usciti. Il mercato non ha più dato spazio a questo genere, ma grazie agli indipendenti e a strumenti di sviluppo versatili come unity, possiamo riprovare il gusto di quei tempi andati, in un cocktail più moderno e graficamente accattivante. La torre 734B è compromessa, i sistemi di sicurezza sono fuori controllo e hanno preso il controllo, sta a voi scalare i piani impervi per riprendere il controllo della situazione. Sì, c’è anche una storia in Ionball, fortuna che è un’introduzione di appena una trentina di secondi prima di scendere subito in campo. Il vostro scopo, come detto, sarà quello di scalare la torre attraverso i piani che la compongono, per la bellezza di 60 livelli che vi terranno impegnati per almeno 3 4 ore, a seconda delle morti che collezionerete. Il gioco non vi obbliga a ripartire dall’inizio all’esaurimento delle vite, ma usando i continue verrà indicato il numero delle morti e il punteggio si abbasserà, nella classifica online. Ionball 2: Ionstorm è caratterizzato da una colonna sonora molto azzeccata, in cui si alternano sonorità dubstep che vanno così tanto di moda nel mercato moderno, ma vi sono anche sonorità aggressive che richiamano al metal e agli anni ’80\. Dobbiamo dire che è un piacere giocare questo titolo per ascoltare i brani musicali, anche se non parliamo propriamente di un titolo scacciapensieri quanto piuttosto di qualcosa che metterà a dura prova i vostri riflessi. Avanzando nei vari livelli aumenteranno le difficoltà, la presenza di eliche che devieranno la biglia, simpatici robottini che curano i mattoncini rinforzandoli, senza tacere dei “boss” al termine di ogni piano. Per dare un tocco personale all’esperienza, lo sviluppatore ha pensato bene di inserire un sistema di upgrade per essere più forti, abilità sia passive che attive, da utilizzare durante la partita. Per quanto riguarda l’integrazione di steam, è presente la classifica online per confrontarvi coi vostri amici e con le persone in giro per il mondo. Graficamente il titolo è molto scalabile e vi sono i 5 preset tipici di unity, con una qualità grafica ottima, con tanti effetti. La grafica è un elemento da tenere in considerazione considerando che parliamo di un gioco in cui vi è una biglia che schizza impazzita per lo schermo, le scie verdi sono utili a capire da che lato guardare per non farsi sorprendere. Ionball 2: Ionstorm è un gioco dal prezzo contenuto che viene venduto in un ottimo pacchetto in ambiente steam, non mancano infatti le classifiche online e una buona scalabilità grafica. Per gli amanti di Arkanoid si tratta di un must, grazie ad una colonna sonora moderna e incalzante e alla scelta degli upgrade che da un po’ di varietà e personalizzazione.
+
+Voto: 8.5
