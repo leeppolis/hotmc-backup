@@ -9,6 +9,7 @@ date: 2010-09-28T00:00:00.000+01:00
 author: "Marta Blumi Tripodi"
 cover: "/assets/uploads/dj-gruff.jpeg"
 banner: "/assets/uploads/dj-gruff.jpeg"
+quote: "tutto sommato mi tocca conviverci - vorrei davvero sperare in bene. a volte ci riesco; ma dura sempre troppo poco."
 pagination:
   enabled: true
 
