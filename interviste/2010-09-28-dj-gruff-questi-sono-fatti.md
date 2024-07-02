@@ -38,7 +38,7 @@ per l'insieme che procede indipendentemente dalla super classifica*
 *bigottismo velenoso ignorante flato.*   
 *ho pensato spesso che ci sia un culto - a cui, per ovvie ragioni, non facciamo comodo - cerco di evitare questi cattivi pensieri.*   
 *tutto sommato mi tocca conviverci - vorrei davvero sperare in bene. a volte ci riesco; ma dura sempre troppo poco.*   
-*viviamo nel solito metodo all`italiana eclesiasticomafioso - .... ma non avete già abbastanza interessi nella bambarobameretricitassesupermercatipizziparlamento...etcetcetc? ma che bel castello!!! con il giardino delle mele tutte uguali e numerate...*   
+*viviamo nel solito metodo all'italiana eclesiasticomafioso - ... ma non avete già abbastanza interessi nella bambarobameretricitassesupermercatipizziparlamento... etcetcetc? ma che bel castello!!! con il giardino delle mele tutte uguali e numerate...*   
 *cornice assai costosa che fa da contorno al vuoto che vi accompagna.*   
 *aiutiamo l'africa a salvare la chiesa e lasciamo i nostri figli nelle loro mani sante - mangiamo buccia di torrone ammirando tutti questi gesù vestiti da festa in fase di ubriacamento solitario e ascoltiamo la lieta novella.*   
 *sosteniamo la lotta contro le altre religioni - se vogliono venire in italia per lavorare ad un quarto del prezzo base che riesce a malapena a pagare l'affitto di una casa di merda, va bene - diamo loro buoni sconti per la mortadella - che imparino a mangiare pure il maiale e basta con questi capricci. cribbio!!! se no ciapa sul camel con la barchetta e torna nella tua capanna. sta gio da dos! ora non si possono più bruciare gli ebrei così, dopo averne gassati a milioni abbiamo pensato di comprargli un pezzo di terra. mettiamoli nella condizione di potere ampliare il loro territorio. nessuno saprà mai che eravamo d'accordo con i loro capi. loro ci tenevano tanto a quel pezzetto di terra... non potevamo dirgli di no.*   
@@ -58,11 +58,11 @@ per l'insieme che procede indipendentemente dalla super classifica*
 *pensa fratello - pensa con la tua testa e sappi che loro non fanno l'amore,*   
 *non ci pensano nemmeno al c.... e quando lo sognano, l'indomani si frustano da sole ripetendo più volte cose senza senso.*   
 *il c.... è il diavolo.*   
-*fratello non confondere il c.... con l`amore. dai tagliatevi tutti il c.... che c.... ve ne frega!*   
+*fratello non confondere il c.... con l'amore. dai tagliatevi tutti il c.... che c.... ve ne frega!*   
 *vi abbiamo messo una brava persona come papa ora date a cesare quel che è di cesare. la vedi quella foto dove saluta alla romana? li stava compiacendo il suo maestro. una bravissima persona. non dare retta alle dicerie. è tutta invidia!*   
 *dai fratelli scambiatevi un segno di pace.*   
 *la vedi quella t sul muro? pensa fratello che quello è gesù morto per salvarci tutti. si fratello anche per salvare te.*   
-*certo tu non lo capisci perche` sei stupido ma vedrai che con il tempo e le nostre medicine imparerai ad amare*   
+*certo tu non lo capisci perche' sei stupido ma vedrai che con il tempo e le nostre medicine imparerai ad amare*   
 *e a rispettare quella t sul muro.*   
 *sei battezzato? non ti preoccupare fratello - ti battezziamo noi.*   
 *sta arrivando una nuova influenza, mi raccomando non ti scordare di fare la vaccinazione anche quest'anno.*   
@@ -108,7 +108,7 @@ per l'insieme che procede indipendentemente dalla super classifica*
 *nel mio piccolo cerco di fare in modo che lo sia pure per molti altri*   
 *i miei maestri hanno fatto a suo tempo la stessa cosa con me*   
 *se non fosse stato per loro...*   
-*cosi` di tanto in tanto dedico parte del mio tempo per i vari "viene e va" e quant'altro per tirare in mezzo gente dentro un*   insieme che porta ad un altro insieme - da cosa nasce cosa... - vi aspettiamo qui. nota bene non chiediamo nulla in cambio e non vi sono trucchi.*   
+*cosi' di tanto in tanto dedico parte del mio tempo per i vari "viene e va" e quant'altro per tirare in mezzo gente dentro un*   insieme che porta ad un altro insieme - da cosa nasce cosa... - vi aspettiamo qui. nota bene non chiediamo nulla in cambio e non vi sono trucchi.*   
 *cerco di sdebitarmi. è un fatto di bene.*   
 *avevo un forum free - hanno chiuso tutto il tomellone free - o forse ci stanno lavorando... non saprei. ne abbiamo aperto un altro*   
 *se prima era un forum chiuso*   
