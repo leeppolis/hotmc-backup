@@ -1,15 +1,15 @@
 ---
 layout: interviste
 category: Interviste
-banner: ""
+banner: "/assets/uploads/clubdogo2003.jpeg"
 title: "Intervista ai Club Dogo"
-excerpt:'Eravamo in maggio, a Milano ancora non si pezzava come invece accade ora, e Mi Fist era appena uscito. Da lì ad oggi se n’è parlato decisamente bene, direi a ragione, per cui un’intervista è doverosa e, difatti, vualà avvòi il risultato di una piacevole serata passata coi Dogo & amici tra il parco Solari ed il Sud.'
-quote: ""
-description: 'Eravamo in maggio, a Milano ancora non si pezzava come invece accade ora, e Mi Fist era appena uscito. Da lì ad oggi se n’è parlato decisamente bene, direi a ragione, per cui un’intervista è doverosa e, difatti, vualà avvòi il risultato di una piacevole serata passata coi Dogo & amici tra il parco Solari ed il Sud.'
+excerpt: "Eravamo in maggio, a Milano ancora non si pezzava come invece accade ora, e Mi Fist era appena uscito. Da lì ad oggi se n’è parlato decisamente bene, direi a ragione, per cui un’intervista è doverosa e, difatti, vualà avvòi il risultato di una piacevole serata passata coi Dogo & amici tra il parco Solari ed il Sud."
+quote: "A me del fatto che diventi una cosa troppo popolare non me ne frega un cazzo. Per me non è una cosa “giusta”, nel senso che per come lo concepiamo noi dovrebbe restare una cosa di nicchia ma potente"
+description: "Eravamo in maggio, a Milano ancora non si pezzava come invece accade ora, e Mi Fist era appena uscito. Da lì ad oggi se n’è parlato decisamente bene, direi a ragione, per cui un’intervista è doverosa e, difatti, vualà avvòi il risultato di una piacevole serata passata coi Dogo & amici tra il parco Solari ed il Sud."
 keywords: "club dogo, dogo gang, jake la furia, fame don joe, gue, gue pequeno, gué, guè, il guercio, lucky luciano, chief"
 date: 2003-07-26T00:00:00.000+01:00
 author: "Reiser"
-cover: ""
+cover: "/assets/uploads/clubdogo2003.jpeg"
 pagination:
   enabled: true
 

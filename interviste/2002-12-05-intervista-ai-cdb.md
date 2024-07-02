@@ -1,15 +1,12 @@
 ---
 layout: interviste
 category: Interviste
-banner: ""
 title: "Intervista ai CDB"
-excerpt:'Primavera inoltrata, oppure estate alle porte, chiamatela come volete... fatto sta che incontriamo Cush e Rido in una bella serata calda nel giardinetto esterno al "One Love", il locale dove fino a questa primavera si svolgeva, ogni mercoledì, lo "Show Off". Il loro disco è in giro da maggio, appunto, e questa è stata un'ottima occasione per discutere del loro inizio, della loro continuazione, del loro presente.'
-quote: ""
-description: 'Primavera inoltrata, oppure estate alle porte, chiamatela come volete... fatto sta che incontriamo Cush e Rido in una bella serata calda nel giardinetto esterno al "One Love", il locale dove fino a questa primavera si svolgeva, ogni mercoledì, lo "Show Off". Il loro disco è in giro da maggio, appunto, e questa è stata un'ottima occasione per discutere del loro inizio, della loro continuazione, del loro presente.'
+excerpt: "Primavera inoltrata, oppure estate alle porte, chiamatela come volete... fatto sta che incontriamo Cush e Rido in una bella serata calda nel giardinetto esterno al \"One Love\", il locale dove fino a questa primavera si svolgeva, ogni mercoledì, lo \"Show Off\". Il loro disco è in giro da maggio, appunto, e questa è stata un'ottima occasione per discutere del loro inizio, della loro continuazione, del loro presente."
+description: "Primavera inoltrata, oppure estate alle porte, chiamatela come volete... fatto sta che incontriamo Cush e Rido in una bella serata calda nel giardinetto esterno al \"One Love\", il locale dove fino a questa primavera si svolgeva, ogni mercoledì, lo \"Show Off\". Il loro disco è in giro da maggio, appunto, e questa è stata un'ottima occasione per discutere del loro inizio, della loro continuazione, del loro presente."
 keywords: "cdb, rido, cush, ridomc, supacash, bassi, shocca"
 date: 2002-05-30T00:00:00.000+01:00
 author: "Mastro Filinus, Reiser, Leep"
-cover: ""
 pagination:
   enabled: true
 
