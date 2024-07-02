@@ -7,6 +7,8 @@ description: "Il 28 novembre scorso i 99 Posse hanno vinto un premio come miglio
 keywords: "99 posse, 99posse, o'zulu, zulu" 
 date: 2009-12-21T00:00:00.000+02:00
 author: Marta Blumi Tripodi
+cover: "/assets/uploads/99posse.jpeg"
+banner: "/assets/uploads/99posse.jpeg"
 pagination:
   enabled: true
 

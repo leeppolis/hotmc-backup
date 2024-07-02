@@ -7,6 +7,8 @@ description: "Antefatto: qualche anno fa, Dj Gruff ci aveva già rilasciato un'i
 keywords: "dj gruff, sandro orru, sandro orrù"
 date: 2009-11-02T00:00:00.000+01:00
 author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/dj-gruff.jpeg"
+banner: "/assets/uploads/dj-gruff.jpeg"
 pagination:
   enabled: true
 

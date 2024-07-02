@@ -7,6 +7,8 @@ description: "Questi sono fatti è frutto di un'idea di Gruff, che ha voluto con
 keywords: "dj gruff, sandro orru, sandro orrù"
 date: 2010-09-28T00:00:00.000+01:00
 author: "Marta Blumi Tripodi"
+cover: "/assets/uploads/dj-gruff.jpeg"
+banner: "/assets/uploads/dj-gruff.jpeg"
 pagination:
   enabled: true
 
