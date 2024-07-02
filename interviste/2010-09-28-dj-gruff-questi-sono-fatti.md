@@ -1,7 +1,7 @@
 ---
 layout: interviste
 category: Interviste
-title: "Dj Gruff: questi sono i fatti"
+title: "Dj Gruff: questi sono fatti"
 excerpt: "Questi sono fatti è frutto di un'idea di Gruff, che ha voluto condividere tramite Hotmc queste sue considerazioni."
 description: "Questi sono fatti è frutto di un'idea di Gruff, che ha voluto condividere tramite Hotmc queste sue considerazioni"
 keywords: "dj gruff, sandro orru, sandro orrù"
@@ -17,7 +17,7 @@ pagination:
 
 Quella che vi accingete a leggere non è un'intervista, un articolo, una lettera aperta o un editoriale. Non assomiglia a nulla di ciò che abbiamo pubblicato finora, anche (soprattutto) perché l'autore del seguente scritto è dj Gruff. Quello che dovete sapere, in sintesi: Questi sono fatti è frutto di un'idea di Gruff, che ha voluto condividere tramite Hotmc queste sue considerazioni. Per la natura stessa dell'esperimento, le nostre domande sono poche e relative solo a ciò che il diretto interessato ha scritto. Niente fronzoli, perché i fatti sono fatti, ma è sempre bene che ciascuno li interpreti secondo il proprio criterio.
 
-## "questi sono fatti"
+## questi sono fatti
 
 *trovi realmente la ragione di fartene una ragione solo quando centri un ragionamento.*  
 *adattarsi a quello che si trova durante un percorso equivale ad apprendere la verità di quel percorso.*   
