@@ -2,8 +2,8 @@
 layout: interviste
 category: Interviste
 title: "Intervista a Marracash"
-excerpt: "Incontro Marracash al Berlin Café di via Gian Giacomo Mora: mancano pochi giorni al Natale e siamo nell'ora in cui Milano si prepara al rito dell'aperitivo. Parliamo di come si vive e racconta questa città "dal centro ai blocchi", della \"ricchezza ostentata di pochi\", discutiamo di vecchie polemiche e ovviamente di musica, ma anche di cinema e istruzione."
-description: "Incontro Marracash al Berlin Café di via Gian Giacomo Mora: mancano pochi giorni al Natale e siamo nell'ora in cui Milano si prepara al rito dell'aperitivo. Parliamo di come si vive e racconta questa città "dal centro ai blocchi", della \"ricchezza ostentata di pochi\", discutiamo di vecchie polemiche e ovviamente di musica, ma anche di cinema e istruzione."
+excerpt: "Incontro Marracash al Berlin Café di via Gian Giacomo Mora: mancano pochi giorni al Natale e siamo nell'ora in cui Milano si prepara al rito dell'aperitivo. Parliamo di come si vive e racconta questa città \"dal centro ai blocchi\", della \"ricchezza ostentata di pochi\", discutiamo di vecchie polemiche e ovviamente di musica, ma anche di cinema e istruzione."
+description: "Incontro Marracash al Berlin Café di via Gian Giacomo Mora: mancano pochi giorni al Natale e siamo nell'ora in cui Milano si prepara al rito dell'aperitivo. Parliamo di come si vive e racconta questa città \"dal centro ai blocchi\", della \"ricchezza ostentata di pochi\", discutiamo di vecchie polemiche e ovviamente di musica, ma anche di cinema e istruzione."
 keywords: "marracash, dogo gang, berlin, don joe, club dogo, dargen, fame, jake"  
 date: 2006-01-21T00:00:00.000+02:00
 author: Slint
