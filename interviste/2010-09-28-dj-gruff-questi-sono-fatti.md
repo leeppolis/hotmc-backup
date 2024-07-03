@@ -213,8 +213,8 @@ se è cristiana non è democrazia.
 **G.:** si dice che molti giornali siano in mano alla massoneria. 
 difficile capire quali - cosa bolle in pentola ai cittadini medi non è dato sapere. mac donald insegna. 
 il potenziale leader carismatico rimane l'insieme - il modo viene deciso dai fatti. i fatti appunto di quell'insieme. 
-giusto o sbagliato, funziona così - o meglio - "dovrebbe essere così".v
-nota bene - l'insieme esiste e l'assemblamento avviene in automatico.v
+giusto o sbagliato, funziona così - o meglio - "dovrebbe essere così".
+nota bene - l'insieme esiste e l'assemblamento avviene in automatico.
 non esiste uno in grado di decidere per tutti - così come non esiste uno stile che comanda su tutti gli altri stili. sasso carta forbice... un po più in grande ma il senso potrebbe assomigliargli. 
 berlusconi sarebbe il pirla che si difende dicendo che la legge è uguale per tutti? hontoni omoshiroi (veramente divertente/interessante). 
 mi piace pensare che nell'hiphop non ci sono popoli eletti. 
@@ -229,7 +229,7 @@ quando ad un certo punto si scopre che il cuoco si stava abbrustolendo le balle.
 
 **B: Ci tieni a ribadire che la tua decisione di registrare un pezzo con J Ax non c'entra con i soldi. Quindi, qual è il vero motivo che ti ha spinto? Potrei azzardare una motivazione alla Jannacci, "Per vedere di nascosto l'effetto che fa"... Ho ragione?**
 
-**G.:** se tu canti il suo ritornello io ci posso mettere le sue risposte?vediamo... 
+**G.:** se tu canti il suo ritornello io ci posso mettere le sue risposte? vediamo... 
 "...in effetti misteri dentro strani duetti ax e gruff su 2 t  basta che ti connetti sugli scleri ti scotti poi rifletti tra gli specchi gia rotti 
 per logica qui ti fotti senza conoscere i fatti in pratica andate affanculo un po tutti una guerra dove non ci sono i botti come una competizione senza birra in una gara di rutti..." 
 ho pescato queste rime in rete. secondo me chi le ha scritte conosce la costruzione del rap. spero di incontrarlo presto. 
