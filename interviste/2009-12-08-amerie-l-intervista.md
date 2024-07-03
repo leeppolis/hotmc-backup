@@ -4,7 +4,7 @@ category: Interviste
 title: "Amerie: l'intervista"
 excerpt: "Hotmc.com ha avuto modo di intervistare la bellissima e talentuosa voce di DefJam Amerie"
 description: "Hotmc.com ha avuto modo di intervistare la bellissima e talentuosa voce di DefJam Amerie"
-keywords: "alborosie"
+keywords: "amerie"
 date: 2009-12-08T00:00:00.000+01:00
 author: "Haile Anbessa"
 cover: ""
