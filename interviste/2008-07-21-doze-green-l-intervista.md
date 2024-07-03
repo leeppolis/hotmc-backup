@@ -7,8 +7,8 @@ description: "Originario di New York, Doze Green, ai tempi Doze, inizia a diping
 keywords: "doze green, writing, street art, new york"  
 date: 2008-07-21T00:00:00.000+02:00
 author: Georgia FxLd
-cover: "/assets/uploads/dozegreen.jpg"
-banner: "/assets/uploads/dozegreen.jpg"
+cover: "/assets/uploads/dozegreen.jpeg"
+banner: "/assets/uploads/dozegreen.jpeg"
 pagination:
   enabled: true
 
