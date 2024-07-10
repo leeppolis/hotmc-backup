@@ -2,11 +2,11 @@
 layout: interviste
 category: Interviste
 title: "Intervista Lord Bean"
-excerpt: "E' da poco disponibile per il download il suo ultimo lavoro, "Lingua ferita", registrato interamente su strumentali di El-P. In questo incontro serale, Bean ci racconta i retroscena della realizzazione del disco e dice la sua sulla scena attuale."
-description: "E' da poco disponibile per il download il suo ultimo lavoro, "Lingua ferita", registrato interamente su strumentali di El-P. In questo incontro serale, Bean ci racconta i retroscena della realizzazione del disco e dice la sua sulla scena attuale."
-keywords: "lord bean, bean, luca barcellona, el p, el-p, peggy galante"
+excerpt: "E' da poco disponibile per il download il suo ultimo lavoro, \"Lingua ferita\", registrato interamente su strumentali di El-P. In questo incontro serale, Bean ci racconta i retroscena della realizzazione del disco e dice la sua sulla scena attuale."
+description: "E' da poco disponibile per il download il suo ultimo lavoro, \"Lingua ferita\", registrato interamente su strumentali di El-P. In questo incontro serale, Bean ci racconta i retroscena della realizzazione del disco e dice la sua sulla scena attuale."
+keywords: "lord bean, bean, luca barcellona, el p, el-p, peggy galante, rae primo"
 date: 2005-07-03T00:00:00.000+01:00
-author: "Icon, Leep, Marta Blumi Tripodi, Slint, rae primo"
+author: "Icon, Leep, Marta Blumi Tripodi, Slint"
 cover: "/assets/uploads/bean-1.jpeg"
 banner: "/assets/uploads/bean-1.jpeg"
 pagination:
