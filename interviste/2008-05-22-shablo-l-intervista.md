@@ -1,0 +1,69 @@
+---
+layout: interviste
+category: Interviste
+title: "Shablo: l'intervista"
+excerpt: "E' uno dei più noti e apprezzati produttori del panorama hip hop italiano, anche se momentaneamente è in prestito all'Olanda, dove ha ormai preso stabilmente residenza. Da lui ci aspettavamo un album rap, ma ci ha stupito con The Second Feeling, un disco sfaccettato e poliedrico che strizza…"
+quote: ""
+description: "E' uno dei più noti e apprezzati produttori del panorama hip hop italiano, anche se momentaneamente è in prestito all'Olanda, dove ha ormai preso stabilmente residenza. Da lui ci aspettavamo un album rap, ma ci ha stupito con The Second Feeling, un disco sfaccettato e poliedrico che strizza…"
+keywords: "Shablo, Marta Blumi Tripodi"
+date: 2008-05-22T00:00:00.000+02:00
+author: "Marta Blumi Tripodi"
+cover: ""
+banner: ""
+pagination:
+  enabled: true
+
+---
+
+**E' uno dei più noti e apprezzati produttori del panorama hip hop italiano, anche se momentaneamente è in prestito all'Olanda, dove ha ormai preso stabilmente residenza. Da lui ci aspettavamo un album rap, ma ci ha stupito con The Second Feeling, un disco sfaccettato e poliedrico che strizza l'occhio a sonorità soul e urban, spaziando all'interno della black music nella sua più ampia accezione. Lo abbiamo raggiunto al telefono per parlare del suo passato, del suo presente e dei suoi progetti futuri.**
+
+**Blumi: Partiamo dall’inizio: come mai hai deciso di lasciare l’Italia e trasferirti ad Amsterdam? Quanto ha influito questo trasferimento nelle scelte che hai fatto per il disco?
+**
+**Shablo:** In realtà la mia carriera di migrante parte molto prima. Sono nato in Argentina e ho vissuto alcuni anni lì: certo, sono per metà italiano e sento dei legami forti con l’Italia, ma per me è sempre stata una specie di "altro posto" in cui ho abitato per un po’. Già sapevo che prima o poi me ne sarei andato. E quando mi sono deciso, ho scelto Amsterdam perché alcuni miei amici vivevano già qui (le stesse persone che si sono occupate della grafica del mio album e del video di *Count on me*, tra l’altro). Sicuramente il trasferimento ha influito sulla mia musica, ma più a livello personale: nuovi stimoli ed esperienze portano sempre ad arricchire i tuoi input. Inoltre, la scena musicale olandese è molto più aperta di quella italiana: non si procede a compartimenti stagni, è perfettamente normale che un musicista jazz lavori con un rapper o un produttore di elettronica, ad esempio. Questa tendenza mi ha spinto a fare un disco più ibrido, meno definito.
+
+**B: Come mai il titolo* The second feeling*? Sembra quasi che ci fosse un *First feeling* di cui non eravamo a conoscenza…**
+
+**S:** No, non c’è nessun *First feeling*, giuro! (*ride*) In realtà in questo caso non ho inteso second come secondo, ma come altro, diverso dal precedente. Questo disco è molto differente da qualunque cosa io abbia fatto prima, alla base c’è un sentimento e un mood di altro tipo: *The second feeling*, come titolo, chiarisce il concetto. Nella mia musica ci ho sempre messo passione, ma in questo caso è un altro aspetto della mia passione; una sorta di lato B che finora non avevo ancora svelato. E poi, se devo dirlo in tutta onestà, anche il fatto di chiamare il mio primo album second mi piaceva moltissimo!
+
+**B: In effetti in Italia hai sempre lavorato prevalentemente per il rap, mentre quest’ultimo album ha delle forti influenze soul. Come mai questo cambiamento di direzione?
+**
+**S: **Ho iniziato a fare il beatmaker con l’hip hop, non solo perché questo tipo di musica mi appassionava, ma anche perché Bologna è una città con una scena particolarmente viva e prolifica e c’era sempre qualcosa di stimolante su cui lavorare. In un primo momento, in effetti, quest’album doveva essere una compilation rap che comprendesse tutti gli artisti italiani con cui ho sempre lavorato. Diciamo che l’idea è più che altro sfociata in Italian Job, il progetto che da anni io, Shocca e Donjoe abbiamo in testa e che per il momento è in stand-by. Col passare del tempo ho cominciato ad aprirmi a nuove sonorità e concentrarmi esclusivamente sul rap non mi bastava più: passare alla musica black in senso più ampio è il proseguimento naturale del mio percorso.
+
+**B: Quando eri ancora a Bologna non hai mai pensato di lavorare anche con artisti soul italiani?**
+
+**S:** Sono felice di vedere che la scena soul italiana cresce e si sviluppa, nell’ultimo periodo ha fatto passi da gigante. Ma quando nel 2002 ho cominciato a elaborare questo progetto, le realtà valide erano davvero pochissime: era impensabile realizzare un disco solo con i due-tre artisti esistenti. All’epoca, oltretutto, ero convintissimo che fosse un genere di musica non adatto ai bianchi; nella mia testa, un soul italiano fatto da italiani non aveva senso. Col tempo sono diventato un po’ meno integralista, fortunatamente! Magari in futuro lavorerò anche con vocalist di casa nostra, se capiterà l’occasione.
+
+**B: A proposito, parlaci un po’ degli artisti con cui hai lavorato, visto che in Italia non abbiamo ancora avuto occasione di conoscerli…**
+
+**S:** Caprice, che è il cantante di *Count on me*, è originario del Suriname ma è nato e cresciuto ad Amsterdam: ha già pubblicato diversi album ed è piuttosto noto nei Paesi europei dove il soul ha una tradizione più radicata. La critica olandese lo ha paragonato ad Al Green e Curtis Mayfield, ha un’estensione vocale pazzesca. Vaanya Diva l’ho conosciuta anni fa, quando entrambi eravamo in tour con Feel Good Prod. Lei è di Londra: me l’ha presentata Mc Navigator, degli Asian Dub Foundation. Ha origini caraibiche, ma anche lei ha sempre vissuto in Europa. Ricardo Philips, invece, negli ambienti reggae italiani è piuttosto noto grazie al suo progetto, ASK. Grand Agent e Raynge li ho conosciuti quando sono venuti a suonare in Italia, dato che li accompagnavo come dj in diverse tappe, e siamo rimasti in contatto. Diciamo che, oltre ad essere musicisti eccezionalmente validi, sono tutte persone con cui mi trovo molto bene a livello umano e mi faceva piacere coinvolgerli nel progetto. Non sono andato a cercare nomi e personaggi di spicco, ma ho lavorato soprattutto con le persone che avevo già vicino.
+
+**B: Tra l’altro, che differenza c’è secondo te nel produrre un beat per un rapper o per un cantante? Come funzionava la costruzione del brano?**
+
+**S:** Con un rapper è molto più semplice, chiaramente: tu prepari diversi beat, lui ne sceglie uno e l’interazione tra di voi in pratica finisce lì. Anche la creazione stessa del beat comporta un lavoro molto più schematico ed essenziale. Con questo, ovviamente, non voglio sminuire il lavoro del produttore hip hop: la semplicità è un’arma a doppio taglio, perché arrivare a una sonorità potente con i pochi elementi che hai a disposizione spesso è complicatissimo. Lavorare con un cantante è tutta un’altra storia: il beat deve armonizzarsi perfettamente con il vocalist ed entrare in sintonia con il suo stile. Per *The second feeling* non abbiamo lavorato seguendo un metodo preciso, in realtà. In linea di massima davo al cantante la bozza di un beat, che lui utilizzava come scheletro per costruire il brano; dopodichè, una volta che aveva registrato la sua parte, io mi rimettevo al lavoro sulla produzione, aggiungendo il grosso e modellandolo sulla sua voce. Non da solo, tra l’altro: accanto a me lavoravano musicisti, arrangiatori, tecnici del suono… Per un’operazione simile c’era bisogno di un’intera squadra e di molto tempo a disposizione. Tieni conto che la prima registrazione di alcuni pezzi risale al 2002 e li abbiamo rimaneggiati più volte fino a poche settimane prima dell’uscita dell’album.
+
+**B: Avevi mai lavorato affiancato costantemente da strumentisti, prima d’ora? Credi che questo abbia cambiato il tuo modo di produrre?**
+
+**S:** Devo dire che ho sempre apprezzato moltissimo queste contaminazioni tra generi; gruppi come Roots o A Tribe Called Quest sono da sempre uno dei miei principali punti di riferimento. Ho sempre avuto il chiodo fisso in testa di provare a lavorare con dei musicisti veri e propri. Il mio primo esperimento in questo senso risale a quando avevo sedici anni: chiaramente all’epoca i risultati erano stati pessimi! (ride) Più avanti, quando ho cominciato a fare il produttore per mestiere, ho cominciato a relazionarmi con dei musicisti, ma è stato proprio quando sono arrivato ad Amsterdam che la cosa si è fatta più seria e continuativa. Ora come ora lavoro con un team di persone fisse: Andy Birnbaum, tastierista tedesco che da anni collabora con i maggiori gruppi olandesi, e E-The-Hot, che è il mio socio storico, la persona che mi ha fatto appassionare al beatmaking e praticamente il co-produttore del disco. Anche lui si è trasferito ad Amsterdam e da qualche anno abbiamo aperto uno studio insieme. Per quanto riguarda i cambiamenti nel mio modo di produrre, che dire? Non si finisce mai di imparare, i cambiamenti sono fisiologici soprattutto per chi, come noi, si è inventato questo mestiere da autodidatta.
+
+**B: Quindi non hai mai studiato musica in maniera canonica…**
+
+**S:** Ho studiato pianoforte per un po’ e ancora oggi prendo qualche lezione, ma sono davvero al livello base: non sono in grado di suonare, ma conosco quel minimo indispensabile di armonia e di teoria che mi permette di lavorare con i professionisti della musica parlando il loro stesso linguaggio.
+**
+B: Cambiando argomento, possiamo immaginare che l’ambiente discografico di Amsterdam sia molto diverso da quello italiano. Pregi e difetti?**
+
+**S:** Premetto che i motivi del mio trasferimento qui non sono unicamente di carattere musicale, ma più che altro esistenziali; dopo aver visto i risultati delle ultime elezioni italiane, ad esempio, sono sempre più convinto della scelta che ho fatto. Parlando di musica, comunque, come già dicevo l’Olanda è un Paese molto più vivo. Ogni giorno nascono nuovi progetti e anche suonare dal vivo è molto più facile, tant’è che da quando sono qui ho già avuto tantissime occasioni di esibirmi; ho girato moltissimo anche all’estero. Tutto questo, ovviamente, implica che sia molto più facile mantenersi facendo il musicista. Oltretutto sono organizzatissimi: alle spalle di ciascuna band ci sono una decina di persone che si occupano degli aspetti pratici e logistici del progetto. Le etichette indipendenti sono realtà solide e fanno davvero concorrenza alle major, mentre in Italia le due categorie si muovono su piani completamente diversi. Parlando in particolare dell’hip hop, qui già negli anni ’80 esisteva una scena strutturata che raccoglieva migliaia di appassionati, cosa che ha permesso di sviluppare un mercato parecchio avviato e adulto, perché i fan di allora oggi hanno 35/40 anni.
+
+**B: Tutto questo è scoraggiante… Un difetto, almeno?**
+
+**S:** Al di là di tutto, ovviamente Amsterdam non è il paradiso. Il principale lato negativo è che secondo me gli italiani sono molto più creativi rispetto agli olandesi, che essendo fin troppo precisi tolgono spontaneità al prodotto finale. Lo standard in generale è più alto che in Italia, ma ci sono meno picchi di genialità. Dal punto di vista musicale non saprei dire quale realtà è migliore e quale peggiore: sono semplicemente molto diverse.
+
+**B: Il video di *Count on me *è molto bello e delicato, ma mi resta una curiosità: come mai la scelta di inserire le didascalie proprio in francese?**
+
+****
+**S:** Innanzitutto ci tengo a dire che il video è stato concepito e girato da Two Things, un duo di videomaker di Perugia operativi ad Amsterdam da qualche anno e molto famosi da queste parti: hanno girato videoclip per gente come Anouk e Roger Sanchez, per intenderci. Siamo amici da parecchio (da sempre curano tutta la parte grafica dei miei lavori, copertine e siti internet compresi) ed è anche a loro che devo la mia decisione di trasferirmi qui. Per quanto riguarda la scelta delle didascalie, non sei la prima a farmi questa domanda. Inizialmente molti pensavano che fosse la traduzione del testo del brano, ma non è assolutamente così: sono delle citazioni de Il piccolo principe di Antoine de Saint-Exupéry. Ci sembrava carino aggiungere qualcosa che non avesse niente a che vedere con il video in sé, ma che andasse a completarne il significato. Ed è anche un piccolo omaggio alla Francia, di cui apprezziamo moltissimo la musica. Sono comunque felice che il video sia piaciuto e che stia passando anche in Italia, nonostante sia piuttosto diverso dai singoli che in genere vengono scelti per la rotazione. Forse è stata una scelta azzardata, ma ci tenevo che il primo estratto fosse rappresentativo del mio sound.
+
+**B: Un’ultima domanda per i nostalgici: ti rivedremo in Italia per la presentazione di *The second feeling* e, dopo la promozione, tornerai a lavorare con mc italiani?**
+
+**S:** Per quanto riguarda gli mc italiani, non ho mai smesso di lavorare con loro (vedi la mia recente collaborazione con Kaos) né ho intenzione di farlo. Parecchi miei beat sono già in viaggio per l’Italia e nei prossimi mesi manifesterò la mia "presenza" in diversi album. Sottolineo che per me l’hip hop è e resterà sempre importantissimo, non ho nessuna intenzione di rinunciarci, soprattutto quando si parla della scena italiana, che mi ha dato tantissimo e con cui avrò sempre un debito di gratitudine. Parlando invece della promozione di* The second feeling*, ci tengo molto che sia presentato adeguatamente anche in Italia, perciò farò di sicuro tappa nelle principali città. Qualche tempo fa abbiamo fatto un release party qui ad Amsterdam con alcuni degli artisti che hanno partecipato all’album e mi ha convinto a collaudare questa formazione anche in tour: sicuramente Caprice e Vaanya Diva saranno presenze fisse nei miei live. Proprio in questi giorni stiamo definendo le date del tour, perciò aspettatevi di avere mie notizie molto presto.
+
+****

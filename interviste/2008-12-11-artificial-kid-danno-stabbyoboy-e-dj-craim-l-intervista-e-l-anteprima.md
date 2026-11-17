@@ -1,0 +1,86 @@
+---
+layout: interviste
+category: Interviste
+title: "Artificial Kid (Danno, StabbyoBoy e dj Craim): l'intervista e l'anteprima"
+excerpt: "La redazione di Hotmc.com è lieta di poter pubblicare oggi, in anteprima assoluta, l’intervista realizzata al progetto “Artificial Kid”, nato dalla connessione artistica tra Danno, StabbyoBoy e dj Craim. I tre hanno dato vita ad un album futuristico che traccia scenari inquietanti e…"
+quote: ""
+description: "La redazione di Hotmc.com è lieta di poter pubblicare oggi, in anteprima assoluta, l’intervista realizzata al progetto “Artificial Kid”, nato dalla connessione artistica tra Danno, StabbyoBoy e dj Craim. I tre hanno dato vita ad un album futuristico che traccia scenari inquietanti e…"
+keywords: "Artificial Kid, Danno, StabbyoBoy, Craim, Luca Malatesta"
+date: 2008-12-11T00:00:00.000+01:00
+author: "Luca Malatesta"
+cover: ""
+banner: ""
+pagination:
+  enabled: true
+
+---
+
+La redazione di Hotmc.com è lieta di poter pubblicare oggi, in anteprima assoluta, l’intervista realizzata al progetto “**Artificial Kid**”, nato dalla connessione artistica tra Danno, StabbyoBoy e dj Craim. I tre hanno dato vita ad un album futuristico che traccia scenari inquietanti e fantascientifici. Un disco innovativo, per metodo di trattazione delle tematiche e per atmosfere musicali da film avveniristico. Un lavoro che è sicuramente destinato a far parlare di se, nel tempo. Allegata all’intervista (per la quale si ringrazia vivamente il progetto “Artificial Kid” per la disponibilità) troverete un’altra chicca in anteprima per i lettori di Hotmc.com: lo snippet ufficiale del disco.
+
+**Luca Malatesta: Artificial Kid – Numero 47, ovvero Danno, Dj Craim e StabbyoBoy. Come nasce questa sinergia tra di voi? Com’è nata l’idea di avere questa line-up per lavorare al progetto?**
+
+**Danno:** Nasce parecchio per caso…è dal 99, dai tempi delle Scimmie del Deserto che sto in fissa a scrivere rime “cyber” (abbiamo skills nelle mani, menti da Inumani e innesti sotto pelle…) e stavo solo aspettando le basi giuste. Tutto nasce dal pezzo CyberPunkStateOfMind (CPSOM), che è stato il primo del disco ed ha funzionato come detonatore per tutto il resto. Fatto quel pezzo io e Stabbyo ci siamo detti “nun po’ fini’ cosi’…” e siamo andati avanti tirando in mezzo Dj Craim per rendere piu’ completo il quadro…
+
+**L.M.: Domanda per te, Danno: come è nata la voglia/esigenza di intraprendere questo percorso da solo, dal punto di vista compositivo del rap, senza il tuo socio di sempre, Masito?**
+
+**Danno:** Io non ho troppe esigenze di fare qualcosa da solo. Non sono un extraprolifico anzi, scrivo poco e solo quando mi gira. Da bravo romano sono un pigro e necessito sempre di qualcuno che mi dia una spinta per mettermi a “lavorare”. Sono anni che mi chiedono un disco solo mio ma non penso lo farò mai. Sto bene con il Colle e con Masito c’e’ un alichimia perfetta dopo anni e anni di fratellanza e di vita vissuta insieme. Siamo una sorta di mente unica pur mantenendo ognuno le proprie caratteristiche. Mi sono permesso di fare questa cosa chiamata Artificial Kid da solo, solo perché il trip del cyber è una fissa esclusivamente mia. Non avrei mai fatto un disco di rap “classico” da solo, ma in questo caso ho capito che la tematica cyberpunk avrebbe portato il Colle fuori rotta, visto che il Colle ha sempre cercato di rimanere il piu’ possibile con i piedi per terra… io invece, eterno sognatore ed immaginatore di universi paralleli, volevo in qualche modo fare il mio fumetto musicale e ho trovato i giusti compagni per questo viaggio… e siamo partiti…
+
+**L.M.: StabbyoBoy, tu fai parte, se non erro, di Gotaste e KingKong Posse. Quali sono le differenze, espressive e non, tra queste due realtà e Artificial Kid?**
+
+**StabbyoBoy:** Si, sono membro di Gotaste e KKP le quali sono 2 realtà molto diverse. Gotaste è un collettivo di persone di talento alle quali mi sento profondamente legato, KKP è una mega famiglia composta da personaggi notissimi della scena Romana e non. Gotaste e KKP sono due ambienti totalmente differenti e io sono la pecora nera in entrambi. Non ho nessun vincolo artistico e faccio sempre quello che preferisco quindi non avendo vincoli non posso nemmeno trovare differenze espressive tra me e le mie famiglie.
+
+**L.M.: Craim, di te si conoscono le infinite vittorie alle gare di scratch in giro per il mondo. Già nel 2001 le prime soddisfazioni alle battle di Alien Army, eppure sei giovanissimo. Hai ancora 21 anni. Allora ti chiedo, com’è stato relazionarti in questo lavoro con StabbyoBoy e con Danno, che fa rap probabilmente da prima che tu nascessi? Cosa ti ha lasciato quest’esperienza?**
+
+**Craim:** Io ho cominciato a scratchare o comunque ad avere un primo approccio al giradischi a nove anni, quindi nonostante la mia età era già un po’ che ascoltavo questo tipo di musica e seguivo questa scena. Dopo tanti anni di gare ho iniziato a dovermici rapportare: è stato in parte un passaggio abbastanza naturale, e inoltre un enorme onore perchè comunque sono riuscito a lavorare con artisti che sono stati parte della mia adolescenza (se non quasi infanzia). Sinceramente quando Danno mi ha proposto questo progetto non ci ho pensato un secondo, ho accettato a scatola chiusa. E sono stato fortunato perchè oltre a far parte di qualcosa che onestamente in Italia non si è mai sentita, ho incontrato Stabbyo con il quale abbiamo in progetto di lavorare ancora su molte cose assieme.
+
+**L.M.: Quale urgenza comunicativa accomuna gli Artificial Kids? Com’è nata l’idea di questo concept? .**
+
+**Danno:** L’urgenza più grande è stata col pezzo CPSOM. Probabilmente la frase *“sono come un buco nero capace solo di ingoiare tutto quanto fino a quando niente può piu’ farmi male…”* è una delle cose più sincere che ho scritto. Mi guardo intorno e mi rendo conto che assorbo tutto, il bene e il male. Bombardato costantemente da informazioni che la mia mente non sa bene come catalogare e come ordinare, spesso mi sento estremamente confuso, come se avessi perso di vista il confine e non sapessi più bene dove sto vagando. Continuo a camminare, ma la meta non me la ricordo più e il viaggio è più un viaggio da allucinazioni che una serena passeggiata al mare…e il panorama è tutto tranne che rassicurante. A volte mi fa schifo quasi tutto. Se apro gli occhi vedo questa massa informe di gente che si tira a lucido e fa la splendida nei suoi occhiali da sole panoramici, impegnata solo a festeggiare e a brindare non si sa a cosa mentre il pavimento non smette di tremarci sotto i piedi e le fondamenta cominciano a franare ed io non riesco a dirti che non ho paura…
+
+**StabbyoBoy:** Sono anni che ho una particolare percezione delle cose... diciamo anche che sono molto "complottista". Inizialmente pensavo fosse solo una fissa o una meglio nota paranoia e credo la mia musica rispecchi abbastanza chiaramente questo mio stato mentale. Ci sono tante, tante cose ed eventi che mi portano a pensare che le strutture del Sistema siano saggiamente e sottilmente manovrate da qualcuno che ha ben chiaro il percorso che tutti noi crediamo di scegliere in maniera autonoma e arbitraria. Nella mia fase adolescenziale sono sempre stato invitato dai miei a ragionare quanto più possibile in maniera individuale senza mai eccedere nell'egoismo e, accompagnato anche da una fervidissima immaginazione, ho elaborato la mia teoria del così detto NWO (new world order). Con AK io e Danno non abbiamo fatto altro che aprire il vaso di Pandora delle nostre innumerevoli pippe mentali e abbiamo creato la nostra personale colonna sonora del nostro personale film di fantascienza... quotidiana fantascienza.
+
+**Craim:** Le cose di cui parla Danno sono sotto gli occhi di tutti, purtroppo i racconti fantascientifici dei film e dei libri che tutti conosciamo non sono così lontani dalla realtà in cui viviamo oggi. A parer mio le abbiamo raccontate molto bene con i nostri mezzi. Creatività e qualità sono stati per me la parola d'ordine. Come ho già accennato, il progetto è qualcosa di nuovo in Italia: sia per la tipologia delle sonorità, che per i temi affrontati nei testi, che per come sono stati inseriti gli scratch. Per quanto riguarda me, all’inizio dovevo collaborare solo per un paio di canzoni, ma l'idea era troppo bella per non lavorarci sopra a 360 gradi. Il tutto poi è venuto fuori naturalmente. Io e Stefano ci siamo trovati molto bene a collaborare, e il mio apporto fra le sue basi e le rime di Simone rendeva il tutto ancora più fluido. Abbiamo creato un prodotto ben compatto, una piccola opera che ha un inizio, uno svolgimento e una fine.
+
+**L.M.: Capitolo musicale. I beats del disco sono decisamente elettronici. Trasudano suoni sperimentali ad ogni battuta. Quali sono le influenze e gli artisti che hanno condotto gli Artificial Kids su questa via? **
+
+**StabbyoBoy:** La musica Hip Hop rientra nell'ambito della musica elettronica essendo fatta con macchine elettroniche. Sperimentazione... non ho mai capito esattamente cosa significhi ma credo di aver capito l'accezione con cui viene interpretata in Italia: tutto ciò che non si sente sulle produzioni degli altri musicisti nostrani. Io non mi sento di sperimentare nulla, semplicemente mi annoio a sentire lo stesso pattern per 4 minuti di fila; ascoltando tanta musica di ogni genere è facile notare come variazioni, stop and go, modulazioni e distorsioni rappresentano la normalità per creare un lavoro variegato e accattivante. Io utilizzo le stesse macchine che usa la stragrande maggioranza dei produttori di tutto il mondo: campionatori anziani, sintetizzatori e qualche outboard, probabilmente perdo più tempo di altri su ogni singolo suono per renderlo quanto più possibile identificabile come "mio". Naturalmente per concepire l'atmosfera adatta per AK ho sbattuto il muso più e più volte con Danno per capire da principio cosa avesse in mente lui e, parallelamente, capire cosa avessi in mente io (molto più difficile)... Il fatto è che il mood dell'intero lavoro doveva vertere su qualcosa che fosse una sorta di colonna sonora per un film audio; è venuto molto naturale per me pensare a Vangelis in Blade Runner o a Jean Michel Jarre: volevo un disco che suonasse "attempato" a livello di pasta sonora ed ammetto che la difficoltà maggiore è stata proprio quella di rendere l'intero album omogeneo musicalmente. Per rendere il tutto originale il più possibile ho aggiunto molti elementi di musica rock per dare un tiro più duro.
+
+**L.M.: Quanto spazio hanno avuto i campioni e quanto c’è di suonato?**
+
+**StabbyoBoy:** L'80% di quello che sentite è stato campionato e riarrangiato dai e con i sample. C'è meno suono di sintesi di quanto si possa credere e soprattutto c'è tanto tempo speso in editing e ottimizzazione di ogni singolo suono. Molti produttori storceranno il naso davanti a questo mio approccio maniacale per la precisione ma al contrario molti musicisti ci si ritroveranno. Questo album è stato concepito con questo pensiero che mi arrovellava il cervello: potranno dire che non piace ma non potranno dire che è fatto male. Non vi svelerò mai le fonti da cui ho campionato!
+
+**L.M.: Capitolo rap. Il disco è un concentrato apocalittico di visioni reali in chiave tecnologica. L’emblema di ciò sono brani come “Il Sistema” e “Cyber Punk State Of Mind”, due brani che io reputo capolavori. Cosa ti ha spinto a scegliere questa chiave di lettura ultramoderna e futuristica per affrontare i temi delle canzoni?**
+
+**Danno:** Il fatto che dentro di me conservo gelosamente un adolescente nerd cresciuto a film, fumetti e videogiochi, che sogna futuri ipertecnologici fatti di città verticali e di innesti sottocutanei capaci di trasformare gli uomini in macchine. Mi sono nutrito di Blade Runner quanto di Brazil (di T. Gillian), ho assorbito quanto potevo tanto dal Neuromante quanto da 1984, e alla fine tutte queste cose dovevo ributtarle fuori in qualche modo. La chiave del futuro apocalittico e della dittatura mediatica mi sta più che bene, mi ha permesso di dire determinate cose potendole anche un po’ esagerare senza aver paura di risultare troppo “fiction”. È vero che il rap tende a rimanere molto “real”, ma il rap è comunque una musica, e la musica prima di tutto deve scuotere, deve far ridere o far piangere, emozionare…
+
+**L.M.: Le strutture dei pezzi sono spesso anomale. Si trascende dai classici schemi, e sono presenti insert parlati e bridge vari. Com’è stata guidata la composizione dei brani? Quale motivazione vi ha spinto a ricercare anche questo tipo di originalità?**
+
+**Danno:** Quello è solo frutto della nostra deviazione mentale che ci fa lavorare in quel modo bizzarro dove ogni due minuti qualcuno dice “aspè m’e’ venuta n’idea, famme fa sta cosa al volo…” senza neanche pensarci troppo…se la cosa regge si tiene, altrimenti si scarta…e poi nessuno riesce a far fare qualcosa di dritto a Stabbyo. Dopo poco si annoia e comincia a fare la prima modifica, poi la seconda e le base piano piano si trasforma e prende vita…
+
+**StabbyoBoy:** come dice lui...
+
+**L.M.: Come mai avete scelto di non includere featuring?**
+
+**StabbyoBoy:** Sono geloso di Danno e ci è costato troppo far lavorare Craim con noi. Danno: All’inizio volevo Masito, Kaos, Paura e Noyz su questo progetto e ci sarebbe stati tutti bene secondo me. Ognuno avrebbe portato il suo in AK. Ma poi ho capito che non sarebbe venuto fuori quello che avevo in mente io. Io avrei potuto fare altri dodici pezzi in stile AK tanto ho chiaro in mente il futuro che vedo nella mia testa. Ho preferito fare il prezioso, e me ne scuso con i miei amici, e provare per una volta a fare da solo per dire esattamente quello che volevo dire e accollarmi tutto il rischio. Inoltre non volevo fare un disco troppo lungo, ma una cosa breve e concisa, che arrivasse al punto senza strabordare, vista la particolarità del progetto. E poi la realtà è che noi abbiamo fatto il primo pezzo, poi in due giorni abbiamo buttato giù e registrato gli altri, in un modo così veloce che ci siamo ritrovati il disco chiuso praticamente da subito…
+
+**L.M.: Come verrà distribuito il disco? E soprattutto, da cosa è nata la non-scelta dell’etichetta? **
+
+**Danno:** Al momento ti rispondo “autoproduzione fino alla morte” perché ora la penso così. Le etichette piccole purtroppo possono fare poco oltre a quello che possiamo fare noi da soli, e per quanto riguarda le major…beh, quei signori nei piani alti non lavorano come dovrebbero. I pochi con cui ho avuto a che fare mi hanno lasciato perplesso e ho notato che non gli interessa a nessuno che musica fai. Le etichette grosse non lavorano “con” gli artisti. Non li tirano su piano piano aiutandoli a costruirsi una credibilità musicale, li sbattono subito in prima pagina e se vendono 50.000 copie al primo colpo bene, altrimenti arrivederci e grazie. Gli dicono fai così che funziona. Non rischiano e cercano solo il successo sicuro. Un po’ come con Giusy Ferreri che le avranno fatto vedere qualche video di Amy Whinehouse e le avranno detto “cara, tu da oggi sarai così…” e lei da brava marionetta ha ubbidito, si è cambiata l’acconciatura, il look e si è lanciata verso il successo deciso da altri. Io questo vedo. Cercano lo scoop da vendere ai giornali, così i giornali ci ricamano sopra e allora qualcuno forse si interessa al disco e il disco forse riesce a vendere. E questo disco avrebbe anche dei bei ganci per essere sbranato a dovere dai giornalisti o dagli esperti di settore che potrebbero inventarsi bei titoli per un disco che mischia il cyberpunk all’hip hop. Ma non mi interessa granché, preferisco stampare poche copie e faticare il doppio per fare tutto da solo piuttosto che avere a che fare con certa gente… la fatica di aver fatto tutto da soli con “Anima e Ghiaccio” è stata immensa ma anche la soddisfazione che abbiamo avuto in cambio, e ho capito che mi sta bene cosi’. “Dal basso” come si diceva negli anni 90, anche se oggi suona antiquato e fuori moda, discorsi da comunisti, discorsi da perdenti per quei signori che pur prendendosi sempre la percentuale più alta non hanno neanche le palle di rischiare facendo il proprio mestiere…
+
+**Craim:** verremo distribuiti dalla bitch record: daremo una copia del disco a ogni mignotta che si impegnerà a venderlo in allegato al proprio corpo. Faremo il botto!
+
+**L.M.: Quali risvolti futuri ci sono, artisticamente parlando, per il progetto Artificial Kid? La domanda è rivolta al futuro sia in studio, che dal vivo…**
+
+**Danno:** AK è un progetto unico, che non avrà un seguito. Ma avrà una serie di eventi live in cui verrà presentato che spero saranno eventi particolari, con macchinari, strumenti e proiezioni sul palco, così io fatico poco… E poi c’e’ in cantiere il progetto di fare un cortometraggio di animazione con Champa (che cura la parte grafica del progetto AK), un vero e proprio cartone animato di Artifical Kid anche se per ora è solo un’idea…
+
+**L.M.: Volete aggiungere altro?**
+
+**StabbyoBoy:** Altro.
+
+**Danno:** sono sempre d’accordo sull’aggiunta purché si rispetti il giro e si faccia fumare tutti…
+
+**Craim:** Ciao!
+
+Da qui si può usufruire dello snippet in anteprima.
+
+Per la discussione sul forum: http://community.hotmc.com/forum/index.php?topic=2937.0

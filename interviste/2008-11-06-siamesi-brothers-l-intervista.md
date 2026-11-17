@@ -1,0 +1,103 @@
+---
+layout: interviste
+category: Interviste
+title: "Siamesi Brothers: l'intervista"
+excerpt: "Se nell'hip hop italiano esiste una dinastia familiare, è probabilmente quella dei fratelli Cellamaro: tre su tre hanno segnato in maniera indelebile la storia della nostra scena. Le loro produzioni, il loro carisma e il loro impegno costante ci hanno accompagnato per ben più di un decennio. Due…"
+quote: ""
+description: "Se nell'hip hop italiano esiste una dinastia familiare, è probabilmente quella dei fratelli Cellamaro: tre su tre hanno segnato in maniera indelebile la storia della nostra scena. Le loro produzioni, il loro carisma e il loro impegno costante ci hanno accompagnato per ben più di un decennio. Due…"
+keywords: "Siamesi Brothers, Marta Blumi Tripodi"
+date: 2008-11-06T00:00:00.000+01:00
+author: "Marta Blumi Tripodi"
+cover: ""
+banner: ""
+pagination:
+  enabled: true
+
+---
+
+**Se nell'hip hop italiano esiste una dinastia familiare, è probabilmente quella dei fratelli Cellamaro: tre su tre hanno segnato in maniera indelebile la storia della nostra scena. Le loro produzioni, il loro carisma e il loro impegno costante ci hanno accompagnato per ben più di un decennio. Due di loro, Esa e Tormento, escono ora con l'album *Siamesi Brothers*, il primo che realizzano interamente insieme. Hotmc li ha incontrati per fare il punto della situazione.**
+
+**Blumi****: Una domanda che probabilmente vi hanno fatto tutti: perché proprio adesso un album insieme?**
+
+**Esa:** Diciamo che l'occasione non era ancora arrivata. Come musicisti, negli ultimi anni abbiamo avuto la fortuna di passare da un progetto all'altro senza fermarci quasi mai. Quando uno era libero, l'altro era occupatissimo e viceversa, oppure eravamo occupatissimi tutti e due. Fare musica insieme per noi è sempre stato un piacere, tant'è che ciascuno dei due in genere partecipa al lavoro dell'altro almeno con un featuring. Ora, oltre ad avere il tempo materiale, sentivamo davvero l'esigenza artistica di lavorare a un album nostro, forse anche perché nella scena italiana siamo rimasti davvero in pochi a rappresentare la vecchia guardia. C'era la necessità di rimpolpare un filone di rap più adulto, che avesse tematiche di attualità e testi importanti. Con *Siamesi Brothers* abbiamo cercato di fare proprio questo, riflettendo su argomenti d'interesse e cercando di offrire delle soluzioni, nel nostro piccolo. Inizialmente non eravamo sicurissimi che la gente avrebbe capito, ma poi fortunatamente abbiamo ricevuto moltissimi riscontri positivi. Abbiamo tirato un sospiro di sollievo, non per noi stessi, ma perché questo vuol dire che in Italia c'è chi si è stufato di sentir parlare soltanto di cerchioni e catene d'oro...
+
+**B: Come avete strutturato il lavoro? C'era uno schema, uno di voi iniziava quello che l'altro finiva, oppure vi lasciavate trasportare dal singolo momento d'ispirazione?**
+
+**Tormento:** È accaduto tutto molto naturalmente. Forse era proprio questo che ci aveva trattenuto dal progettare un album, finora: la paura di dover programmare troppo, di razionalizzare il tempo in un modo che, per quanto ci riguarda, non sempre è produttivo. La lavorazione di quest'album si basa soprattutto su un punto, ovvero la voglia di stare insieme. È stato il miglior motore che potessimo avere: considera che che già nei primi tre giorni avevamo praticamente completato quattro pezzi. Nel giro di un mese avevamo già in mano gran parte del materiale.
+
+**E:** Nonostante questo, però, le scelte tecniche sono meditate. Abbiamo masterizzato il disco in una maniera forse un po' grezza, ma abbiamo impresso in Siamesi Brothers un suono che difficilmente si sente in giro, di questi tempi. È un tipo di qualità diversa, semplice ma efficace. Anche per quanto riguarda la stampa e la distribuzione abbiamo preferito non affidarci a terzi. Ultimamente ci sono artisti, e non solo in ambito hip hop, che pubblicano il proprio album con una major per poi vendere trecento copie; per noi non ha senso, perciò abbiamo deciso di affrontare il mercato da soli. Accetto il rischio di vendere trecento copie, ma se le vendo da solo perlomeno avrò il piacere di stringere la mano a tutti quelli che lo comprano.
+
+**B: A proposito di questo, voi avete esperienza di tutti i livelli della discografia, dall'autoproduzione alla major passando per l'etichetta indipendente. In un periodo in cui anche il pop fatica a vendere, secondo voi che significato ha la scelta di alcune major di puntare su un genere di nicchia come l'hip hop?**
+
+**E:** Di proposte ne sono arrivate anche a noi; proposte indecenti, oserei dire. Ci terrei a consigliare a tutti gli artisti emergenti di fare attenzione, perché le case discografiche non sono enti di beneficenza e non sempre hanno intenzione di tutelare il musicista.
+
+**T: **Se pensi alla storia di Ray Charles o di Jimi Hendrix, che avevano l'1% di royalties sui propri dischi, ti rendi conto che nulla cambia davvero. Detto questo, quello che più mi dispiace è vedere la poca qualità di certi progetti. Quando un artista giovane registra un disco generalmente non è in grado di realizzare un capolavoro, per ovvie ragioni di inesperienza. Ammettiamo che questo ragazzo abbia delle potenzialità e venga notato da un'etichetta che lo mette sotto contratto. A quel punto, ci si aspetterebbe che grazie ai mezzi e all'esperienza dell'etichetta, si possa perfezionare quel lavoro. Oggi come oggi, invece, è molto raro che la casa discografica fornisca un qualche tipo di supporto, un team di produttori in grado di rendere più efficace il lavoro di un artista emergente. E questo succede soprattutto nell'hip hop, dove non c'è bisogno di arrangiamenti molto sofisticati. Ti presenti all'etichetta con un prodotto che viene rifiutato o accettato a scatola chiusa; non c'è nessun apporto da parte della discografia. E allora che senso ha cercare l'appoggio di una major?
+
+**E:** A volte ho l'impressione che l'esperienza non conti più niente, per i discografici italiani. Perché non sfruttare i vantaggi di una commistione tra vecchio e nuovo? Quando Dr. Dre ha deciso di produrre Eminem, entrambi ne hanno tratto un beneficio: Eminem ha sfruttato la competenza di Dre e Dre ha svecchiato il proprio sound. Avevano bisogno l'uno dell'altro. Se non si arriva a un equilibrio del genere, la musica diventa usa e getta. C'è chi dice che l'hip hop è il nuovo jazz: dimostriamolo, apriamo i nostri orizzonti e rendiamolo un genere duraturo, di spessore. Finché non lo faremo, resteremo un fenomeno marginale.
+
+**T:** Poi ci sarebbe una riflessione più ampia da fare sullo stato del mercato musicale in Italia. Com'è possibile che in Inghilterra un discografico di trent'anni sia vecchio, mentre qui i pochi trentenni sono poco più che stagisti?
+
+**E: **Per non parlare del fatto che si punta pochissimo sugli artisti italiani. Se un live di Snoop Dogg fa cifre da pallottoliere e uno di artisti italiani riesce a portare duemila paganti, perché non organizzarne di più? Ci lamentiamo del fatto che con la musica non si guadagna più, ma non siamo per niente furbi se ci lasciamo sfuggire occasioni come queste.
+
+**B: A proposito di live, perché avete scelto di aprire il disco proprio con *Fammi sentire che bruci,* in cui parlate delle difficoltà di suonare facendovi pagare il giusto? È davvero così difficile far riconoscere agli organizzatori di eventi che gli mc hanno una loro professionalità?**
+
+**E: **In Italia, spesso e volentieri si creano delle situazioni paradossali. Una delle più frequenti è quella che vede gli artisti prendere il posto dei promoter nell'organizzazione degli eventi. In questo caso, se tu mi chiami a suonare in virtù della stima che ci lega, io vengo senza problemi. Sappiamo che si tratta di persone che si danno da fare con un mestiere che non è il loro, senza neppure avere un budget, per colmare un vuoto che sentiamo tutti, visto che le serate ultimamente scarseggiano. Però ci sono una serie di organizzatori semi-professionisti che partono da un concetto totalmente sbagliato: quello del voler guadagnare subito. Chi organizza qualcosa fa un investimento e deve mettere in conto che per un po' potrebbe semplicemente rientrare con le spese o addirittura andare in perdita. Pian piano, però, se il prodotto è valido la situazione migliora. Gli estremi per guadagnare ci sono, perché le serate con artisti italiani di un certo livello fanno ottimi risultati. Il punto, però, è proprio questo: gli artisti sono l'attrattiva principale della tua serata, per cui non puoi risparmiare su di loro. Alcuni ti chiamano a suonare a 700 km di distanza e non si preoccupano neppure di procurarti un posto letto per dormire qualche ora...
+
+**
+B: Tornando nel merito di *Siamesi Brothers*, c'è una traccia in particolare che preferite alle altre? O viceversa, una traccia su cui avete avuto dei disaccordi?**
+
+**T:** Fortunatamente ci siamo sempre trovati d'accordo su tutto! Avendo partecipato in misura uguale alla lavorazione del disco, c'era molto equilibrio tra di noi. Personalmente, comunque, non riuscirei a scegliere la mia traccia preferita. Tutte le tematiche che abbiamo trattato mi stanno molto a cuore.
+
+**E:** Se proprio devo scegliere, scelgo *La mia medicina*.
+
+**T:** Sì, hai ragione!
+
+**E:** Visto che parla di musica, ci rappresenta in pieno, e oltretutto il beat di Shablo ha una freschezza che è difficile trovare nelle produzioni di oggi.
+**
+B: Parlando di ospiti, avete chiamato moltissimi artisti a partecipare al disco, soprattutto tra gli mc. Considerando che avete parecchie conoscenze nella scena e che quindi probabilmente avrete dovuto fare una cernita di chi includere e chi no, con che criterio avete scelto i featuring?**
+
+**E:** In maniera molto naturale, in base alla voglia di lavorare volentieri assieme.
+
+**T:** Spesso era l'argomento del brano o il tipo di beat a richiamare spontaneamente un artista piuttosto che un altro. Altre volte tutto nasceva per caso, da un pomeriggio passato insieme, come è successo nel caso di Primo, che aveva fatto un salto da noi in studio, voleva registrarci uno skit e alla fine ci ha preparato una strofa al volo. Altri, come Inoki e Guè, sono stati coinvolti in maniera molto informale e hanno accettato subito la proposta con piacere.
+**
+B: Tra l'altro, visto che si tratta di un progetto “a conduzione familiare”, perché non avete coinvolto anche Marya? Tutti si aspettavano almeno un suo piccolo contributo...**
+
+**T:** Ci sarebbe piaciuto, ma al momento è impegnatissima su altri fronti. Sta lavorando a un suo disco: un esperimento interamente cantato, con sonorità anni '60 e il supporto di strumentisti molto validi. La voglia di fare musica insieme c'è, ma avendo appena intrapreso questo tipo di ricerca, è concentratissima sulle sue registrazioni.
+
+**E:** Un giorno riusciremo sicuramente a realizzare un progetto che includa tutti e tre i fratelli Cellamaro, ma per ora, per ragioni pratiche, non è ancora stato possibile. Al di là degli assenti, però, lavorare con molti mc diversi è stata una bellissima esperienza, soprattutto perché ci siamo resi conto che esistono ancora tante persone con la voglia di fare musica, persone che ti rispondono di sì con entusiasmo ancora prima di sapere in che tipo di progetto verranno coinvolti. È l'ulteriore dimostrazione del fatto che si tratta di un prodotto di qualità, che vale la pena comprare e supportare. Sono fortemente convinto che Siamesi Brothers sia un lavoro duraturo, che non si usurerà con il tempo. L'idea era quella di intavolare un dibattito con i nostri ascoltatori, un confronto serio su temi attuali e sempre più importanti: senza falsa modestia, credo che ci siamo riusciti. Chiamando a raccolta artisti diversissimi tra loro, oltretutto, abbiamo voluto mostrare che l'unità all'interno della scena non solo è possibile, ma è anche costruttiva. Perdere tempo in scazzi inutili non fa davvero per noi.
+**
+B: Alcune delle vostre scelte però, non sono state capite del tutto. Per quanto riguarda te, Esa, molte persone sembrano non apprezzare il flow delle tue produzioni recenti, e addirittura arrivano a considerare il tuo stile di dieci anni fa più innovativo di quello di adesso. Come replicheresti a queste considerazioni?**
+
+**E: **Ma sì, l'avevamo messo in conto. L'unica cosa che mi sento di dire è che se noi eravamo avanti dieci anni fa, siamo ancora dieci anni in anticipo sulla tabella di marcia, e quindi gli altri arriveranno a capirci con dieci anni di ritardo, probabilmente (*ride*). Parlando seriamente, un artista non può fare musica in base alle richieste del pubblico. Di volta in volta, io ho cercato un'evoluzione coerente con la fase che l'hip hop attraversava in quel momento. Quando ho iniziato a fare rap praticamente non esisteva una scena, perciò prediligevo uno stile più tecnico, che mostrasse che era possibile fare l'mc anche utilizzando l'italiano. Oggi, invece, preferisco puntare su un flow che valorizzi la comunicazione diretta, sacrificando l'estetica al contenuto. Quando ho cominciato a intraprendere questa strada, la scena si era persa in virtuosismi sterili, battaglie di punchline fini a se stesse. Nessuno sembrava ricordare che il cuore dell'hip hop è il messaggio: io ho voluto farlo presente a modo mio. E preannuncio che il mio flow di domani sarà ancora diverso, perciò preparatevi psicologicamente all'idea!
+
+**T: **Spesso la gente non riconosce più il cliché che ha assegnato a un rapper e entra in paranoia: l'evoluzione non è granché apprezzata, in Italia. Altrove, invece, le cose vanno avanti in maniera diversa. Noi cerchiamo di fare riferimento a una visione più globale della musica, sappiamo che all'estero molti la pensano come noi. Qui, invece, il cambiamento sembra inconcepibile.
+
+**E:** È una questione di onestà intellettuale. Il pubblico dovrebbe apprezzare il fatto che non riproponiamo sempre la stessa solfa: per noi sarebbe molto più facile andare sul sicuro e buttarci su un repertorio che ormai funziona da solo. Prendiamo l'hardcore, ad esempio: io sono particolarmente stanco dell'hardcore fiacco, in cui sembra che l'incazzatura sia fine a se stessa. Schiodiamoci da queste abitudini, non hanno più senso.
+**
+B: Effettivamente, forse perché siete tra gli mc più noti e riconoscibili d'Italia, sembra che la gente voglia legarvi per sempre all'immagine che aveva di voi negli anni '90. Non è un po' frustrante essere osannati per i meriti passati, mentre le vostre produzioni presenti vengono quasi sottovalutate?**
+
+**T:** Sì, molti vorrebbero che la mia carriera fosse la continuazione naturale di *Sotto effetto stono*. A ventun anni andavo al Festivalbar e mi divertivo anche, ma oggi, passati i trenta, non sono più interessato a quel tipo di situazione. Andare in televisione e cantare in playback ti dà un sacco di visibilità, ma i traguardi a cui aspiro sono altri. Ho fatto un mio percorso di cui sono molto soddisfatto. In Alibi, ad esempio, ho suonato con musicisti di una caratura pazzesca: il percussionista era lo stesso di *All night long* di Lionel Richie, altri erano i turnisti storici di Prince e Sting... Constatare che quell'album non è stato calcolato minimamente è stata una mazzata, per me. Va bene la nostalgia per i Sottotono, ma non esageriamo! (*ride*) Ma la cosa davvero frustrante è che in Italia la situazione è questa per tutto, non solo per la musica. C'è un'immobilità totale.
+
+**E:** Se abbiamo messo da parte il mainstream, o se il mainstream mette da parte noi, da una parte ben venga, perché noi stessi avevamo l'esigenza di allontanarci. È stata una bella esperienza in quegli anni, ma ora la situazione è completamente diversa. Una volta c'era più collaborazione: quando i Sottotono hanno fatto successo, Torme ha fondato Area Cronica per condividere quel successo con tanti altri artisti validi dell'underground. Se arrivavi a un palco di prestigio, era normale tendere la mano agli altri per invitarli a salire con te. Oggi, invece, quest'abitudine sembra andata persa, tutti sono più egocentrici. Io vorrei cercare di ripristinare questo tipo di logica, ragion per cui sono contento di poter gestire me stesso e la mia musica: ho fondato un'etichetta come Funk Ya Mama proprio per questo motivo.
+
+**B: A proposito di collaborazione, negli ultimi anni avete avuto alcuni chiacchieratissimi scontri con varie realtà dell'ambiente hip hop italiano: in alcuni casi si trattava di artisti (*i dissing di Fabri Fibra contro Tormento, ndr*) e in altri di vere e proprie strutture professionali (*il dissing di Esa contro Groove, ndr*). Vi capita di sentirvi in qualche modo discriminati o trascurati dalla scena?**
+
+**E: **Se capitano queste cose, è perché in molti ci vogliono bene. Nessuno si prenderebbe la briga di parlare così male di noi, se non ci fosse un po' di invidia di fondo. È la conferma che c'è una parte di pubblico che non ci ha mai abbandonato, che ci segue con interesse e che ci considera più innovativi di altri e questo dà fastidio a qualcuno. Quando c'è un attacco così continuativo, è perché qualcuno vuole farsi bello alle spalle di gente che gode di una certa considerazione all'interno della scena. A quelli che vogliono sfruttarci per farsi pubblicità, però, suggerirei di pagarci, anziché prodursi in queste simpatiche performance. (*ride*) Capisco che rompere le palle paghi, in termini di business, perché abbattere una colonna portante dell'hip hop italiano permette di farsi un nome in fretta, però dopo un po' il pubblico, che ci vede più lungo, capisce cosa c'è sotto.
+
+**B: Come dicevamo prima, voi siete tra i rapper più longevi, e quindi “maturi”, presenti nella scena. I vostri coetanei cercano di costruirsi delle certezze e voi, per aver scelto di fare unicamente i musicisti (in ambito hip hop, oltretutto), sicuramente siete in una situazione più precaria. Da questo punto di vista, vi sentite tranquilli o vi capita di preoccuparvi per il futuro?**
+
+**E: **In alcuni ambiti anche noi abbiamo cercato di costruirci delle certezze, come con Funk Ya Mama: un progetto coraggioso, soprattutto perché il budget era limitatissimo. Ho capito dopo che quando si apre un'etichetta, che alla fin fine è una piccola impresa, è meglio non mettersi subito in regola, perché il sistema italiano ti carica di tasse insostenibili per un'attività appena entrata sul mercato. Fortunatamente, anche se l'impresa Funk Ya Mama ha chiuso, il collettivo Funk Ya Mama è ancora attivissimo e sono molto ottimista: stiamo entrando nel terzo anno di attività, che secondo molti studi di marketing è quello in cui i sacrifici cominciano a dare i loro frutti. Se davvero succederà questo, non ci metterò niente a riaprire una partita iva, ricostruendo le mie certezze.
+
+**T:** Pensa che in Olanda, se apri una nuova impresa, per i primi due anni non paghi le tasse. Se ci fossero degli sgravi simili in Italia, soprattutto per quelle imprese che si occupano di cultura, sarebbe molto più semplice per noi avere delle certezze. Comunque c'è da dire che, anche se ogni tanto un po' d'ansia è d'obbligo, non ci sentiamo così folli per aver intrapreso questa strada. Oggi come oggi, tutti i trentacinquenni vivono in una situazione totalmente instabile. Dopo il precariato, stiamo scivolando nell'era dell'*overqualified*: si studia troppo, talmente tanto che nessuno ti assume più perché sei troppo qualificato per il lavoro che dovresti fare.
+
+**E:** In questo momento, che differenza c'è tra un musicista e un operaio, a livello di garanzie? In entrambi i casi, il posto fisso non esiste più.
+
+**T:** Forse questo darà un nuovo impulso vitale alla musica. Molti artisti preferivano aggrapparsi a un lavoro sicuro; ora che non c'è più questa possibilità, magari ricominceranno a puntare sulla propria passione, piuttosto che sulla sicurezza economica.
+
+**B: Progetti futuri?**
+
+**E:** Torme sta lavorando al nuovo disco di Yoshi, che è molto potente, mentre io sto lavorando al mio nuovo album. Tutto ciò che faremo, comprese le produzioni Funk Ya Mama, sarà regolarmente targato Siamesi Distribution: speriamo di allargare il più possibile questo circuito, secondo noi ha delle potenzialità.
+
+**T:** E abbiamo fondato una nostra mini-televisione sul network Mogulus.com, una piattaforma su cui ciascuno può creare il proprio palinsesto. Si chiama One Time TV (www.mogulus.com/1timetv) e passiamo solo video, di quelli che ormai è difficile trovare in circolazione. Un progetto che ci ha divertito tantissimo, invitiamo tutti a darci un'occhiata!
+
+**PER COMMENTARE:** http://community.hotmc.com/forum/index.php?topic=2492.0
